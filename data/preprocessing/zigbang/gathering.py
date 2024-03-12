@@ -55,7 +55,7 @@ def get_aparts():
             df = pd.json_normalize(json_data)
 
             print(df)
-            df.to_csv('apartsInfo.csv', mode='a', index=False, header=not os.path.exists('apartsInfo.csv'),
+            df.to_csv('data/apartsInfo.csv', mode='a', index=False, header=not os.path.exists('data/apartsInfo.csv'),
                       encoding="CP949")
 
             for item in json_data["vrItems"]: # items -> vrItems
@@ -71,7 +71,7 @@ def get_aparts():
                 print("--------------------------")
                 print(json_res)
                 df = pd.json_normalize(json_res)
-                df.to_csv('apartsDetail.csv', mode='a', index=False, header=not os.path.exists('apartsDetail.csv'),
+                df.to_csv('data/apartsDetail.csv', mode='a', index=False, header=not os.path.exists('data/apartsDetail.csv'),
                           encoding="utf-8-sig")
 
 def get_villa():
@@ -92,7 +92,7 @@ def get_villa():
 
             print(df)
             # df.to_csv('villaInfo.csv', index=False, encoding="CP949")
-            df.to_csv('villaInfo.csv', mode='a', index=False, header=not os.path.exists('villaInfo.csv'),
+            df.to_csv('data/villaInfo.csv', mode='a', index=False, header=not os.path.exists('data/villaInfo.csv'),
                       encoding="CP949")
 
             for item in json_data["items"]:
@@ -106,7 +106,7 @@ def get_villa():
                 json_res = res.json()
 
                 df = pd.json_normalize(json_res)
-                df.to_csv('villaDetail.csv', mode='a', index=False, header=not os.path.exists('villaDetail.csv'),
+                df.to_csv('data/villaDetail.csv', mode='a', index=False, header=not os.path.exists('data/villaDetail.csv'),
                           encoding="utf-8-sig")
 
 def get_oneroom():
@@ -126,7 +126,7 @@ def get_oneroom():
             df = pd.json_normalize(json_data)
 
             print(df)
-            df.to_csv('oneroomInfo.csv', mode='a', index=False, header=not os.path.exists('oneroomInfo.csv'),
+            df.to_csv('data/oneroomInfo.csv', mode='a', index=False, header=not os.path.exists('data/oneroomInfo.csv'),
                       encoding="CP949")
 
             for item in json_data["items"]:
@@ -141,7 +141,7 @@ def get_oneroom():
                 print_json_info(json_res)
 
                 df = pd.json_normalize(json_res)
-                df.to_csv('villaDetail.csv', mode='a', index=False, header=not os.path.exists('villaDetail.csv'),
+                df.to_csv('data/villaDetail.csv', mode='a', index=False, header=not os.path.exists('data/villaDetail.csv'),
                           encoding="utf-8-sig")
 
 def get_officetel():
@@ -162,7 +162,7 @@ def get_officetel():
             df = pd.json_normalize(json_data)
 
             print(df)
-            df.to_csv('officetelInfo.csv', mode='a', index=False, header=not os.path.exists('officetelInfo.csv'),
+            df.to_csv('data/officetelInfo.csv', mode='a', index=False, header=not os.path.exists('data/officetelInfo.csv'),
                       encoding="CP949")
 
             for item in json_data["items"]:
@@ -179,7 +179,7 @@ def get_officetel():
                 # 특정 특수문자에서 발생하는 인코딩 오류로 추정됨
 
                 df = pd.json_normalize(json_res)
-                df.to_csv('officetelDetail.csv', mode='a', index=False, header=not os.path.exists('officetelDetail.csv'),
+                df.to_csv('data/officetelDetail.csv', mode='a', index=False, header=not os.path.exists('data/officetelDetail.csv'),
                           encoding="utf-8-sig")
 
 def get_review():
@@ -199,8 +199,8 @@ def print_json_info(json_info):
 
 if __name__ == "__main__":
     print("직방 매물 정보를 크롤링")
-    get_aparts()
-    # get_villa()
+    # get_aparts()
+    get_villa()
     # get_officetel()
     # get_oneroom()
     # main()
