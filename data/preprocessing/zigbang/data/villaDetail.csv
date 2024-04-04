@@ -1,0 +1,998 @@
+﻿agentUserNos,subways,tags,agent.agentTitle,agent.agentAddress,agent.agentPhone,agent.agentIntro,agent.agentUserType,agent.agentName,agent.profileUrl,agent.agentUserNo,agent.hasOtherOpenItems,danji.id,danji.local1,danji.local2,danji.local3,danji.local4,danji.lat,danji.lng,danji.name,danji.총세대수,danji.사용승인일,danji.서비스구분,danji.roadviewLat,danji.roadviewLng,danji.roadviewPan,danji.roadviewTilt,danji.roadview_zoom,item.itemId,item.salesType,item.serviceType,item.images,item.imageThumbnail,item.price.deposit,item.price.rent,item.area.전용면적M2,item.area.계약면적M2,item.roomType,item.title,item.description,item.status,item.randomLocation.lat,item.randomLocation.lng,item.parkingAvailableText,item.parkingCountText,item.elevator,item.roomDirection,item.directionCriterion,item.moveinDate,item.pnu,item.floor.allFloors,item.floor.floor,item.buildingId,item.options,item.manageCost.amount,item.manageCost.includes,item.manageCost.notIncludes,item.isPremium,item.isHomepage,item.hasUserPenalty,item.roomGubunCode,item.viewCount,item.updatedAt,item.approveDate,item.bathroomCount,item.residenceType,item.neighborhoods.distributions,item.neighborhoods.amenities,item.neighborhoods.nearbyPois,item.addressOrigin.local1,item.addressOrigin.local2,item.addressOrigin.local3,item.addressOrigin.local4,item.addressOrigin.fullText,item.addressOrigin.localText,item.jibunAddress,item.자동종료대상,item.상태확인At,item.itemBmType,item.userNo
+[],[],['추천'],나무공인중개사사무소,경기도 김포시 양촌읍 황금로89번길 38 268호 (보람리치타워),15888392,,대표공인중개사,송용의,https://ic.zigbang.com/vp/profile/3006070/91c2eb54fafc7e438f0eae780c18546c39b4d8e8.jpg,3006070,False,79963,경기도,김포시,양촌읍,,37.61765800152509,126.62301899301951,보람리치타워,49,2018. 10,입주2년후,37.61716031943979,126.62291277018421,8.98241,-29.7879,-3,39793667,월세,오피스텔,"['https://ic.zigbang.com/ic/items/39793667/1.jpg', 'https://ic.zigbang.com/ic/items/39793667/2.jpg', 'https://ic.zigbang.com/ic/items/39793667/3.jpg', 'https://ic.zigbang.com/ic/items/39793667/4.jpg', 'https://ic.zigbang.com/ic/items/39793667/5.jpg', 'https://ic.zigbang.com/ic/items/39793667/6.jpg', 'https://ic.zigbang.com/ic/items/39793667/7.jpg', 'https://ic.zigbang.com/ic/items/39793667/8.jpg', 'https://ic.zigbang.com/ic/items/39793667/9.jpg']",https://ic.zigbang.com/ic/items/39793667/1.jpg,500,40,26.98,42.31,복층형원룸,학운산업단지 중심상가 복층형 오피스텔,"♦구조 / 옵션
+
+-복층형 원룸
+
+- 냉장고, 세탁기, 에어컨, TV(42""), 암막커튼, 블라인드등 풀옵션 제공
+
+- 티비 인터넷은 관리비에 포함
+
+",open,37.61739898700462,126.62332882434718,주차 가능,세대당 주차 대수 7.14대,True,S,거실,즉시 입주 가능,4157025626129930000,4,3,29342,"['에어컨', '냉장고', '세탁기', '가스레인지', '인덕션', '전자레인지', '옷장', '신발장', '싱크대']",5,"['인터넷', 'TV']","['전기세', '가스', '수도', '난방비']",True,True,False,02,0,2024-03-06 10:48:51,2018년 10월 24일,1,오피스텔,"[{'companyName': '쿠팡', 'kinds': ['로켓배송', '로켓프레시']}, {'companyName': 'SSG', 'kinds': ['새벽배송', '쓱배송']}, {'companyName': '배달의 민족', 'kinds': ['배민1']}, {'companyName': '요기요', 'kinds': ['익스프레스']}]","[{'title': '슬세권', 'description': '편리한 상권'}, {'title': '공세권', 'description': '공원'}, {'title': '학세권', 'description': '학원가 근처'}]","[{'exists': True, 'poiType': '지하철역', 'distance': 2662, 'transport': 'car', 'timeTaken': 192}, {'exists': True, 'poiType': '세탁소', 'distance': 235, 'transport': 'foot', 'timeTaken': 212}, {'exists': True, 'poiType': '카페', 'distance': 68, 'transport': 'foot', 'timeTaken': 61}, {'exists': True, 'poiType': '약국', 'distance': 71, 'transport': 'foot', 'timeTaken': 64}, {'exists': True, 'poiType': '대형마트', 'distance': 2984, 'transport': 'car', 'timeTaken': 215}, {'exists': True, 'poiType': '편의점', 'distance': 80, 'transport': 'foot', 'timeTaken': 72}, {'exists': True, 'poiType': '버스정류장', 'distance': 81, 'transport': 'foot', 'timeTaken': 73}]",경기도,김포시,양촌읍,학운리,경기도 김포시 양촌읍,김포시 양촌읍 학운리,김포시 양촌읍 학운리 2993,False,2024-03-20T01:14:39.000Z,ZIGBANG,3006070
+[],[],['추천'],일등공인중개사사무소,경기도 김포시 양촌읍 황금로70번길 55,0319893999,"-김포 전지역 매물 다수보유
+-원,투룸.쓰리룸/오피스텔/아파트/전월세
+ 실매물  100%만 찾아드립니다.
+
+
+빠른 문의 방법
+1.입주일짜 
+2.부동산 방문시간
+3.보증금 ,월세금액
+4.선호위치.주차.
+5.애완여부
+위의 조건을 문자로 남겨주시면 빠른상담 가능합니다.
+고객님의 소중한 보증금 을 위한 중개사고 방지를위해
+계약시 확실한 설명과 1억 원 공제증서를 제공해드려요",대표공인중개사,박채희,https://ic.zigbang.com/vp/profile/5952924/e396a85a51164a8b6292973b959a51a6babbbbde.jpg,5952924,False,40118498,월세,원룸,"['https://ic.zigbang.com/ic/items/40118498/1.jpg', 'https://ic.zigbang.com/ic/items/40118498/2.jpg', 'https://ic.zigbang.com/ic/items/40118498/3.jpg', 'https://ic.zigbang.com/ic/items/40118498/4.jpg', 'https://ic.zigbang.com/ic/items/40118498/5.jpg', 'https://ic.zigbang.com/ic/items/40118498/6.jpg', 'https://ic.zigbang.com/ic/items/40118498/7.jpg', 'https://ic.zigbang.com/ic/items/40118498/8.jpg', 'https://ic.zigbang.com/ic/items/40118498/9.jpg', 'https://ic.zigbang.com/ic/items/40118498/10.jpg', 'https://ic.zigbang.com/ic/items/40118498/11.jpg', 'https://ic.zigbang.com/ic/items/40118498/12.jpg', 'https://ic.zigbang.com/ic/items/40118498/13.jpg', 'https://ic.zigbang.com/ic/items/40118498/14.jpg', 'https://ic.zigbang.com/ic/items/40118498/15.jpg', 'https://ic.zigbang.com/ic/items/40118498/16.jpg', 'https://ic.zigbang.com/ic/items/40118498/17.jpg', 'https://ic.zigbang.com/ic/items/40118498/18.jpg', 'https://ic.zigbang.com/ic/items/40118498/19.jpg']",https://ic.zigbang.com/ic/items/40118498/1.jpg,500,52,39.67,분리형원룸,ㅁㅁ즉시입주 남향집 투룸ㅁㅁ,"채광좋은 남향집입니다.
+안방에 창문이 2개나 있어서 밝으며
+베란다또한 남향으로 빨래도 잘말라요
+방2개 크고요  화장실도 넓어요",open,37.6196197530334,126.62884445873588,주차 가능,세대당 주차 대수 8대,False,S,거실,즉시 입주 가능,4157025626129280000,4,3,"['에어컨', '냉장고', '세탁기', '가스레인지', '전자레인지', '옷장', '신발장', '싱크대']",8,"['수도', '인터넷', 'TV']","['전기세', '가스', '난방비']",True,True,False,01,0,2024-03-09 13:12:35,20110729,1,단독주택,"[{'companyName': '쿠팡', 'kinds': ['로켓배송', '로켓프레시']}, {'companyName': 'SSG', 'kinds': ['쓱배송']}, {'companyName': '배달의 민족', 'kinds': ['배민1']}, {'companyName': '요기요', 'kinds': ['익스프레스']}]","[{'title': '공세권', 'description': '공원'}, {'title': '학세권', 'description': '학원가 근처'}]","[{'exists': True, 'poiType': '지하철역', 'distance': 2691, 'transport': 'car', 'timeTaken': 194}, {'exists': True, 'poiType': '세탁소', 'distance': 340, 'transport': 'foot', 'timeTaken': 306}, {'exists': True, 'poiType': '카페', 'distance': 320, 'transport': 'foot', 'timeTaken': 288}, {'exists': True, 'poiType': '약국', 'distance': 643, 'transport': 'foot', 'timeTaken': 579}, {'exists': True, 'poiType': '대형마트', 'distance': 2758, 'transport': 'car', 'timeTaken': 199}, {'exists': True, 'poiType': '편의점', 'distance': 154, 'transport': 'foot', 'timeTaken': 139}, {'exists': True, 'poiType': '버스정류장', 'distance': 52, 'transport': 'foot', 'timeTaken': 47}]",경기도,김포시,양촌읍,학운리,경기도 김포시 양촌읍,김포시 양촌읍 학운리,김포시 양촌읍 2928,False,2024-03-17T01:02:42.000Z,ZIGBANG,5952924
+[],[],['추천'],일등공인중개사사무소,경기도 김포시 양촌읍 황금로70번길 55,0319893999,"-김포 전지역 매물 다수보유
+-원,투룸.쓰리룸/오피스텔/아파트/전월세
+ 실매물  100%만 찾아드립니다.
+
+
+빠른 문의 방법
+1.입주일짜 
+2.부동산 방문시간
+3.보증금 ,월세금액
+4.선호위치.주차.
+5.애완여부
+위의 조건을 문자로 남겨주시면 빠른상담 가능합니다.
+고객님의 소중한 보증금 을 위한 중개사고 방지를위해
+계약시 확실한 설명과 1억 원 공제증서를 제공해드려요",대표공인중개사,박채희,https://ic.zigbang.com/vp/profile/5952924/e396a85a51164a8b6292973b959a51a6babbbbde.jpg,5952924,False,40080502,월세,원룸,"['https://ic.zigbang.com/ic/items/40080502/1.jpg', 'https://ic.zigbang.com/ic/items/40080502/2.jpg', 'https://ic.zigbang.com/ic/items/40080502/3.jpg', 'https://ic.zigbang.com/ic/items/40080502/4.jpg', 'https://ic.zigbang.com/ic/items/40080502/5.jpg', 'https://ic.zigbang.com/ic/items/40080502/6.jpg', 'https://ic.zigbang.com/ic/items/40080502/7.jpg', 'https://ic.zigbang.com/ic/items/40080502/8.jpg', 'https://ic.zigbang.com/ic/items/40080502/9.jpg', 'https://ic.zigbang.com/ic/items/40080502/10.jpg']",https://ic.zigbang.com/ic/items/40080502/1.jpg,300,30,19.8,오픈형원룸,채광굿 분리형 풀옵션 깔끔 원룸,"채광이 좋은 방이넓은 풀옵션 원룸이예요
+베란다도 넓구요 베란다에 수납장있어서
+옷장.이불장으로 사용할수 있어요~
+도로변에서도 가깝고 주차도 수월하구요
+중문이 있어 방음.방열에 효과적입니다.
+편의점 2분거리에 있어요.
+주변편의시설(은행,마트,휘트니스클럽,찜질방.식당가.빨래방,커피숍,병원등)
+
+▶ 버스정류장 3분거리- (8601번, 70번, 86번, 7번, 81-1번, 90-1번 따복1 따복4 운행)
+▶대표공인중개사로 믿을수 있는 거래를  위해서 최선을 다하겠습니다.",open,37.620236530034944,126.62942355187347,주차 가능,세대당 주차 대수 8대,False,S,거실,즉시 입주 가능,4157025626129270000,4,2,"['에어컨', '냉장고', '세탁기', '가스레인지', '옷장', '싱크대']",5,"['수도', '인터넷', 'TV']","['전기세', '가스', '난방비']",True,True,False,01,0,2024-03-06 13:10:00,20120810,1,단독주택,"[{'companyName': '쿠팡', 'kinds': ['로켓배송', '로켓프레시']}, {'companyName': 'SSG', 'kinds': ['쓱배송']}, {'companyName': '배달의 민족', 'kinds': ['배민1']}, {'companyName': '요기요', 'kinds': ['익스프레스']}]","[{'title': '공세권', 'description': '공원'}, {'title': '학세권', 'description': '학원가 근처'}]","[{'exists': True, 'poiType': '지하철역', 'distance': 2634, 'transport': 'car', 'timeTaken': 190}, {'exists': True, 'poiType': '세탁소', 'distance': 358, 'transport': 'foot', 'timeTaken': 323}, {'exists': True, 'poiType': '카페', 'distance': 320, 'transport': 'foot', 'timeTaken': 288}, {'exists': True, 'poiType': '약국', 'distance': 662, 'transport': 'foot', 'timeTaken': 596}, {'exists': True, 'poiType': '대형마트', 'distance': 2692, 'transport': 'car', 'timeTaken': 194}, {'exists': True, 'poiType': '편의점', 'distance': 130, 'transport': 'foot', 'timeTaken': 117}, {'exists': True, 'poiType': '버스정류장', 'distance': 28, 'transport': 'foot', 'timeTaken': 25}]",경기도,김포시,양촌읍,학운리,경기도 김포시 양촌읍,김포시 양촌읍 학운리,김포시 양촌읍 2927,False,2024-03-12T08:23:46.000Z,ZIGBANG,5952924
+[],[],[],365공인중개사사무소,경기도 김포시 양촌읍 황금로70번길 53 1층 일부(101호),0319883653,"100% 실매물
+<<최다매물보유>>실매물은 고객님과의 신뢰입니다!!
+
+정말 정직하게 광고를 하고 있습니다.
+허위매물없는 100%실매물/실사진/실제가격으로 신뢰와 믿음을 쌓겠습니다.",대표공인중개사,이정미,https://ic.zigbang.com/vp/profile/3979121/84e6bc46846cf1dba267d552fce4f995ffe8e84c.jpg,3979121,False,40050293,월세,원룸,"['https://ic.zigbang.com/ic/items/40050293/1.jpg', 'https://ic.zigbang.com/ic/items/40050293/2.jpg', 'https://ic.zigbang.com/ic/items/40050293/3.jpg', 'https://ic.zigbang.com/ic/items/40050293/4.jpg', 'https://ic.zigbang.com/ic/items/40050293/5.jpg', 'https://ic.zigbang.com/ic/items/40050293/6.jpg', 'https://ic.zigbang.com/ic/items/40050293/7.jpg']",https://ic.zigbang.com/ic/items/40050293/1.jpg,200,33,26.45,분리형원룸,정남향에 풀옵션 버스정류장1분거리초저렴,"1년 계약일때 금액입니다.
+방크고요~~ 
+장농에~~ 천장 빨래걸이까지~~ 풀~~옵션!!!
+기본에 충실하고, 실속있는 구조의 원룸이라는걸
+보시면 알거에여~
+위치가 너무 좋아서 차량이 없는 분도 
+있는 분도 편안하게 살게 해 주는 그런 집입니다.
+",open,37.62027773442593,126.62561306016238,주차 가능,총 주차 대수 4대,False,S,안방,즉시 입주 가능,4157025626128370000,4,3,"['에어컨', '냉장고', '세탁기', '가스레인지', '옷장', '신발장', '싱크대']",5,"['수도', '인터넷', 'TV']","['전기세', '가스', '난방비']",False,True,False,01,0,2024-03-04 13:27:10,2011.12.29,1,다가구,"[{'companyName': '쿠팡', 'kinds': ['로켓배송', '로켓프레시']}, {'companyName': 'SSG', 'kinds': ['쓱배송']}, {'companyName': '배달의 민족', 'kinds': ['배민1']}, {'companyName': '요기요', 'kinds': ['익스프레스']}]","[{'title': '공세권', 'description': '공원'}, {'title': '학세권', 'description': '학원가 근처'}]","[{'exists': True, 'poiType': '지하철역', 'distance': 2645, 'transport': 'car', 'timeTaken': 190}, {'exists': True, 'poiType': '세탁소', 'distance': 166, 'transport': 'foot', 'timeTaken': 150}, {'exists': True, 'poiType': '카페', 'distance': 408, 'transport': 'foot', 'timeTaken': 368}, {'exists': True, 'poiType': '약국', 'distance': 431, 'transport': 'foot', 'timeTaken': 388}, {'exists': True, 'poiType': '대형마트', 'distance': 2691, 'transport': 'car', 'timeTaken': 194}, {'exists': True, 'poiType': '편의점', 'distance': 18, 'transport': 'foot', 'timeTaken': 16}, {'exists': True, 'poiType': '버스정류장', 'distance': 85, 'transport': 'foot', 'timeTaken': 77}]",경기도,김포시,양촌읍,학운리,경기도 김포시 양촌읍,김포시 양촌읍 학운리,김포시 양촌읍 2837,False,2024-03-21T05:03:11.000Z,ZIGBANG,3979121
+[],[],[],일등공인중개사사무소,경기도 김포시 양촌읍 황금로70번길 55,0319893999,"-김포 전지역 매물 다수보유
+-원,투룸.쓰리룸/오피스텔/아파트/전월세
+ 실매물  100%만 찾아드립니다.
+
+
+빠른 문의 방법
+1.입주일짜 
+2.부동산 방문시간
+3.보증금 ,월세금액
+4.선호위치.주차.
+5.애완여부
+위의 조건을 문자로 남겨주시면 빠른상담 가능합니다.
+고객님의 소중한 보증금 을 위한 중개사고 방지를위해
+계약시 확실한 설명과 1억 원 공제증서를 제공해드려요",대표공인중개사,박채희,https://ic.zigbang.com/vp/profile/5952924/e396a85a51164a8b6292973b959a51a6babbbbde.jpg,5952924,False,40005436,월세,원룸,"['https://ic.zigbang.com/ic/items/40005436/1.jpg', 'https://ic.zigbang.com/ic/items/40005436/2.jpg', 'https://ic.zigbang.com/ic/items/40005436/3.jpg', 'https://ic.zigbang.com/ic/items/40005436/4.jpg', 'https://ic.zigbang.com/ic/items/40005436/5.jpg', 'https://ic.zigbang.com/ic/items/40005436/6.jpg', 'https://ic.zigbang.com/ic/items/40005436/7.jpg', 'https://ic.zigbang.com/ic/items/40005436/8.jpg', 'https://ic.zigbang.com/ic/items/40005436/9.jpg', 'https://ic.zigbang.com/ic/items/40005436/10.jpg', 'https://ic.zigbang.com/ic/items/40005436/11.jpg', 'https://ic.zigbang.com/ic/items/40005436/12.jpg', 'https://ic.zigbang.com/ic/items/40005436/13.jpg', 'https://ic.zigbang.com/ic/items/40005436/14.jpg']",https://ic.zigbang.com/ic/items/40005436/1.jpg,300,32,19.83,분리형원룸,엘베있는 이젠산업단지가까운 풀옵션 원룸,"엘베있는 편의시설 가까운곳에 
+위치한 풀옵션 분리형 구조로
+여성분들이 선호하시는 원룸이예요
+건물관리가 잘되어있어 깨끗하며 버스정류장도 가까워요
+위치 및 교통
+8601 광역버스(서울까지 30분)
+차량 10분거리 구래역과 인천 검단사거리역 
+(8601번, 70번, 86번, 7번, 81-1번, 90-1번 따복1 따복4 운행)
+주차및 편의시설
+주차 걱정no no
+은행.마트 ,병원,약국.찜질방.휘트니스클럽.식당가.골프존등
+기본편의시설 다 있어요.
+",open,37.6198122529875,126.62308697220298,주차 가능,세대당 주차 대수 18대,True,W,안방,즉시 입주 가능,4157025626128110000,4,2,"['에어컨', '냉장고', '세탁기', '가스레인지', '옷장', '신발장', '싱크대']",8,"['수도', '인터넷', 'TV']","['전기세', '가스', '난방비']",True,False,01,0,2024-02-29 12:06:54,2015.12.23,1,단독주택,"[{'companyName': '쿠팡', 'kinds': ['로켓배송', '로켓프레시']}, {'companyName': 'SSG', 'kinds': ['쓱배송']}, {'companyName': '배달의 민족', 'kinds': ['배민1']}, {'companyName': '요기요', 'kinds': ['익스프레스']}]","[{'title': '슬세권', 'description': '편리한 상권'}, {'title': '공세권', 'description': '공원'}, {'title': '학세권', 'description': '학원가 근처'}]","[{'exists': True, 'poiType': '지하철역', 'distance': 2566, 'transport': 'car', 'timeTaken': 185}, {'exists': True, 'poiType': '세탁소', 'distance': 238, 'transport': 'foot', 'timeTaken': 214}, {'exists': True, 'poiType': '카페', 'distance': 226, 'transport': 'foot', 'timeTaken': 204}, {'exists': True, 'poiType': '약국', 'distance': 302, 'transport': 'foot', 'timeTaken': 272}, {'exists': True, 'poiType': '대형마트', 'distance': 2714, 'transport': 'car', 'timeTaken': 195}, {'exists': True, 'poiType': '편의점', 'distance': 205, 'transport': 'foot', 'timeTaken': 185}, {'exists': True, 'poiType': '버스정류장', 'distance': 136, 'transport': 'foot', 'timeTaken': 123}]",경기도,김포시,양촌읍,학운리,경기도 김포시 양촌읍,김포시 양촌읍 학운리,김포시 양촌읍 2811,False,2024-02-29T03:06:54.000Z,ZIGBANG,5952924
+[],[],[],일등공인중개사사무소,경기도 김포시 양촌읍 황금로70번길 55,0319893999,"-김포 전지역 매물 다수보유
+-원,투룸.쓰리룸/오피스텔/아파트/전월세
+ 실매물  100%만 찾아드립니다.
+
+
+빠른 문의 방법
+1.입주일짜 
+2.부동산 방문시간
+3.보증금 ,월세금액
+4.선호위치.주차.
+5.애완여부
+위의 조건을 문자로 남겨주시면 빠른상담 가능합니다.
+고객님의 소중한 보증금 을 위한 중개사고 방지를위해
+계약시 확실한 설명과 1억 원 공제증서를 제공해드려요",대표공인중개사,박채희,https://ic.zigbang.com/vp/profile/5952924/e396a85a51164a8b6292973b959a51a6babbbbde.jpg,5952924,False,40168179,월세,원룸,"['https://ic.zigbang.com/ic/items/40168179/1.jpg', 'https://ic.zigbang.com/ic/items/40168179/2.jpg', 'https://ic.zigbang.com/ic/items/40168179/3.jpg', 'https://ic.zigbang.com/ic/items/40168179/4.jpg', 'https://ic.zigbang.com/ic/items/40168179/5.jpg', 'https://ic.zigbang.com/ic/items/40168179/6.jpg', 'https://ic.zigbang.com/ic/items/40168179/7.jpg', 'https://ic.zigbang.com/ic/items/40168179/8.jpg', 'https://ic.zigbang.com/ic/items/40168179/9.jpg', 'https://ic.zigbang.com/ic/items/40168179/10.jpg', 'https://ic.zigbang.com/ic/items/40168179/11.jpg', 'https://ic.zigbang.com/ic/items/40168179/12.jpg', 'https://ic.zigbang.com/ic/items/40168179/13.jpg', 'https://ic.zigbang.com/ic/items/40168179/14.jpg']",https://ic.zigbang.com/ic/items/40168179/1.jpg,300,30,19.83,분리형원룸,막힘없는뷰  FULL옵션원룸,"저렴하고 혼자살면서 확트인 분리형 원룸.
+세탁실.주방 중문설치로 방음.방열에 효과적이예요
+신축 풀옵션이구요~
+필로티 구조로 주차 또한 문제없어요
+주변 편의시설 좋구요(은행.마트.편의점.찜질방.휘트니스클럽.병원.약국.식당가등)
+버스정류장 3분거리.(8601번, 70번, 86번, 7번, 81-1번, 90-1번 따복1 따복4 운행)
+
+",open,37.620138127598004,126.62590972387197,주차 가능,세대당 주차 대수 8대,False,NW,안방,즉시 입주 가능,4157025626128290000,4,2,"['에어컨', '냉장고', '세탁기', '인덕션', '신발장', '싱크대']",5,"['수도', '인터넷', 'TV']","['전기세', '가스', '난방비']",True,False,01,0,2024-03-13 15:52:49,2016.08.24,1,단독주택,"[{'companyName': '쿠팡', 'kinds': ['로켓배송', '로켓프레시']}, {'companyName': 'SSG', 'kinds': ['쓱배송']}, {'companyName': '배달의 민족', 'kinds': ['배민1']}, {'companyName': '요기요', 'kinds': ['익스프레스']}]","[{'title': '공세권', 'description': '공원'}, {'title': '학세권', 'description': '학원가 근처'}]","[{'exists': True, 'poiType': '지하철역', 'distance': 2618, 'transport': 'car', 'timeTaken': 188}, {'exists': True, 'poiType': '세탁소', 'distance': 211, 'transport': 'foot', 'timeTaken': 190}, {'exists': True, 'poiType': '카페', 'distance': 447, 'transport': 'foot', 'timeTaken': 403}, {'exists': True, 'poiType': '약국', 'distance': 475, 'transport': 'foot', 'timeTaken': 428}, {'exists': True, 'poiType': '대형마트', 'distance': 2650, 'transport': 'car', 'timeTaken': 191}, {'exists': True, 'poiType': '편의점', 'distance': 58, 'transport': 'foot', 'timeTaken': 52}, {'exists': True, 'poiType': '버스정류장', 'distance': 124, 'transport': 'foot', 'timeTaken': 112}]",경기도,김포시,양촌읍,학운리,경기도 김포시 양촌읍,김포시 양촌읍 학운리,김포시 양촌읍 2829,False,2024-03-13T06:52:49.000Z,ZIGBANG,5952924
+[],[],[],일등공인중개사사무소,경기도 김포시 양촌읍 황금로70번길 55,0319893999,"-김포 전지역 매물 다수보유
+-원,투룸.쓰리룸/오피스텔/아파트/전월세
+ 실매물  100%만 찾아드립니다.
+
+
+빠른 문의 방법
+1.입주일짜 
+2.부동산 방문시간
+3.보증금 ,월세금액
+4.선호위치.주차.
+5.애완여부
+위의 조건을 문자로 남겨주시면 빠른상담 가능합니다.
+고객님의 소중한 보증금 을 위한 중개사고 방지를위해
+계약시 확실한 설명과 1억 원 공제증서를 제공해드려요",대표공인중개사,박채희,https://ic.zigbang.com/vp/profile/5952924/e396a85a51164a8b6292973b959a51a6babbbbde.jpg,5952924,False,39921328,월세,원룸,"['https://ic.zigbang.com/ic/items/39921328/1.jpg', 'https://ic.zigbang.com/ic/items/39921328/2.jpg', 'https://ic.zigbang.com/ic/items/39921328/3.jpg', 'https://ic.zigbang.com/ic/items/39921328/4.jpg', 'https://ic.zigbang.com/ic/items/39921328/5.jpg', 'https://ic.zigbang.com/ic/items/39921328/6.jpg', 'https://ic.zigbang.com/ic/items/39921328/7.jpg', 'https://ic.zigbang.com/ic/items/39921328/8.jpg']",https://ic.zigbang.com/ic/items/39921328/1.jpg,300,30,19.83,오픈형원룸,엘베있는 풀옵션 원룸,"이젠몰 가까운곳에 위치해있으며
+엘레베이터가 있어서 힘들지않아요
+건물관리가 잘되어있어서 깔끔합니다.
+베란다에 붙박이장이 있어서 수납하기도 좋아요",open,37.62066009395883,126.62358084583806,주차 가능,세대당 주차 대수 10대,True,W,안방,즉시 입주 가능,4157025626127990000,4,2,"['에어컨', '냉장고', '세탁기', '가스레인지', '옷장', '신발장', '싱크대']",5,"['수도', '인터넷', 'TV']","['전기세', '가스', '난방비']",True,False,01,0,2024-02-22 13:18:46,20110728,1,단독주택,"[{'companyName': '쿠팡', 'kinds': ['로켓배송', '로켓프레시']}, {'companyName': 'SSG', 'kinds': ['쓱배송']}, {'companyName': '배달의 민족', 'kinds': ['배민1']}, {'companyName': '요기요', 'kinds': ['익스프레스']}]","[{'title': '슬세권', 'description': '편리한 상권'}, {'title': '공세권', 'description': '공원'}, {'title': '학세권', 'description': '학원가 근처'}]","[{'exists': True, 'poiType': '지하철역', 'distance': 2527, 'transport': 'car', 'timeTaken': 182}, {'exists': True, 'poiType': '세탁소', 'distance': 273, 'transport': 'foot', 'timeTaken': 246}, {'exists': True, 'poiType': '카페', 'distance': 247, 'transport': 'foot', 'timeTaken': 223}, {'exists': True, 'poiType': '약국', 'distance': 332, 'transport': 'foot', 'timeTaken': 299}, {'exists': True, 'poiType': '대형마트', 'distance': 2680, 'transport': 'car', 'timeTaken': 193}, {'exists': True, 'poiType': '편의점', 'distance': 221, 'transport': 'foot', 'timeTaken': 199}, {'exists': True, 'poiType': '버스정류장', 'distance': 157, 'transport': 'foot', 'timeTaken': 141}]",경기도,김포시,양촌읍,학운리,경기도 김포시 양촌읍,김포시 양촌읍 학운리,김포시 양촌읍 2799,False,2024-02-22T04:18:46.000Z,ZIGBANG,5952924
+[],[],[],일등공인중개사사무소,경기도 김포시 양촌읍 황금로70번길 55,0319893999,"-김포 전지역 매물 다수보유
+-원,투룸.쓰리룸/오피스텔/아파트/전월세
+ 실매물  100%만 찾아드립니다.
+
+
+빠른 문의 방법
+1.입주일짜 
+2.부동산 방문시간
+3.보증금 ,월세금액
+4.선호위치.주차.
+5.애완여부
+위의 조건을 문자로 남겨주시면 빠른상담 가능합니다.
+고객님의 소중한 보증금 을 위한 중개사고 방지를위해
+계약시 확실한 설명과 1억 원 공제증서를 제공해드려요",대표공인중개사,박채희,https://ic.zigbang.com/vp/profile/5952924/e396a85a51164a8b6292973b959a51a6babbbbde.jpg,5952924,False,40119977,월세,원룸,"['https://ic.zigbang.com/ic/items/40119977/1.jpg', 'https://ic.zigbang.com/ic/items/40119977/2.jpg', 'https://ic.zigbang.com/ic/items/40119977/3.jpg', 'https://ic.zigbang.com/ic/items/40119977/4.jpg', 'https://ic.zigbang.com/ic/items/40119977/5.jpg', 'https://ic.zigbang.com/ic/items/40119977/6.jpg', 'https://ic.zigbang.com/ic/items/40119977/7.jpg', 'https://ic.zigbang.com/ic/items/40119977/8.jpg', 'https://ic.zigbang.com/ic/items/40119977/9.jpg', 'https://ic.zigbang.com/ic/items/40119977/10.jpg']",https://ic.zigbang.com/ic/items/40119977/1.jpg,300,30,23.14,분리형원룸,ㅁㅁ이젠 산업단지 가까운 풀옵션 원룸ㅁㅁ,"이젠산업단지 가까운곳에 위치해있으며
+풀옵션이며 큰창이있어 채광또한 좋아요
+화장실.주방 창문이 있어 환기.습기걱정 없어요
+주차및 편의시설
+주차 걱정no no
+은행.마트 ,병원,약국.찜질방.휘트니스클럽.식당가.골프존등
+기본편의시설 다 있어요.
+
+위치 및 교통
+8601 광역버스(서울까지 30분)
+차량 10분거리 구래역과 인천 검단사거리역 
+(8601번, 70번, 86번, 7번, 81-1번, 90-1번 따복1 따복4 운행)
+",open,37.62065006549354,126.62372245025334,주차 가능,세대당 주차 대수 8대,False,SW,안방,즉시 입주 가능,4157025626128060000,4,4,"['에어컨', '냉장고', '세탁기', '가스레인지', '신발장', '싱크대']",5,"['수도', '인터넷', 'TV']","['전기세', '가스', '난방비']",True,False,01,0,2024-03-09 13:12:51,2011.11.10,1,단독주택,"[{'companyName': '쿠팡', 'kinds': ['로켓배송', '로켓프레시']}, {'companyName': 'SSG', 'kinds': ['쓱배송']}, {'companyName': '배달의 민족', 'kinds': ['배민1']}, {'companyName': '요기요', 'kinds': ['익스프레스']}]","[{'title': '공세권', 'description': '공원'}, {'title': '학세권', 'description': '학원가 근처'}]","[{'exists': True, 'poiType': '지하철역', 'distance': 2545, 'transport': 'car', 'timeTaken': 183}, {'exists': True, 'poiType': '세탁소', 'distance': 236, 'transport': 'foot', 'timeTaken': 213}, {'exists': True, 'poiType': '카페', 'distance': 290, 'transport': 'foot', 'timeTaken': 261}, {'exists': True, 'poiType': '약국', 'distance': 358, 'transport': 'foot', 'timeTaken': 323}, {'exists': True, 'poiType': '대형마트', 'distance': 2667, 'transport': 'car', 'timeTaken': 192}, {'exists': True, 'poiType': '편의점', 'distance': 159, 'transport': 'foot', 'timeTaken': 143}, {'exists': True, 'poiType': '버스정류장', 'distance': 117, 'transport': 'foot', 'timeTaken': 105}]",경기도,김포시,양촌읍,학운리,경기도 김포시 양촌읍,김포시 양촌읍 학운리,김포시 양촌읍 2806,False,2024-03-09T04:12:51.000Z,ZIGBANG,5952924
+[],[],['추천'],일등공인중개사사무소,경기도 김포시 양촌읍 황금로70번길 55,0319893999,"-김포 전지역 매물 다수보유
+-원,투룸.쓰리룸/오피스텔/아파트/전월세
+ 실매물  100%만 찾아드립니다.
+
+
+빠른 문의 방법
+1.입주일짜 
+2.부동산 방문시간
+3.보증금 ,월세금액
+4.선호위치.주차.
+5.애완여부
+위의 조건을 문자로 남겨주시면 빠른상담 가능합니다.
+고객님의 소중한 보증금 을 위한 중개사고 방지를위해
+계약시 확실한 설명과 1억 원 공제증서를 제공해드려요",대표공인중개사,박채희,https://ic.zigbang.com/vp/profile/5952924/e396a85a51164a8b6292973b959a51a6babbbbde.jpg,5952924,False,40243758,월세,원룸,"['https://ic.zigbang.com/ic/items/40243758/1.jpg', 'https://ic.zigbang.com/ic/items/40243758/2.jpg', 'https://ic.zigbang.com/ic/items/40243758/3.jpg', 'https://ic.zigbang.com/ic/items/40243758/4.jpg', 'https://ic.zigbang.com/ic/items/40243758/5.jpg', 'https://ic.zigbang.com/ic/items/40243758/6.jpg', 'https://ic.zigbang.com/ic/items/40243758/7.jpg', 'https://ic.zigbang.com/ic/items/40243758/8.jpg', 'https://ic.zigbang.com/ic/items/40243758/9.jpg', 'https://ic.zigbang.com/ic/items/40243758/10.jpg', 'https://ic.zigbang.com/ic/items/40243758/11.jpg', 'https://ic.zigbang.com/ic/items/40243758/12.jpg', 'https://ic.zigbang.com/ic/items/40243758/13.jpg', 'https://ic.zigbang.com/ic/items/40243758/14.jpg']",https://ic.zigbang.com/ic/items/40243758/1.jpg,200,30,23.14,오픈형원룸,저렴한 보증금  착한월세원룸,"편의시설 가까운곳에 위치해있으며
+조용한곳.주차편리해요.
+풀옵션으로 바로 입주가능하구요~
+
+
+주차및 편의시설
+주차 걱정no no
+은행.마트 ,병원,약국.찜질방.휘트니스클럽.식당가.골프존등
+기본편의시설 다 있어요.
+",open,37.62079639990092,126.62645857802474,주차 가능,세대당 주차 대수 8대,False,N,안방,2024. 03. 16 이후 입주 가능,4157025626128500000,4,4,"['에어컨', '냉장고', '세탁기', '가스레인지', '옷장', '신발장', '싱크대']",5,"['수도', '인터넷', 'TV']","['전기세', '가스', '난방비']",True,True,False,01,0,2024-03-20 10:54:05,20111125,1,단독주택,"[{'companyName': '쿠팡', 'kinds': ['로켓배송', '로켓프레시']}, {'companyName': 'SSG', 'kinds': ['쓱배송']}, {'companyName': '배달의 민족', 'kinds': ['배민1']}, {'companyName': '요기요', 'kinds': ['익스프레스']}]","[{'title': '공세권', 'description': '공원'}, {'title': '학세권', 'description': '학원가 근처'}]","[{'exists': True, 'poiType': '지하철역', 'distance': 2623, 'transport': 'car', 'timeTaken': 189}, {'exists': True, 'poiType': '세탁소', 'distance': 246, 'transport': 'foot', 'timeTaken': 222}, {'exists': True, 'poiType': '카페', 'distance': 498, 'transport': 'foot', 'timeTaken': 449}, {'exists': True, 'poiType': '약국', 'distance': 522, 'transport': 'foot', 'timeTaken': 470}, {'exists': True, 'poiType': '대형마트', 'distance': 2631, 'transport': 'car', 'timeTaken': 189}, {'exists': True, 'poiType': '편의점', 'distance': 93, 'transport': 'foot', 'timeTaken': 84}, {'exists': True, 'poiType': '버스정류장', 'distance': 174, 'transport': 'foot', 'timeTaken': 157}]",경기도,김포시,양촌읍,학운리,경기도 김포시 양촌읍,김포시 양촌읍 학운리,김포시 양촌읍 2850,False,2024-03-21T06:24:38.000Z,ZIGBANG,5952924
+[],[],[],일등공인중개사사무소,경기도 김포시 양촌읍 황금로70번길 55,0319893999,"-김포 전지역 매물 다수보유
+-원,투룸.쓰리룸/오피스텔/아파트/전월세
+ 실매물  100%만 찾아드립니다.
+
+
+빠른 문의 방법
+1.입주일짜 
+2.부동산 방문시간
+3.보증금 ,월세금액
+4.선호위치.주차.
+5.애완여부
+위의 조건을 문자로 남겨주시면 빠른상담 가능합니다.
+고객님의 소중한 보증금 을 위한 중개사고 방지를위해
+계약시 확실한 설명과 1억 원 공제증서를 제공해드려요",대표공인중개사,박채희,https://ic.zigbang.com/vp/profile/5952924/e396a85a51164a8b6292973b959a51a6babbbbde.jpg,5952924,False,39981081,월세,원룸,"['https://ic.zigbang.com/ic/items/39981081/1.jpg', 'https://ic.zigbang.com/ic/items/39981081/2.jpg', 'https://ic.zigbang.com/ic/items/39981081/3.jpg', 'https://ic.zigbang.com/ic/items/39981081/4.jpg', 'https://ic.zigbang.com/ic/items/39981081/5.jpg', 'https://ic.zigbang.com/ic/items/39981081/6.jpg', 'https://ic.zigbang.com/ic/items/39981081/7.jpg', 'https://ic.zigbang.com/ic/items/39981081/8.jpg', 'https://ic.zigbang.com/ic/items/39981081/9.jpg', 'https://ic.zigbang.com/ic/items/39981081/10.jpg', 'https://ic.zigbang.com/ic/items/39981081/11.jpg', 'https://ic.zigbang.com/ic/items/39981081/12.jpg', 'https://ic.zigbang.com/ic/items/39981081/13.jpg', 'https://ic.zigbang.com/ic/items/39981081/14.jpg', 'https://ic.zigbang.com/ic/items/39981081/15.jpg', 'https://ic.zigbang.com/ic/items/39981081/16.jpg']",https://ic.zigbang.com/ic/items/39981081/1.jpg,500,53,39.67,분리형원룸,남향집 살림가능한 넓은방,"주방바로옆 창문이있어서
+음식냄새걱정없구요
+식탁놓을자리도 충분합니다
+남향집으로 안방이 무지넓어서 킹사이즈침대 옷장다가능해요
+베란다도 넓어서 빨래널기도 좋습니다.",open,37.62084048591561,126.62737221596309,주차 불가능,False,S,안방,즉시 입주 가능,4157025626128690000,4,3,"['에어컨', '세탁기', '가스레인지', '신발장', '싱크대']",7,"['수도', '인터넷', 'TV']","['전기세', '가스', '난방비']",False,True,False,01,0,2024-03-06 13:09:08,20110317,1,단독주택,"[{'companyName': '쿠팡', 'kinds': ['로켓배송', '로켓프레시']}, {'companyName': 'SSG', 'kinds': ['쓱배송']}, {'companyName': '배달의 민족', 'kinds': ['배민1']}, {'companyName': '요기요', 'kinds': ['익스프레스']}]","[{'title': '공세권', 'description': '공원'}, {'title': '학세권', 'description': '학원가 근처'}]","[{'exists': True, 'poiType': '지하철역', 'distance': 2637, 'transport': 'car', 'timeTaken': 190}, {'exists': True, 'poiType': '세탁소', 'distance': 300, 'transport': 'foot', 'timeTaken': 270}, {'exists': True, 'poiType': '카페', 'distance': 449, 'transport': 'foot', 'timeTaken': 405}, {'exists': True, 'poiType': '약국', 'distance': 591, 'transport': 'foot', 'timeTaken': 532}, {'exists': True, 'poiType': '대형마트', 'distance': 2621, 'transport': 'car', 'timeTaken': 189}, {'exists': True, 'poiType': '편의점', 'distance': 64, 'transport': 'foot', 'timeTaken': 58}, {'exists': True, 'poiType': '버스정류장', 'distance': 137, 'transport': 'foot', 'timeTaken': 123}]",경기도,김포시,양촌읍,학운리,경기도 김포시 양촌읍,김포시 양촌읍 학운리,김포시 양촌읍 2869,False,2024-02-27T05:26:14.000Z,ZIGBANG,5952924
+[],[],['추천'],365공인중개사사무소,경기도 김포시 양촌읍 황금로70번길 53 1층 일부(101호),0319883653,"100% 실매물
+<<최다매물보유>>실매물은 고객님과의 신뢰입니다!!
+
+정말 정직하게 광고를 하고 있습니다.
+허위매물없는 100%실매물/실사진/실제가격으로 신뢰와 믿음을 쌓겠습니다.",대표공인중개사,이정미,https://ic.zigbang.com/vp/profile/3979121/84e6bc46846cf1dba267d552fce4f995ffe8e84c.jpg,3979121,False,40050480,월세,원룸,"['https://ic.zigbang.com/ic/items/40050480/1.jpg', 'https://ic.zigbang.com/ic/items/40050480/2.jpg', 'https://ic.zigbang.com/ic/items/40050480/3.jpg', 'https://ic.zigbang.com/ic/items/40050480/4.jpg', 'https://ic.zigbang.com/ic/items/40050480/5.jpg', 'https://ic.zigbang.com/ic/items/40050480/6.jpg', 'https://ic.zigbang.com/ic/items/40050480/7.jpg', 'https://ic.zigbang.com/ic/items/40050480/8.jpg', 'https://ic.zigbang.com/ic/items/40050480/9.jpg', 'https://ic.zigbang.com/ic/items/40050480/10.jpg', 'https://ic.zigbang.com/ic/items/40050480/11.jpg', 'https://ic.zigbang.com/ic/items/40050480/12.jpg', 'https://ic.zigbang.com/ic/items/40050480/13.jpg', 'https://ic.zigbang.com/ic/items/40050480/14.jpg', 'https://ic.zigbang.com/ic/items/40050480/15.jpg']",https://ic.zigbang.com/ic/items/40050480/1.jpg,300,43,33.06,분리형원룸,"ㅁ투룸같은1.5룸ㅁ 40인치TV, 밝은집","학운초 인근에 제대로된 1.5룸 이네여..
+거실이 방같은~ 1.5룸인데여~
+사진에서 처럼 주방이 방으로 통하는 곳에 있어서~ 주방은 주방으로~
+거실은 거실로 사용 가능한 구조가 좋은 1.5룸이에여~
+위치까지 좋아서 딱 짚어 이 집 방 있냐고 물어오는 건물입니다.
+빨래 방과 편의점이 1분거리에~
+세련되고 멋진 집입니다.
+",open,37.62124457738808,126.62745816300091,주차 가능,총 주차 대수 4대,False,SE,거실,2024. 03. 09 이후 입주 가능,4157025626128840000,4,4,"['에어컨', '냉장고', '세탁기', '인덕션', '신발장', '싱크대']",7,"['수도', '인터넷', 'TV']","['전기세', '가스', '난방비']",True,True,False,01,0,2024-03-04 13:25:41,2017.922,1,공동주택,"[{'companyName': '쿠팡', 'kinds': ['로켓배송', '로켓프레시']}, {'companyName': 'SSG', 'kinds': ['쓱배송']}, {'companyName': '배달의 민족', 'kinds': ['배민1']}, {'companyName': '요기요', 'kinds': ['익스프레스']}]","[{'title': '공세권', 'description': '공원'}, {'title': '학세권', 'description': '학원가 근처'}]","[{'exists': True, 'poiType': '지하철역', 'distance': 2597, 'transport': 'car', 'timeTaken': 187}, {'exists': True, 'poiType': '세탁소', 'distance': 337, 'transport': 'foot', 'timeTaken': 304}, {'exists': True, 'poiType': '카페', 'distance': 455, 'transport': 'foot', 'timeTaken': 410}, {'exists': True, 'poiType': '약국', 'distance': 622, 'transport': 'foot', 'timeTaken': 560}, {'exists': True, 'poiType': '대형마트', 'distance': 2576, 'transport': 'car', 'timeTaken': 185}, {'exists': True, 'poiType': '편의점', 'distance': 71, 'transport': 'foot', 'timeTaken': 64}, {'exists': True, 'poiType': '버스정류장', 'distance': 168, 'transport': 'foot', 'timeTaken': 151}]",경기도,김포시,양촌읍,학운리,경기도 김포시 양촌읍,김포시 양촌읍 학운리,김포시 양촌읍 2884,False,2024-03-04T04:25:36.000Z,ZIGBANG,3979121
+[],[],['추천'],일등공인중개사사무소,경기도 김포시 양촌읍 황금로70번길 55,0319893999,"-김포 전지역 매물 다수보유
+-원,투룸.쓰리룸/오피스텔/아파트/전월세
+ 실매물  100%만 찾아드립니다.
+
+
+빠른 문의 방법
+1.입주일짜 
+2.부동산 방문시간
+3.보증금 ,월세금액
+4.선호위치.주차.
+5.애완여부
+위의 조건을 문자로 남겨주시면 빠른상담 가능합니다.
+고객님의 소중한 보증금 을 위한 중개사고 방지를위해
+계약시 확실한 설명과 1억 원 공제증서를 제공해드려요",대표공인중개사,박채희,https://ic.zigbang.com/vp/profile/5952924/e396a85a51164a8b6292973b959a51a6babbbbde.jpg,5952924,False,40080835,월세,원룸,"['https://ic.zigbang.com/ic/items/40080835/1.jpg', 'https://ic.zigbang.com/ic/items/40080835/2.jpg', 'https://ic.zigbang.com/ic/items/40080835/3.jpg', 'https://ic.zigbang.com/ic/items/40080835/4.jpg', 'https://ic.zigbang.com/ic/items/40080835/5.jpg', 'https://ic.zigbang.com/ic/items/40080835/6.jpg', 'https://ic.zigbang.com/ic/items/40080835/7.jpg', 'https://ic.zigbang.com/ic/items/40080835/8.jpg', 'https://ic.zigbang.com/ic/items/40080835/9.jpg', 'https://ic.zigbang.com/ic/items/40080835/10.jpg', 'https://ic.zigbang.com/ic/items/40080835/11.jpg', 'https://ic.zigbang.com/ic/items/40080835/12.jpg', 'https://ic.zigbang.com/ic/items/40080835/13.jpg', 'https://ic.zigbang.com/ic/items/40080835/14.jpg']",https://ic.zigbang.com/ic/items/40080835/1.jpg,500,40,26.45,분리형원룸,ㅁㅁ반전세도가능 1.5룸ㅁㅁ,"엘베있는1.5룸입니다.
+보증금 조율가능합니다.
+주방에 창문이있어서 환기걱정없구요
+도배완료
+즉시입주가능합니다.",open,37.62138724316613,126.62763848638204,주차 가능,세대당 주차 대수 8대,True,W,안방,즉시 입주 가능,4157025626128780000,4,4,"['에어컨', '냉장고', '세탁기', '가스레인지', '신발장', '싱크대']",7,"['수도', '인터넷', 'TV']","['전기세', '가스', '난방비']",True,True,False,01,0,2024-03-06 14:26:03,20160429,1,단독주택,"[{'companyName': '쿠팡', 'kinds': ['로켓배송', '로켓프레시']}, {'companyName': 'SSG', 'kinds': ['쓱배송']}, {'companyName': '배달의 민족', 'kinds': ['배민1']}, {'companyName': '요기요', 'kinds': ['익스프레스']}]","[{'title': '공세권', 'description': '공원'}, {'title': '학세권', 'description': '학원가 근처'}]","[{'exists': True, 'poiType': '지하철역', 'distance': 2530, 'transport': 'car', 'timeTaken': 182}, {'exists': True, 'poiType': '세탁소', 'distance': 403, 'transport': 'foot', 'timeTaken': 363}, {'exists': True, 'poiType': '카페', 'distance': 463, 'transport': 'foot', 'timeTaken': 417}, {'exists': True, 'poiType': '약국', 'distance': 679, 'transport': 'car', 'timeTaken': 49}, {'exists': True, 'poiType': '대형마트', 'distance': 2507, 'transport': 'car', 'timeTaken': 180}, {'exists': True, 'poiType': '편의점', 'distance': 25, 'transport': 'foot', 'timeTaken': 23}, {'exists': True, 'poiType': '버스정류장', 'distance': 216, 'transport': 'foot', 'timeTaken': 195}]",경기도,김포시,양촌읍,학운리,경기도 김포시 양촌읍,김포시 양촌읍 학운리,김포시 양촌읍 2878,False,2024-03-06T04:28:08.000Z,ZIGBANG,5952924
+[],[],['추천'],일등공인중개사사무소,경기도 김포시 양촌읍 황금로70번길 55,0319893999,"-김포 전지역 매물 다수보유
+-원,투룸.쓰리룸/오피스텔/아파트/전월세
+ 실매물  100%만 찾아드립니다.
+
+
+빠른 문의 방법
+1.입주일짜 
+2.부동산 방문시간
+3.보증금 ,월세금액
+4.선호위치.주차.
+5.애완여부
+위의 조건을 문자로 남겨주시면 빠른상담 가능합니다.
+고객님의 소중한 보증금 을 위한 중개사고 방지를위해
+계약시 확실한 설명과 1억 원 공제증서를 제공해드려요",대표공인중개사,박채희,https://ic.zigbang.com/vp/profile/5952924/e396a85a51164a8b6292973b959a51a6babbbbde.jpg,5952924,False,40080542,월세,원룸,"['https://ic.zigbang.com/ic/items/40080542/1.jpg', 'https://ic.zigbang.com/ic/items/40080542/2.jpg', 'https://ic.zigbang.com/ic/items/40080542/3.jpg', 'https://ic.zigbang.com/ic/items/40080542/4.jpg', 'https://ic.zigbang.com/ic/items/40080542/5.jpg', 'https://ic.zigbang.com/ic/items/40080542/6.jpg', 'https://ic.zigbang.com/ic/items/40080542/7.jpg', 'https://ic.zigbang.com/ic/items/40080542/8.jpg', 'https://ic.zigbang.com/ic/items/40080542/9.jpg', 'https://ic.zigbang.com/ic/items/40080542/10.jpg', 'https://ic.zigbang.com/ic/items/40080542/11.jpg', 'https://ic.zigbang.com/ic/items/40080542/12.jpg', 'https://ic.zigbang.com/ic/items/40080542/13.jpg', 'https://ic.zigbang.com/ic/items/40080542/14.jpg']",https://ic.zigbang.com/ic/items/40080542/1.jpg,500,40,29.75,분리형원룸,엄청 넓은 1.5룸 풀옵션,"들어가는 입구부터
+큰신발장에 중문이 확실히 분리된 1.5룸이예요
+풀옵션 갖추고 있구요 
+넓은 세탁실 따로 분리되어 있어 빨래널기
+좋구요~주방옆에 창문이있어서 음식냄새.환기걱정
+없어요~
+2분이서 사셔도 충분해요~
+ 버스정류장 5분거리- (8601번, 70번, 86번, 7번, 81-1번, 90-1번 따복1 따복4 운행)
+주변편의시설(은행,마트,휘트니스클럽,찜질방.식당가.빨래방,커피숍등)
+",open,37.62205756149148,126.62788846900767,주차 가능,세대당 주차 대수 8대,False,W,안방,2024. 03. 31 이후 입주 가능,4157025626128950000,4,1,"['에어컨', '냉장고', '세탁기', '인덕션', '옷장', '신발장', '싱크대']",5,"['수도', '인터넷', 'TV']","['전기세', '가스', '난방비']",True,True,False,01,0,2024-03-06 13:12:21,2017.07.05,1,단독주택,"[{'companyName': '쿠팡', 'kinds': ['로켓배송', '로켓프레시']}, {'companyName': 'SSG', 'kinds': ['쓱배송']}, {'companyName': '배달의 민족', 'kinds': ['배민1']}, {'companyName': '요기요', 'kinds': ['익스프레스']}]","[{'title': '공세권', 'description': '공원'}, {'title': '학세권', 'description': '학원가 근처'}]","[{'exists': True, 'poiType': '지하철역', 'distance': 2500, 'transport': 'car', 'timeTaken': 180}, {'exists': True, 'poiType': '세탁소', 'distance': 432, 'transport': 'foot', 'timeTaken': 389}, {'exists': True, 'poiType': '카페', 'distance': 451, 'transport': 'foot', 'timeTaken': 406}, {'exists': True, 'poiType': '약국', 'distance': 709, 'transport': 'car', 'timeTaken': 51}, {'exists': True, 'poiType': '대형마트', 'distance': 2487, 'transport': 'car', 'timeTaken': 179}, {'exists': True, 'poiType': '편의점', 'distance': 30, 'transport': 'foot', 'timeTaken': 27}, {'exists': True, 'poiType': '버스정류장', 'distance': 190, 'transport': 'foot', 'timeTaken': 171}]",경기도,김포시,양촌읍,학운리,경기도 김포시 양촌읍,김포시 양촌읍 학운리,김포시 양촌읍 2895,False,2024-03-06T04:12:08.000Z,ZIGBANG,5952924
+[],[],[],일등공인중개사사무소,경기도 김포시 양촌읍 황금로70번길 55,0319893999,"-김포 전지역 매물 다수보유
+-원,투룸.쓰리룸/오피스텔/아파트/전월세
+ 실매물  100%만 찾아드립니다.
+
+
+빠른 문의 방법
+1.입주일짜 
+2.부동산 방문시간
+3.보증금 ,월세금액
+4.선호위치.주차.
+5.애완여부
+위의 조건을 문자로 남겨주시면 빠른상담 가능합니다.
+고객님의 소중한 보증금 을 위한 중개사고 방지를위해
+계약시 확실한 설명과 1억 원 공제증서를 제공해드려요",대표공인중개사,박채희,https://ic.zigbang.com/vp/profile/5952924/e396a85a51164a8b6292973b959a51a6babbbbde.jpg,5952924,False,40189589,월세,원룸,"['https://ic.zigbang.com/ic/items/40189589/1.jpg', 'https://ic.zigbang.com/ic/items/40189589/2.jpg', 'https://ic.zigbang.com/ic/items/40189589/3.jpg', 'https://ic.zigbang.com/ic/items/40189589/4.jpg', 'https://ic.zigbang.com/ic/items/40189589/5.jpg', 'https://ic.zigbang.com/ic/items/40189589/6.jpg', 'https://ic.zigbang.com/ic/items/40189589/7.jpg', 'https://ic.zigbang.com/ic/items/40189589/8.jpg', 'https://ic.zigbang.com/ic/items/40189589/9.jpg', 'https://ic.zigbang.com/ic/items/40189589/10.jpg', 'https://ic.zigbang.com/ic/items/40189589/11.jpg', 'https://ic.zigbang.com/ic/items/40189589/12.jpg']",https://ic.zigbang.com/ic/items/40189589/1.jpg,500,40,29.75,분리형원룸,거실 베란다 모두다 넓은 풀옵션 신축 1.5룸,"거실과 베란다 방모두 넓은 
+풀옵션 갖춘 신축 1.5룸이예요
+옵션또한좋아요(43인치티비.큰냉장고등)
+화장실에도 창문이있어 환기.습기걱정없구요.
+주방에도 창문이 있어서 요리하시기에도 편리합니다.
+거실이 넓어서 쇼파도 넣을수 있어요~
+위치 및 교통
+8601 광역버스(서울까지 30분)
+차량 10분거리 구래역과 인천 검단사거리역 
+(8601번, 70번, 86번, 7번, 81-1번, 90-1번 따복1 따복4 운행)
+
+주차및 편의시설
+주차 걱정no no
+은행.마트 ,병원,약국.찜질방.휘트니스클럽.식당가.골프존등
+기본편의시설 다 있어요.
+
+",open,37.6215543285586,126.62791629597848,주차 가능,세대당 주차 대수 8대,False,S,안방,2024. 04. 20 이후 입주 가능,4157025626128950000,4,3,"['에어컨', '냉장고', '세탁기', '인덕션', '신발장', '싱크대']",7,"['수도', '인터넷', 'TV']","['전기세', '가스', '난방비']",True,False,01,0,2024-03-15 12:02:36,2017.07.05,1,단독주택,"[{'companyName': '쿠팡', 'kinds': ['로켓배송', '로켓프레시']}, {'companyName': 'SSG', 'kinds': ['쓱배송']}, {'companyName': '배달의 민족', 'kinds': ['배민1']}, {'companyName': '요기요', 'kinds': ['익스프레스']}]","[{'title': '공세권', 'description': '공원'}, {'title': '학세권', 'description': '학원가 근처'}]","[{'exists': True, 'poiType': '지하철역', 'distance': 2500, 'transport': 'car', 'timeTaken': 180}, {'exists': True, 'poiType': '세탁소', 'distance': 432, 'transport': 'foot', 'timeTaken': 389}, {'exists': True, 'poiType': '카페', 'distance': 451, 'transport': 'foot', 'timeTaken': 406}, {'exists': True, 'poiType': '약국', 'distance': 709, 'transport': 'car', 'timeTaken': 51}, {'exists': True, 'poiType': '대형마트', 'distance': 2487, 'transport': 'car', 'timeTaken': 179}, {'exists': True, 'poiType': '편의점', 'distance': 30, 'transport': 'foot', 'timeTaken': 27}, {'exists': True, 'poiType': '버스정류장', 'distance': 190, 'transport': 'foot', 'timeTaken': 171}]",경기도,김포시,양촌읍,학운리,경기도 김포시 양촌읍,김포시 양촌읍 학운리,김포시 양촌읍 2895,False,2024-03-15T03:02:36.000Z,ZIGBANG,5952924
+[],[],[],일등공인중개사사무소,경기도 김포시 양촌읍 황금로70번길 55,0319893999,"-김포 전지역 매물 다수보유
+-원,투룸.쓰리룸/오피스텔/아파트/전월세
+ 실매물  100%만 찾아드립니다.
+
+
+빠른 문의 방법
+1.입주일짜 
+2.부동산 방문시간
+3.보증금 ,월세금액
+4.선호위치.주차.
+5.애완여부
+위의 조건을 문자로 남겨주시면 빠른상담 가능합니다.
+고객님의 소중한 보증금 을 위한 중개사고 방지를위해
+계약시 확실한 설명과 1억 원 공제증서를 제공해드려요",대표공인중개사,박채희,https://ic.zigbang.com/vp/profile/5952924/e396a85a51164a8b6292973b959a51a6babbbbde.jpg,5952924,False,40192013,월세,원룸,"['https://ic.zigbang.com/ic/items/40192013/1.jpg', 'https://ic.zigbang.com/ic/items/40192013/2.jpg', 'https://ic.zigbang.com/ic/items/40192013/3.jpg', 'https://ic.zigbang.com/ic/items/40192013/4.jpg', 'https://ic.zigbang.com/ic/items/40192013/5.jpg', 'https://ic.zigbang.com/ic/items/40192013/6.jpg', 'https://ic.zigbang.com/ic/items/40192013/7.jpg', 'https://ic.zigbang.com/ic/items/40192013/8.jpg', 'https://ic.zigbang.com/ic/items/40192013/9.jpg']",https://ic.zigbang.com/ic/items/40192013/1.jpg,300,28,19.83,분리형원룸,단지내 최저가 원룸 깔끔 가성비 최고의 방," 주방 과 방이 중문으로 분리되어
+음식 냄새 걱정 노노  방은 온전히 깨끗하게 휴식 공간으로만~
+주변에 편의 시설도 다 있답니다.~~
+월세 저렴한 이런 좋은 조건의 방은 빨리 계약이 되니 서둘러 구경 오세요~^^*
+방에 침대들어갈 공간 충분합니다.
+편의시설.버스정류장도 가까워요~
+
+
+",open,37.62169743293386,126.62848889608019,주차 가능,세대당 주차 대수 8대,False,SE,안방,즉시 입주 가능,4157025626128960000,4,4,"['에어컨', '냉장고', '세탁기', '가스레인지', '신발장', '싱크대']",5,"['수도', '인터넷', 'TV']","['전기세', '가스', '난방비']",True,False,01,0,2024-03-15 14:06:46,2011.05.12,1,단독주택,"[{'companyName': '쿠팡', 'kinds': ['로켓배송', '로켓프레시']}, {'companyName': 'SSG', 'kinds': ['쓱배송']}, {'companyName': '배달의 민족', 'kinds': ['배민1']}, {'companyName': '요기요', 'kinds': ['익스프레스']}]","[{'title': '공세권', 'description': '공원'}, {'title': '학세권', 'description': '학원가 근처'}]","[{'exists': True, 'poiType': '지하철역', 'distance': 2488, 'transport': 'car', 'timeTaken': 179}, {'exists': True, 'poiType': '세탁소', 'distance': 442, 'transport': 'foot', 'timeTaken': 398}, {'exists': True, 'poiType': '카페', 'distance': 459, 'transport': 'foot', 'timeTaken': 414}, {'exists': True, 'poiType': '약국', 'distance': 720, 'transport': 'car', 'timeTaken': 52}, {'exists': True, 'poiType': '대형마트', 'distance': 2471, 'transport': 'car', 'timeTaken': 178}, {'exists': True, 'poiType': '편의점', 'distance': 46, 'transport': 'foot', 'timeTaken': 41}, {'exists': True, 'poiType': '버스정류장', 'distance': 188, 'transport': 'foot', 'timeTaken': 169}]",경기도,김포시,양촌읍,학운리,경기도 김포시 양촌읍,김포시 양촌읍 학운리,김포시 양촌읍 2896,False,2024-03-15T05:06:46.000Z,ZIGBANG,5952924
+[],[],[],일등공인중개사사무소,경기도 김포시 양촌읍 황금로70번길 55,0319893999,"-김포 전지역 매물 다수보유
+-원,투룸.쓰리룸/오피스텔/아파트/전월세
+ 실매물  100%만 찾아드립니다.
+
+
+빠른 문의 방법
+1.입주일짜 
+2.부동산 방문시간
+3.보증금 ,월세금액
+4.선호위치.주차.
+5.애완여부
+위의 조건을 문자로 남겨주시면 빠른상담 가능합니다.
+고객님의 소중한 보증금 을 위한 중개사고 방지를위해
+계약시 확실한 설명과 1억 원 공제증서를 제공해드려요",대표공인중개사,박채희,https://ic.zigbang.com/vp/profile/5952924/e396a85a51164a8b6292973b959a51a6babbbbde.jpg,5952924,False,40080805,월세,원룸,"['https://ic.zigbang.com/ic/items/40080805/1.jpg', 'https://ic.zigbang.com/ic/items/40080805/2.jpg', 'https://ic.zigbang.com/ic/items/40080805/3.jpg', 'https://ic.zigbang.com/ic/items/40080805/4.jpg', 'https://ic.zigbang.com/ic/items/40080805/5.jpg', 'https://ic.zigbang.com/ic/items/40080805/6.jpg', 'https://ic.zigbang.com/ic/items/40080805/7.jpg', 'https://ic.zigbang.com/ic/items/40080805/8.jpg', 'https://ic.zigbang.com/ic/items/40080805/9.jpg', 'https://ic.zigbang.com/ic/items/40080805/10.jpg', 'https://ic.zigbang.com/ic/items/40080805/11.jpg', 'https://ic.zigbang.com/ic/items/40080805/12.jpg']",https://ic.zigbang.com/ic/items/40080805/1.jpg,300,48,33.06,분리형원룸,ㅁㅁ베란다 넓은 풀옵션 집 ㅁㅁ,"주방바로옆 창문이있어서 
+음식냄새걱정없구요
+베란다도 넓어서 빨래널기도 좋아요
+즉시입주가능하며 단기도 가능합니다.
+단기는 따로 문의바랍니다.",open,37.62219750463699,126.6286546944306,주차 가능,세대당 주차 대수 8대,False,W,거실,즉시 입주 가능,4157025626128890000,4,3,"['에어컨', '냉장고', '세탁기', '가스레인지', '신발장', '싱크대']",7,"['수도', '인터넷', 'TV']","['전기세', '가스', '난방비']",True,False,01,0,2024-03-06 13:26:23,20150807,1,단독주택,"[{'companyName': '쿠팡', 'kinds': ['로켓배송', '로켓프레시']}, {'companyName': 'SSG', 'kinds': ['쓱배송']}, {'companyName': '배달의 민족', 'kinds': ['배민1']}, {'companyName': '요기요', 'kinds': ['익스프레스']}]","[{'title': '공세권', 'description': '공원'}, {'title': '학세권', 'description': '학원가 근처'}]","[{'exists': True, 'poiType': '지하철역', 'distance': 2479, 'transport': 'car', 'timeTaken': 178}, {'exists': True, 'poiType': '세탁소', 'distance': 427, 'transport': 'foot', 'timeTaken': 385}, {'exists': True, 'poiType': '카페', 'distance': 446, 'transport': 'foot', 'timeTaken': 402}, {'exists': True, 'poiType': '약국', 'distance': 731, 'transport': 'car', 'timeTaken': 53}, {'exists': True, 'poiType': '대형마트', 'distance': 2471, 'transport': 'car', 'timeTaken': 178}, {'exists': True, 'poiType': '편의점', 'distance': 48, 'transport': 'foot', 'timeTaken': 43}, {'exists': True, 'poiType': '버스정류장', 'distance': 173, 'transport': 'foot', 'timeTaken': 156}]",경기도,김포시,양촌읍,학운리,경기도 김포시 양촌읍,김포시 양촌읍 학운리,김포시 양촌읍 2889,False,2024-03-17T01:02:49.000Z,ZIGBANG,5952924
+[],[],[],일등공인중개사사무소,경기도 김포시 양촌읍 황금로70번길 55,0319893999,"-김포 전지역 매물 다수보유
+-원,투룸.쓰리룸/오피스텔/아파트/전월세
+ 실매물  100%만 찾아드립니다.
+
+
+빠른 문의 방법
+1.입주일짜 
+2.부동산 방문시간
+3.보증금 ,월세금액
+4.선호위치.주차.
+5.애완여부
+위의 조건을 문자로 남겨주시면 빠른상담 가능합니다.
+고객님의 소중한 보증금 을 위한 중개사고 방지를위해
+계약시 확실한 설명과 1억 원 공제증서를 제공해드려요",대표공인중개사,박채희,https://ic.zigbang.com/vp/profile/5952924/e396a85a51164a8b6292973b959a51a6babbbbde.jpg,5952924,False,39841950,월세,원룸,"['https://ic.zigbang.com/ic/items/39841950/1.jpg', 'https://ic.zigbang.com/ic/items/39841950/2.jpg', 'https://ic.zigbang.com/ic/items/39841950/3.jpg', 'https://ic.zigbang.com/ic/items/39841950/4.jpg', 'https://ic.zigbang.com/ic/items/39841950/5.jpg', 'https://ic.zigbang.com/ic/items/39841950/6.jpg', 'https://ic.zigbang.com/ic/items/39841950/7.jpg', 'https://ic.zigbang.com/ic/items/39841950/8.jpg', 'https://ic.zigbang.com/ic/items/39841950/9.jpg', 'https://ic.zigbang.com/ic/items/39841950/10.jpg', 'https://ic.zigbang.com/ic/items/39841950/11.jpg', 'https://ic.zigbang.com/ic/items/39841950/12.jpg', 'https://ic.zigbang.com/ic/items/39841950/13.jpg', 'https://ic.zigbang.com/ic/items/39841950/14.jpg']",https://ic.zigbang.com/ic/items/39841950/1.jpg,500,48,39.67,분리형원룸,사업자가능 신축 풀옵션 깔끔한 집,"풀옵션있는 투룸
+젊은분들이 선호하는 투룸입니다.
+깔끔하고 옵션이 잘되어 있어서 그런지
+젊은분들이 많이 살고있는 투룸건물입니다.
+신축 건물이라 깔끔해요~
+",open,37.621733984941045,126.6296394250323,주차 가능,세대당 주차 대수 8대,False,S,안방,2024. 02. 07 이후 입주 가능,4157025626129070000,4,1,"['에어컨', '냉장고', '세탁기', '인덕션', '신발장', '싱크대']",7,"['수도', '인터넷', 'TV']","['전기세', '가스', '난방비']",False,True,False,01,0,2024-02-27 15:02:26,20170124,1,단독주택,"[{'companyName': '쿠팡', 'kinds': ['로켓배송', '로켓프레시']}, {'companyName': 'SSG', 'kinds': ['쓱배송']}, {'companyName': '배달의 민족', 'kinds': ['배민1']}, {'companyName': '요기요', 'kinds': ['익스프레스']}]","[{'title': '공세권', 'description': '공원'}, {'title': '학세권', 'description': '학원가 근처'}]","[{'exists': True, 'poiType': '지하철역', 'distance': 2432, 'transport': 'car', 'timeTaken': 175}, {'exists': True, 'poiType': '세탁소', 'distance': 509, 'transport': 'foot', 'timeTaken': 459}, {'exists': True, 'poiType': '카페', 'distance': 377, 'transport': 'foot', 'timeTaken': 340}, {'exists': True, 'poiType': '약국', 'distance': 797, 'transport': 'car', 'timeTaken': 57}, {'exists': True, 'poiType': '대형마트', 'distance': 2471, 'transport': 'car', 'timeTaken': 178}, {'exists': True, 'poiType': '편의점', 'distance': 111, 'transport': 'foot', 'timeTaken': 100}, {'exists': True, 'poiType': '버스정류장', 'distance': 246, 'transport': 'foot', 'timeTaken': 222}]",경기도,김포시,양촌읍,학운리,경기도 김포시 양촌읍,김포시 양촌읍 학운리,김포시 양촌읍 2907,False,2024-02-16T03:37:27.000Z,ZIGBANG,5952924
+[],"[{'id': 1190, 'name': '마산역', 'description': '김포골드라인'}]",[],래미안복덕방부동산중개,경기도 김포시 김포한강9로76번길 11 408호 (구래동),0319833600,"""래미안복덕방 부동산중개""
+같은 이름으로 모든 지점이 사옥에서 운영하고 있으며  ""20년"" 가까이 중개한 노하우와 전직원 가족같은 회사 입니다.
+회사명에 '복덕방'이 들어간 이유는 저희는 컨설팅 업체가 아닙니다.
+한번 손님은 영원한 손님으로 내꺼 구하는 중개로 최선을 다 하겠습니다",대표공인중개사,김미희,https://ic.zigbang.com/vp/profile/1671320/56bb1d68549b3bf8a5b8e4752ca2883cd3a34f6c.jpg,1671320,False,40236010,월세,원룸,"['https://ic.zigbang.com/ic/items/40236010/1.jpg', 'https://ic.zigbang.com/ic/items/40236010/2.jpg', 'https://ic.zigbang.com/ic/items/40236010/3.jpg', 'https://ic.zigbang.com/ic/items/40236010/4.jpg', 'https://ic.zigbang.com/ic/items/40236010/5.jpg', 'https://ic.zigbang.com/ic/items/40236010/6.jpg']",https://ic.zigbang.com/ic/items/40236010/1.jpg,500,45,26.45,분리형원룸,G1마산역 인근 위치좋은 분리형 1.5룸,"마산동은 김포한강신도시2기 신도시로서 중심상업시설 기반으로 이마트가 입점되어 있어
+쇼핑하시기 편한 장점이 있으며 지하철 개통이예정되어 있어 추후에 업무시설까지 입주하게되며
+제2외곽고속도로에 인접해 있어서 계속적으로 발전해 나가는 지역임에 분명합니다.
+더불어 살기 좋은 곳이 되는거죠 감사합니다
+2019년 7월 개통예정(마산역) 및 광역시내버스가 많아
+강남, 종로, 홍대, 이태원 등 도심으로 다니시기도 좋습니다.
+
+(김포생활체육관정류장)
+----------------------------
+일반: 33, 60-3, 81, 3, 4-1(주말)
+마을: 30, 57
+
+(은여울공원정류장)
+-----------------------
+일반: 33, 60-3, 81, 3, 4-1(주말)
+좌석: 21
+직행: 7000
+
+(힐스테이트,경남아너스빌정류장)
+----------------------------------------
+광역: M6117, M6427
+일반: 33, 60-3, 81, 3, 4-1(주말)
+좌석: 21
+직행: 7000, 8000, 8600, 8601, 8601A, 9008, 6427",open,37.63327316669468,126.64897664881673,주차 가능,총 주차 대수 7대,True,SW,거실,즉시 입주 가능,4157010800106540013,4,3,"['에어컨', '냉장고', '세탁기', '가스레인지', '신발장', '싱크대']",10,[],"['전기세', '가스', '수도', '인터넷', 'TV', '난방비']",ActualManageCost,"['05', '04', '03']",100000,01,01,True,False,01,0,2024-03-19 15:05:22,20181207,1,단독주택,"[{'companyName': '쿠팡', 'kinds': ['로켓배송', '로켓프레시']}, {'companyName': 'SSG', 'kinds': ['새벽배송', '쓱배송']}, {'companyName': '마켓컬리', 'kinds': ['샛별배송']}, {'companyName': '배달의 민족', 'kinds': ['배민1']}, {'companyName': '요기요', 'kinds': ['익스프레스']}]","[{'title': '슬세권', 'description': '편리한 상권'}, {'title': '공세권', 'description': '공원'}, {'title': '숲세권', 'description': '산 근처'}, {'title': '학세권', 'description': '학원가 근처'}]","[{'exists': True, 'poiType': '지하철역', 'distance': 904, 'transport': 'car', 'timeTaken': 65}, {'exists': True, 'poiType': '세탁소', 'distance': 1089, 'transport': 'car', 'timeTaken': 78}, {'exists': True, 'poiType': '카페', 'distance': 21, 'transport': 'foot', 'timeTaken': 19}, {'exists': True, 'poiType': '약국', 'distance': 608, 'transport': 'foot', 'timeTaken': 548}, {'exists': True, 'poiType': '대형마트', 'distance': 2151, 'transport': 'car', 'timeTaken': 155}, {'exists': True, 'poiType': '편의점', 'distance': 215, 'transport': 'foot', 'timeTaken': 194}, {'exists': True, 'poiType': '버스정류장', 'distance': 717, 'transport': 'car', 'timeTaken': 52}]",경기도,김포시,마산동,,경기도 김포시 마산동,김포시 마산동,김포시 마산동 654-13,False,2024-03-19T06:05:22.000Z,ZIGBANG,1671320
+[],[],['추천'],나무공인중개사사무소,경기도 김포시 양촌읍 황금로89번길 38 268호 (보람리치타워),15888392,,대표공인중개사,송용의,https://ic.zigbang.com/vp/profile/3006070/91c2eb54fafc7e438f0eae780c18546c39b4d8e8.jpg,3006070,False,79963,경기도,김포시,양촌읍,,37.61765800152509,126.62301899301951,보람리치타워,49,2018. 10,입주2년후,37.61716031943979,126.62291277018421,8.98241,-29.7879,-3,39793667,월세,오피스텔,"['https://ic.zigbang.com/ic/items/39793667/1.jpg', 'https://ic.zigbang.com/ic/items/39793667/2.jpg', 'https://ic.zigbang.com/ic/items/39793667/3.jpg', 'https://ic.zigbang.com/ic/items/39793667/4.jpg', 'https://ic.zigbang.com/ic/items/39793667/5.jpg', 'https://ic.zigbang.com/ic/items/39793667/6.jpg', 'https://ic.zigbang.com/ic/items/39793667/7.jpg', 'https://ic.zigbang.com/ic/items/39793667/8.jpg', 'https://ic.zigbang.com/ic/items/39793667/9.jpg']",https://ic.zigbang.com/ic/items/39793667/1.jpg,500,40,26.98,42.31,복층형원룸,학운산업단지 중심상가 복층형 오피스텔,"♦구조 / 옵션
+
+-복층형 원룸
+
+- 냉장고, 세탁기, 에어컨, TV(42""), 암막커튼, 블라인드등 풀옵션 제공
+
+- 티비 인터넷은 관리비에 포함
+
+",open,37.617922717108726,126.62333668633308,주차 가능,세대당 주차 대수 7.14대,True,S,거실,즉시 입주 가능,4157025626129930000,4,3,29342,"['에어컨', '냉장고', '세탁기', '가스레인지', '인덕션', '전자레인지', '옷장', '신발장', '싱크대']",5,"['인터넷', 'TV']","['전기세', '가스', '수도', '난방비']",True,True,False,02,0,2024-03-06 10:48:51,2018년 10월 24일,1,오피스텔,"[{'companyName': '쿠팡', 'kinds': ['로켓배송', '로켓프레시']}, {'companyName': 'SSG', 'kinds': ['새벽배송', '쓱배송']}, {'companyName': '배달의 민족', 'kinds': ['배민1']}, {'companyName': '요기요', 'kinds': ['익스프레스']}]","[{'title': '슬세권', 'description': '편리한 상권'}, {'title': '공세권', 'description': '공원'}, {'title': '학세권', 'description': '학원가 근처'}]","[{'exists': True, 'poiType': '지하철역', 'distance': 2662, 'transport': 'car', 'timeTaken': 192}, {'exists': True, 'poiType': '세탁소', 'distance': 235, 'transport': 'foot', 'timeTaken': 212}, {'exists': True, 'poiType': '카페', 'distance': 68, 'transport': 'foot', 'timeTaken': 61}, {'exists': True, 'poiType': '약국', 'distance': 71, 'transport': 'foot', 'timeTaken': 64}, {'exists': True, 'poiType': '대형마트', 'distance': 2984, 'transport': 'car', 'timeTaken': 215}, {'exists': True, 'poiType': '편의점', 'distance': 80, 'transport': 'foot', 'timeTaken': 72}, {'exists': True, 'poiType': '버스정류장', 'distance': 81, 'transport': 'foot', 'timeTaken': 73}]",경기도,김포시,양촌읍,학운리,경기도 김포시 양촌읍,김포시 양촌읍 학운리,김포시 양촌읍 학운리 2993,False,2024-03-20T01:14:39.000Z,ZIGBANG,3006070
+[],[],['추천'],일등공인중개사사무소,경기도 김포시 양촌읍 황금로70번길 55,0319893999,"-김포 전지역 매물 다수보유
+-원,투룸.쓰리룸/오피스텔/아파트/전월세
+ 실매물  100%만 찾아드립니다.
+
+
+빠른 문의 방법
+1.입주일짜 
+2.부동산 방문시간
+3.보증금 ,월세금액
+4.선호위치.주차.
+5.애완여부
+위의 조건을 문자로 남겨주시면 빠른상담 가능합니다.
+고객님의 소중한 보증금 을 위한 중개사고 방지를위해
+계약시 확실한 설명과 1억 원 공제증서를 제공해드려요",대표공인중개사,박채희,https://ic.zigbang.com/vp/profile/5952924/e396a85a51164a8b6292973b959a51a6babbbbde.jpg,5952924,False,40118498,월세,원룸,"['https://ic.zigbang.com/ic/items/40118498/1.jpg', 'https://ic.zigbang.com/ic/items/40118498/2.jpg', 'https://ic.zigbang.com/ic/items/40118498/3.jpg', 'https://ic.zigbang.com/ic/items/40118498/4.jpg', 'https://ic.zigbang.com/ic/items/40118498/5.jpg', 'https://ic.zigbang.com/ic/items/40118498/6.jpg', 'https://ic.zigbang.com/ic/items/40118498/7.jpg', 'https://ic.zigbang.com/ic/items/40118498/8.jpg', 'https://ic.zigbang.com/ic/items/40118498/9.jpg', 'https://ic.zigbang.com/ic/items/40118498/10.jpg', 'https://ic.zigbang.com/ic/items/40118498/11.jpg', 'https://ic.zigbang.com/ic/items/40118498/12.jpg', 'https://ic.zigbang.com/ic/items/40118498/13.jpg', 'https://ic.zigbang.com/ic/items/40118498/14.jpg', 'https://ic.zigbang.com/ic/items/40118498/15.jpg', 'https://ic.zigbang.com/ic/items/40118498/16.jpg', 'https://ic.zigbang.com/ic/items/40118498/17.jpg', 'https://ic.zigbang.com/ic/items/40118498/18.jpg', 'https://ic.zigbang.com/ic/items/40118498/19.jpg']",https://ic.zigbang.com/ic/items/40118498/1.jpg,500,52,39.67,분리형원룸,ㅁㅁ즉시입주 남향집 투룸ㅁㅁ,"채광좋은 남향집입니다.
+안방에 창문이 2개나 있어서 밝으며
+베란다또한 남향으로 빨래도 잘말라요
+방2개 크고요  화장실도 넓어요",open,37.61910279654453,126.62947308665096,주차 가능,세대당 주차 대수 8대,False,S,거실,즉시 입주 가능,4157025626129280000,4,3,"['에어컨', '냉장고', '세탁기', '가스레인지', '전자레인지', '옷장', '신발장', '싱크대']",8,"['수도', '인터넷', 'TV']","['전기세', '가스', '난방비']",True,True,False,01,0,2024-03-09 13:12:35,20110729,1,단독주택,"[{'companyName': '쿠팡', 'kinds': ['로켓배송', '로켓프레시']}, {'companyName': 'SSG', 'kinds': ['쓱배송']}, {'companyName': '배달의 민족', 'kinds': ['배민1']}, {'companyName': '요기요', 'kinds': ['익스프레스']}]","[{'title': '공세권', 'description': '공원'}, {'title': '학세권', 'description': '학원가 근처'}]","[{'exists': True, 'poiType': '지하철역', 'distance': 2691, 'transport': 'car', 'timeTaken': 194}, {'exists': True, 'poiType': '세탁소', 'distance': 340, 'transport': 'foot', 'timeTaken': 306}, {'exists': True, 'poiType': '카페', 'distance': 320, 'transport': 'foot', 'timeTaken': 288}, {'exists': True, 'poiType': '약국', 'distance': 643, 'transport': 'foot', 'timeTaken': 579}, {'exists': True, 'poiType': '대형마트', 'distance': 2758, 'transport': 'car', 'timeTaken': 199}, {'exists': True, 'poiType': '편의점', 'distance': 154, 'transport': 'foot', 'timeTaken': 139}, {'exists': True, 'poiType': '버스정류장', 'distance': 52, 'transport': 'foot', 'timeTaken': 47}]",경기도,김포시,양촌읍,학운리,경기도 김포시 양촌읍,김포시 양촌읍 학운리,김포시 양촌읍 2928,False,2024-03-17T01:02:42.000Z,ZIGBANG,5952924
+[],[],['추천'],일등공인중개사사무소,경기도 김포시 양촌읍 황금로70번길 55,0319893999,"-김포 전지역 매물 다수보유
+-원,투룸.쓰리룸/오피스텔/아파트/전월세
+ 실매물  100%만 찾아드립니다.
+
+
+빠른 문의 방법
+1.입주일짜 
+2.부동산 방문시간
+3.보증금 ,월세금액
+4.선호위치.주차.
+5.애완여부
+위의 조건을 문자로 남겨주시면 빠른상담 가능합니다.
+고객님의 소중한 보증금 을 위한 중개사고 방지를위해
+계약시 확실한 설명과 1억 원 공제증서를 제공해드려요",대표공인중개사,박채희,https://ic.zigbang.com/vp/profile/5952924/e396a85a51164a8b6292973b959a51a6babbbbde.jpg,5952924,False,40080502,월세,원룸,"['https://ic.zigbang.com/ic/items/40080502/1.jpg', 'https://ic.zigbang.com/ic/items/40080502/2.jpg', 'https://ic.zigbang.com/ic/items/40080502/3.jpg', 'https://ic.zigbang.com/ic/items/40080502/4.jpg', 'https://ic.zigbang.com/ic/items/40080502/5.jpg', 'https://ic.zigbang.com/ic/items/40080502/6.jpg', 'https://ic.zigbang.com/ic/items/40080502/7.jpg', 'https://ic.zigbang.com/ic/items/40080502/8.jpg', 'https://ic.zigbang.com/ic/items/40080502/9.jpg', 'https://ic.zigbang.com/ic/items/40080502/10.jpg']",https://ic.zigbang.com/ic/items/40080502/1.jpg,300,30,19.8,오픈형원룸,채광굿 분리형 풀옵션 깔끔 원룸,"채광이 좋은 방이넓은 풀옵션 원룸이예요
+베란다도 넓구요 베란다에 수납장있어서
+옷장.이불장으로 사용할수 있어요~
+도로변에서도 가깝고 주차도 수월하구요
+중문이 있어 방음.방열에 효과적입니다.
+편의점 2분거리에 있어요.
+주변편의시설(은행,마트,휘트니스클럽,찜질방.식당가.빨래방,커피숍,병원등)
+
+▶ 버스정류장 3분거리- (8601번, 70번, 86번, 7번, 81-1번, 90-1번 따복1 따복4 운행)
+▶대표공인중개사로 믿을수 있는 거래를  위해서 최선을 다하겠습니다.",open,37.620206335367406,126.62877308187161,주차 가능,세대당 주차 대수 8대,False,S,거실,즉시 입주 가능,4157025626129270000,4,2,"['에어컨', '냉장고', '세탁기', '가스레인지', '옷장', '싱크대']",5,"['수도', '인터넷', 'TV']","['전기세', '가스', '난방비']",True,True,False,01,0,2024-03-06 13:10:00,20120810,1,단독주택,"[{'companyName': '쿠팡', 'kinds': ['로켓배송', '로켓프레시']}, {'companyName': 'SSG', 'kinds': ['쓱배송']}, {'companyName': '배달의 민족', 'kinds': ['배민1']}, {'companyName': '요기요', 'kinds': ['익스프레스']}]","[{'title': '공세권', 'description': '공원'}, {'title': '학세권', 'description': '학원가 근처'}]","[{'exists': True, 'poiType': '지하철역', 'distance': 2634, 'transport': 'car', 'timeTaken': 190}, {'exists': True, 'poiType': '세탁소', 'distance': 358, 'transport': 'foot', 'timeTaken': 323}, {'exists': True, 'poiType': '카페', 'distance': 320, 'transport': 'foot', 'timeTaken': 288}, {'exists': True, 'poiType': '약국', 'distance': 662, 'transport': 'foot', 'timeTaken': 596}, {'exists': True, 'poiType': '대형마트', 'distance': 2692, 'transport': 'car', 'timeTaken': 194}, {'exists': True, 'poiType': '편의점', 'distance': 130, 'transport': 'foot', 'timeTaken': 117}, {'exists': True, 'poiType': '버스정류장', 'distance': 28, 'transport': 'foot', 'timeTaken': 25}]",경기도,김포시,양촌읍,학운리,경기도 김포시 양촌읍,김포시 양촌읍 학운리,김포시 양촌읍 2927,False,2024-03-12T08:23:46.000Z,ZIGBANG,5952924
+[],[],[],365공인중개사사무소,경기도 김포시 양촌읍 황금로70번길 53 1층 일부(101호),0319883653,"100% 실매물
+<<최다매물보유>>실매물은 고객님과의 신뢰입니다!!
+
+정말 정직하게 광고를 하고 있습니다.
+허위매물없는 100%실매물/실사진/실제가격으로 신뢰와 믿음을 쌓겠습니다.",대표공인중개사,이정미,https://ic.zigbang.com/vp/profile/3979121/84e6bc46846cf1dba267d552fce4f995ffe8e84c.jpg,3979121,False,40050293,월세,원룸,"['https://ic.zigbang.com/ic/items/40050293/1.jpg', 'https://ic.zigbang.com/ic/items/40050293/2.jpg', 'https://ic.zigbang.com/ic/items/40050293/3.jpg', 'https://ic.zigbang.com/ic/items/40050293/4.jpg', 'https://ic.zigbang.com/ic/items/40050293/5.jpg', 'https://ic.zigbang.com/ic/items/40050293/6.jpg', 'https://ic.zigbang.com/ic/items/40050293/7.jpg']",https://ic.zigbang.com/ic/items/40050293/1.jpg,200,33,26.45,분리형원룸,정남향에 풀옵션 버스정류장1분거리초저렴,"1년 계약일때 금액입니다.
+방크고요~~ 
+장농에~~ 천장 빨래걸이까지~~ 풀~~옵션!!!
+기본에 충실하고, 실속있는 구조의 원룸이라는걸
+보시면 알거에여~
+위치가 너무 좋아서 차량이 없는 분도 
+있는 분도 편안하게 살게 해 주는 그런 집입니다.
+",open,37.61979240120725,126.6262650463046,주차 가능,총 주차 대수 4대,False,S,안방,즉시 입주 가능,4157025626128370000,4,3,"['에어컨', '냉장고', '세탁기', '가스레인지', '옷장', '신발장', '싱크대']",5,"['수도', '인터넷', 'TV']","['전기세', '가스', '난방비']",False,True,False,01,0,2024-03-04 13:27:10,2011.12.29,1,다가구,"[{'companyName': '쿠팡', 'kinds': ['로켓배송', '로켓프레시']}, {'companyName': 'SSG', 'kinds': ['쓱배송']}, {'companyName': '배달의 민족', 'kinds': ['배민1']}, {'companyName': '요기요', 'kinds': ['익스프레스']}]","[{'title': '공세권', 'description': '공원'}, {'title': '학세권', 'description': '학원가 근처'}]","[{'exists': True, 'poiType': '지하철역', 'distance': 2645, 'transport': 'car', 'timeTaken': 190}, {'exists': True, 'poiType': '세탁소', 'distance': 166, 'transport': 'foot', 'timeTaken': 150}, {'exists': True, 'poiType': '카페', 'distance': 408, 'transport': 'foot', 'timeTaken': 368}, {'exists': True, 'poiType': '약국', 'distance': 431, 'transport': 'foot', 'timeTaken': 388}, {'exists': True, 'poiType': '대형마트', 'distance': 2691, 'transport': 'car', 'timeTaken': 194}, {'exists': True, 'poiType': '편의점', 'distance': 18, 'transport': 'foot', 'timeTaken': 16}, {'exists': True, 'poiType': '버스정류장', 'distance': 85, 'transport': 'foot', 'timeTaken': 77}]",경기도,김포시,양촌읍,학운리,경기도 김포시 양촌읍,김포시 양촌읍 학운리,김포시 양촌읍 2837,False,2024-03-21T05:03:11.000Z,ZIGBANG,3979121
+[],[],[],일등공인중개사사무소,경기도 김포시 양촌읍 황금로70번길 55,0319893999,"-김포 전지역 매물 다수보유
+-원,투룸.쓰리룸/오피스텔/아파트/전월세
+ 실매물  100%만 찾아드립니다.
+
+
+빠른 문의 방법
+1.입주일짜 
+2.부동산 방문시간
+3.보증금 ,월세금액
+4.선호위치.주차.
+5.애완여부
+위의 조건을 문자로 남겨주시면 빠른상담 가능합니다.
+고객님의 소중한 보증금 을 위한 중개사고 방지를위해
+계약시 확실한 설명과 1억 원 공제증서를 제공해드려요",대표공인중개사,박채희,https://ic.zigbang.com/vp/profile/5952924/e396a85a51164a8b6292973b959a51a6babbbbde.jpg,5952924,False,40005436,월세,원룸,"['https://ic.zigbang.com/ic/items/40005436/1.jpg', 'https://ic.zigbang.com/ic/items/40005436/2.jpg', 'https://ic.zigbang.com/ic/items/40005436/3.jpg', 'https://ic.zigbang.com/ic/items/40005436/4.jpg', 'https://ic.zigbang.com/ic/items/40005436/5.jpg', 'https://ic.zigbang.com/ic/items/40005436/6.jpg', 'https://ic.zigbang.com/ic/items/40005436/7.jpg', 'https://ic.zigbang.com/ic/items/40005436/8.jpg', 'https://ic.zigbang.com/ic/items/40005436/9.jpg', 'https://ic.zigbang.com/ic/items/40005436/10.jpg', 'https://ic.zigbang.com/ic/items/40005436/11.jpg', 'https://ic.zigbang.com/ic/items/40005436/12.jpg', 'https://ic.zigbang.com/ic/items/40005436/13.jpg', 'https://ic.zigbang.com/ic/items/40005436/14.jpg']",https://ic.zigbang.com/ic/items/40005436/1.jpg,300,32,19.83,분리형원룸,엘베있는 이젠산업단지가까운 풀옵션 원룸,"엘베있는 편의시설 가까운곳에 
+위치한 풀옵션 분리형 구조로
+여성분들이 선호하시는 원룸이예요
+건물관리가 잘되어있어 깨끗하며 버스정류장도 가까워요
+위치 및 교통
+8601 광역버스(서울까지 30분)
+차량 10분거리 구래역과 인천 검단사거리역 
+(8601번, 70번, 86번, 7번, 81-1번, 90-1번 따복1 따복4 운행)
+주차및 편의시설
+주차 걱정no no
+은행.마트 ,병원,약국.찜질방.휘트니스클럽.식당가.골프존등
+기본편의시설 다 있어요.
+",open,37.620329663177515,126.62370992452603,주차 가능,세대당 주차 대수 18대,True,W,안방,즉시 입주 가능,4157025626128110000,4,2,"['에어컨', '냉장고', '세탁기', '가스레인지', '옷장', '신발장', '싱크대']",8,"['수도', '인터넷', 'TV']","['전기세', '가스', '난방비']",True,False,01,0,2024-02-29 12:06:54,2015.12.23,1,단독주택,"[{'companyName': '쿠팡', 'kinds': ['로켓배송', '로켓프레시']}, {'companyName': 'SSG', 'kinds': ['쓱배송']}, {'companyName': '배달의 민족', 'kinds': ['배민1']}, {'companyName': '요기요', 'kinds': ['익스프레스']}]","[{'title': '슬세권', 'description': '편리한 상권'}, {'title': '공세권', 'description': '공원'}, {'title': '학세권', 'description': '학원가 근처'}]","[{'exists': True, 'poiType': '지하철역', 'distance': 2566, 'transport': 'car', 'timeTaken': 185}, {'exists': True, 'poiType': '세탁소', 'distance': 238, 'transport': 'foot', 'timeTaken': 214}, {'exists': True, 'poiType': '카페', 'distance': 226, 'transport': 'foot', 'timeTaken': 204}, {'exists': True, 'poiType': '약국', 'distance': 302, 'transport': 'foot', 'timeTaken': 272}, {'exists': True, 'poiType': '대형마트', 'distance': 2714, 'transport': 'car', 'timeTaken': 195}, {'exists': True, 'poiType': '편의점', 'distance': 205, 'transport': 'foot', 'timeTaken': 185}, {'exists': True, 'poiType': '버스정류장', 'distance': 136, 'transport': 'foot', 'timeTaken': 123}]",경기도,김포시,양촌읍,학운리,경기도 김포시 양촌읍,김포시 양촌읍 학운리,김포시 양촌읍 2811,False,2024-02-29T03:06:54.000Z,ZIGBANG,5952924
+[],[],[],일등공인중개사사무소,경기도 김포시 양촌읍 황금로70번길 55,0319893999,"-김포 전지역 매물 다수보유
+-원,투룸.쓰리룸/오피스텔/아파트/전월세
+ 실매물  100%만 찾아드립니다.
+
+
+빠른 문의 방법
+1.입주일짜 
+2.부동산 방문시간
+3.보증금 ,월세금액
+4.선호위치.주차.
+5.애완여부
+위의 조건을 문자로 남겨주시면 빠른상담 가능합니다.
+고객님의 소중한 보증금 을 위한 중개사고 방지를위해
+계약시 확실한 설명과 1억 원 공제증서를 제공해드려요",대표공인중개사,박채희,https://ic.zigbang.com/vp/profile/5952924/e396a85a51164a8b6292973b959a51a6babbbbde.jpg,5952924,False,40168179,월세,원룸,"['https://ic.zigbang.com/ic/items/40168179/1.jpg', 'https://ic.zigbang.com/ic/items/40168179/2.jpg', 'https://ic.zigbang.com/ic/items/40168179/3.jpg', 'https://ic.zigbang.com/ic/items/40168179/4.jpg', 'https://ic.zigbang.com/ic/items/40168179/5.jpg', 'https://ic.zigbang.com/ic/items/40168179/6.jpg', 'https://ic.zigbang.com/ic/items/40168179/7.jpg', 'https://ic.zigbang.com/ic/items/40168179/8.jpg', 'https://ic.zigbang.com/ic/items/40168179/9.jpg', 'https://ic.zigbang.com/ic/items/40168179/10.jpg', 'https://ic.zigbang.com/ic/items/40168179/11.jpg', 'https://ic.zigbang.com/ic/items/40168179/12.jpg', 'https://ic.zigbang.com/ic/items/40168179/13.jpg', 'https://ic.zigbang.com/ic/items/40168179/14.jpg']",https://ic.zigbang.com/ic/items/40168179/1.jpg,300,30,19.83,분리형원룸,막힘없는뷰  FULL옵션원룸,"저렴하고 혼자살면서 확트인 분리형 원룸.
+세탁실.주방 중문설치로 방음.방열에 효과적이예요
+신축 풀옵션이구요~
+필로티 구조로 주차 또한 문제없어요
+주변 편의시설 좋구요(은행.마트.편의점.찜질방.휘트니스클럽.병원.약국.식당가등)
+버스정류장 3분거리.(8601번, 70번, 86번, 7번, 81-1번, 90-1번 따복1 따복4 운행)
+
+",open,37.62016518997015,126.62589284322233,주차 가능,세대당 주차 대수 8대,False,NW,안방,즉시 입주 가능,4157025626128290000,4,2,"['에어컨', '냉장고', '세탁기', '인덕션', '신발장', '싱크대']",5,"['수도', '인터넷', 'TV']","['전기세', '가스', '난방비']",True,False,01,0,2024-03-13 15:52:49,2016.08.24,1,단독주택,"[{'companyName': '쿠팡', 'kinds': ['로켓배송', '로켓프레시']}, {'companyName': 'SSG', 'kinds': ['쓱배송']}, {'companyName': '배달의 민족', 'kinds': ['배민1']}, {'companyName': '요기요', 'kinds': ['익스프레스']}]","[{'title': '공세권', 'description': '공원'}, {'title': '학세권', 'description': '학원가 근처'}]","[{'exists': True, 'poiType': '지하철역', 'distance': 2618, 'transport': 'car', 'timeTaken': 188}, {'exists': True, 'poiType': '세탁소', 'distance': 211, 'transport': 'foot', 'timeTaken': 190}, {'exists': True, 'poiType': '카페', 'distance': 447, 'transport': 'foot', 'timeTaken': 403}, {'exists': True, 'poiType': '약국', 'distance': 475, 'transport': 'foot', 'timeTaken': 428}, {'exists': True, 'poiType': '대형마트', 'distance': 2650, 'transport': 'car', 'timeTaken': 191}, {'exists': True, 'poiType': '편의점', 'distance': 58, 'transport': 'foot', 'timeTaken': 52}, {'exists': True, 'poiType': '버스정류장', 'distance': 124, 'transport': 'foot', 'timeTaken': 112}]",경기도,김포시,양촌읍,학운리,경기도 김포시 양촌읍,김포시 양촌읍 학운리,김포시 양촌읍 2829,False,2024-03-13T06:52:49.000Z,ZIGBANG,5952924
+[],[],[],일등공인중개사사무소,경기도 김포시 양촌읍 황금로70번길 55,0319893999,"-김포 전지역 매물 다수보유
+-원,투룸.쓰리룸/오피스텔/아파트/전월세
+ 실매물  100%만 찾아드립니다.
+
+
+빠른 문의 방법
+1.입주일짜 
+2.부동산 방문시간
+3.보증금 ,월세금액
+4.선호위치.주차.
+5.애완여부
+위의 조건을 문자로 남겨주시면 빠른상담 가능합니다.
+고객님의 소중한 보증금 을 위한 중개사고 방지를위해
+계약시 확실한 설명과 1억 원 공제증서를 제공해드려요",대표공인중개사,박채희,https://ic.zigbang.com/vp/profile/5952924/e396a85a51164a8b6292973b959a51a6babbbbde.jpg,5952924,False,39921328,월세,원룸,"['https://ic.zigbang.com/ic/items/39921328/1.jpg', 'https://ic.zigbang.com/ic/items/39921328/2.jpg', 'https://ic.zigbang.com/ic/items/39921328/3.jpg', 'https://ic.zigbang.com/ic/items/39921328/4.jpg', 'https://ic.zigbang.com/ic/items/39921328/5.jpg', 'https://ic.zigbang.com/ic/items/39921328/6.jpg', 'https://ic.zigbang.com/ic/items/39921328/7.jpg', 'https://ic.zigbang.com/ic/items/39921328/8.jpg']",https://ic.zigbang.com/ic/items/39921328/1.jpg,300,30,19.83,오픈형원룸,엘베있는 풀옵션 원룸,"이젠몰 가까운곳에 위치해있으며
+엘레베이터가 있어서 힘들지않아요
+건물관리가 잘되어있어서 깔끔합니다.
+베란다에 붙박이장이 있어서 수납하기도 좋아요",open,37.62063947223012,126.6235862883252,주차 가능,세대당 주차 대수 10대,True,W,안방,즉시 입주 가능,4157025626127990000,4,2,"['에어컨', '냉장고', '세탁기', '가스레인지', '옷장', '신발장', '싱크대']",5,"['수도', '인터넷', 'TV']","['전기세', '가스', '난방비']",True,False,01,0,2024-02-22 13:18:46,20110728,1,단독주택,"[{'companyName': '쿠팡', 'kinds': ['로켓배송', '로켓프레시']}, {'companyName': 'SSG', 'kinds': ['쓱배송']}, {'companyName': '배달의 민족', 'kinds': ['배민1']}, {'companyName': '요기요', 'kinds': ['익스프레스']}]","[{'title': '슬세권', 'description': '편리한 상권'}, {'title': '공세권', 'description': '공원'}, {'title': '학세권', 'description': '학원가 근처'}]","[{'exists': True, 'poiType': '지하철역', 'distance': 2527, 'transport': 'car', 'timeTaken': 182}, {'exists': True, 'poiType': '세탁소', 'distance': 273, 'transport': 'foot', 'timeTaken': 246}, {'exists': True, 'poiType': '카페', 'distance': 247, 'transport': 'foot', 'timeTaken': 223}, {'exists': True, 'poiType': '약국', 'distance': 332, 'transport': 'foot', 'timeTaken': 299}, {'exists': True, 'poiType': '대형마트', 'distance': 2680, 'transport': 'car', 'timeTaken': 193}, {'exists': True, 'poiType': '편의점', 'distance': 221, 'transport': 'foot', 'timeTaken': 199}, {'exists': True, 'poiType': '버스정류장', 'distance': 157, 'transport': 'foot', 'timeTaken': 141}]",경기도,김포시,양촌읍,학운리,경기도 김포시 양촌읍,김포시 양촌읍 학운리,김포시 양촌읍 2799,False,2024-02-22T04:18:46.000Z,ZIGBANG,5952924
+[],[],[],일등공인중개사사무소,경기도 김포시 양촌읍 황금로70번길 55,0319893999,"-김포 전지역 매물 다수보유
+-원,투룸.쓰리룸/오피스텔/아파트/전월세
+ 실매물  100%만 찾아드립니다.
+
+
+빠른 문의 방법
+1.입주일짜 
+2.부동산 방문시간
+3.보증금 ,월세금액
+4.선호위치.주차.
+5.애완여부
+위의 조건을 문자로 남겨주시면 빠른상담 가능합니다.
+고객님의 소중한 보증금 을 위한 중개사고 방지를위해
+계약시 확실한 설명과 1억 원 공제증서를 제공해드려요",대표공인중개사,박채희,https://ic.zigbang.com/vp/profile/5952924/e396a85a51164a8b6292973b959a51a6babbbbde.jpg,5952924,False,40119977,월세,원룸,"['https://ic.zigbang.com/ic/items/40119977/1.jpg', 'https://ic.zigbang.com/ic/items/40119977/2.jpg', 'https://ic.zigbang.com/ic/items/40119977/3.jpg', 'https://ic.zigbang.com/ic/items/40119977/4.jpg', 'https://ic.zigbang.com/ic/items/40119977/5.jpg', 'https://ic.zigbang.com/ic/items/40119977/6.jpg', 'https://ic.zigbang.com/ic/items/40119977/7.jpg', 'https://ic.zigbang.com/ic/items/40119977/8.jpg', 'https://ic.zigbang.com/ic/items/40119977/9.jpg', 'https://ic.zigbang.com/ic/items/40119977/10.jpg']",https://ic.zigbang.com/ic/items/40119977/1.jpg,300,30,23.14,분리형원룸,ㅁㅁ이젠 산업단지 가까운 풀옵션 원룸ㅁㅁ,"이젠산업단지 가까운곳에 위치해있으며
+풀옵션이며 큰창이있어 채광또한 좋아요
+화장실.주방 창문이 있어 환기.습기걱정 없어요
+주차및 편의시설
+주차 걱정no no
+은행.마트 ,병원,약국.찜질방.휘트니스클럽.식당가.골프존등
+기본편의시설 다 있어요.
+
+위치 및 교통
+8601 광역버스(서울까지 30분)
+차량 10분거리 구래역과 인천 검단사거리역 
+(8601번, 70번, 86번, 7번, 81-1번, 90-1번 따복1 따복4 운행)
+",open,37.620664035389495,126.624335267105,주차 가능,세대당 주차 대수 8대,False,SW,안방,즉시 입주 가능,4157025626128060000,4,4,"['에어컨', '냉장고', '세탁기', '가스레인지', '신발장', '싱크대']",5,"['수도', '인터넷', 'TV']","['전기세', '가스', '난방비']",True,False,01,0,2024-03-09 13:12:51,2011.11.10,1,단독주택,"[{'companyName': '쿠팡', 'kinds': ['로켓배송', '로켓프레시']}, {'companyName': 'SSG', 'kinds': ['쓱배송']}, {'companyName': '배달의 민족', 'kinds': ['배민1']}, {'companyName': '요기요', 'kinds': ['익스프레스']}]","[{'title': '공세권', 'description': '공원'}, {'title': '학세권', 'description': '학원가 근처'}]","[{'exists': True, 'poiType': '지하철역', 'distance': 2545, 'transport': 'car', 'timeTaken': 183}, {'exists': True, 'poiType': '세탁소', 'distance': 236, 'transport': 'foot', 'timeTaken': 213}, {'exists': True, 'poiType': '카페', 'distance': 290, 'transport': 'foot', 'timeTaken': 261}, {'exists': True, 'poiType': '약국', 'distance': 358, 'transport': 'foot', 'timeTaken': 323}, {'exists': True, 'poiType': '대형마트', 'distance': 2667, 'transport': 'car', 'timeTaken': 192}, {'exists': True, 'poiType': '편의점', 'distance': 159, 'transport': 'foot', 'timeTaken': 143}, {'exists': True, 'poiType': '버스정류장', 'distance': 117, 'transport': 'foot', 'timeTaken': 105}]",경기도,김포시,양촌읍,학운리,경기도 김포시 양촌읍,김포시 양촌읍 학운리,김포시 양촌읍 2806,False,2024-03-09T04:12:51.000Z,ZIGBANG,5952924
+[],[],['추천'],일등공인중개사사무소,경기도 김포시 양촌읍 황금로70번길 55,0319893999,"-김포 전지역 매물 다수보유
+-원,투룸.쓰리룸/오피스텔/아파트/전월세
+ 실매물  100%만 찾아드립니다.
+
+
+빠른 문의 방법
+1.입주일짜 
+2.부동산 방문시간
+3.보증금 ,월세금액
+4.선호위치.주차.
+5.애완여부
+위의 조건을 문자로 남겨주시면 빠른상담 가능합니다.
+고객님의 소중한 보증금 을 위한 중개사고 방지를위해
+계약시 확실한 설명과 1억 원 공제증서를 제공해드려요",대표공인중개사,박채희,https://ic.zigbang.com/vp/profile/5952924/e396a85a51164a8b6292973b959a51a6babbbbde.jpg,5952924,False,40243758,월세,원룸,"['https://ic.zigbang.com/ic/items/40243758/1.jpg', 'https://ic.zigbang.com/ic/items/40243758/2.jpg', 'https://ic.zigbang.com/ic/items/40243758/3.jpg', 'https://ic.zigbang.com/ic/items/40243758/4.jpg', 'https://ic.zigbang.com/ic/items/40243758/5.jpg', 'https://ic.zigbang.com/ic/items/40243758/6.jpg', 'https://ic.zigbang.com/ic/items/40243758/7.jpg', 'https://ic.zigbang.com/ic/items/40243758/8.jpg', 'https://ic.zigbang.com/ic/items/40243758/9.jpg', 'https://ic.zigbang.com/ic/items/40243758/10.jpg', 'https://ic.zigbang.com/ic/items/40243758/11.jpg', 'https://ic.zigbang.com/ic/items/40243758/12.jpg', 'https://ic.zigbang.com/ic/items/40243758/13.jpg', 'https://ic.zigbang.com/ic/items/40243758/14.jpg']",https://ic.zigbang.com/ic/items/40243758/1.jpg,200,30,23.14,오픈형원룸,저렴한 보증금  착한월세원룸,"편의시설 가까운곳에 위치해있으며
+조용한곳.주차편리해요.
+풀옵션으로 바로 입주가능하구요~
+
+
+주차및 편의시설
+주차 걱정no no
+은행.마트 ,병원,약국.찜질방.휘트니스클럽.식당가.골프존등
+기본편의시설 다 있어요.
+",open,37.620280800760035,126.62646575568678,주차 가능,세대당 주차 대수 8대,False,N,안방,2024. 03. 16 이후 입주 가능,4157025626128500000,4,4,"['에어컨', '냉장고', '세탁기', '가스레인지', '옷장', '신발장', '싱크대']",5,"['수도', '인터넷', 'TV']","['전기세', '가스', '난방비']",True,True,False,01,0,2024-03-20 10:54:05,20111125,1,단독주택,"[{'companyName': '쿠팡', 'kinds': ['로켓배송', '로켓프레시']}, {'companyName': 'SSG', 'kinds': ['쓱배송']}, {'companyName': '배달의 민족', 'kinds': ['배민1']}, {'companyName': '요기요', 'kinds': ['익스프레스']}]","[{'title': '공세권', 'description': '공원'}, {'title': '학세권', 'description': '학원가 근처'}]","[{'exists': True, 'poiType': '지하철역', 'distance': 2623, 'transport': 'car', 'timeTaken': 189}, {'exists': True, 'poiType': '세탁소', 'distance': 246, 'transport': 'foot', 'timeTaken': 222}, {'exists': True, 'poiType': '카페', 'distance': 498, 'transport': 'foot', 'timeTaken': 449}, {'exists': True, 'poiType': '약국', 'distance': 522, 'transport': 'foot', 'timeTaken': 470}, {'exists': True, 'poiType': '대형마트', 'distance': 2631, 'transport': 'car', 'timeTaken': 189}, {'exists': True, 'poiType': '편의점', 'distance': 93, 'transport': 'foot', 'timeTaken': 84}, {'exists': True, 'poiType': '버스정류장', 'distance': 174, 'transport': 'foot', 'timeTaken': 157}]",경기도,김포시,양촌읍,학운리,경기도 김포시 양촌읍,김포시 양촌읍 학운리,김포시 양촌읍 2850,False,2024-03-21T06:24:38.000Z,ZIGBANG,5952924
+[],[],[],일등공인중개사사무소,경기도 김포시 양촌읍 황금로70번길 55,0319893999,"-김포 전지역 매물 다수보유
+-원,투룸.쓰리룸/오피스텔/아파트/전월세
+ 실매물  100%만 찾아드립니다.
+
+
+빠른 문의 방법
+1.입주일짜 
+2.부동산 방문시간
+3.보증금 ,월세금액
+4.선호위치.주차.
+5.애완여부
+위의 조건을 문자로 남겨주시면 빠른상담 가능합니다.
+고객님의 소중한 보증금 을 위한 중개사고 방지를위해
+계약시 확실한 설명과 1억 원 공제증서를 제공해드려요",대표공인중개사,박채희,https://ic.zigbang.com/vp/profile/5952924/e396a85a51164a8b6292973b959a51a6babbbbde.jpg,5952924,False,39981081,월세,원룸,"['https://ic.zigbang.com/ic/items/39981081/1.jpg', 'https://ic.zigbang.com/ic/items/39981081/2.jpg', 'https://ic.zigbang.com/ic/items/39981081/3.jpg', 'https://ic.zigbang.com/ic/items/39981081/4.jpg', 'https://ic.zigbang.com/ic/items/39981081/5.jpg', 'https://ic.zigbang.com/ic/items/39981081/6.jpg', 'https://ic.zigbang.com/ic/items/39981081/7.jpg', 'https://ic.zigbang.com/ic/items/39981081/8.jpg', 'https://ic.zigbang.com/ic/items/39981081/9.jpg', 'https://ic.zigbang.com/ic/items/39981081/10.jpg', 'https://ic.zigbang.com/ic/items/39981081/11.jpg', 'https://ic.zigbang.com/ic/items/39981081/12.jpg', 'https://ic.zigbang.com/ic/items/39981081/13.jpg', 'https://ic.zigbang.com/ic/items/39981081/14.jpg', 'https://ic.zigbang.com/ic/items/39981081/15.jpg', 'https://ic.zigbang.com/ic/items/39981081/16.jpg']",https://ic.zigbang.com/ic/items/39981081/1.jpg,500,53,39.67,분리형원룸,남향집 살림가능한 넓은방,"주방바로옆 창문이있어서
+음식냄새걱정없구요
+식탁놓을자리도 충분합니다
+남향집으로 안방이 무지넓어서 킹사이즈침대 옷장다가능해요
+베란다도 넓어서 빨래널기도 좋습니다.",open,37.62086734431441,126.62801781238932,주차 불가능,False,S,안방,즉시 입주 가능,4157025626128690000,4,3,"['에어컨', '세탁기', '가스레인지', '신발장', '싱크대']",7,"['수도', '인터넷', 'TV']","['전기세', '가스', '난방비']",False,True,False,01,0,2024-03-06 13:09:08,20110317,1,단독주택,"[{'companyName': '쿠팡', 'kinds': ['로켓배송', '로켓프레시']}, {'companyName': 'SSG', 'kinds': ['쓱배송']}, {'companyName': '배달의 민족', 'kinds': ['배민1']}, {'companyName': '요기요', 'kinds': ['익스프레스']}]","[{'title': '공세권', 'description': '공원'}, {'title': '학세권', 'description': '학원가 근처'}]","[{'exists': True, 'poiType': '지하철역', 'distance': 2637, 'transport': 'car', 'timeTaken': 190}, {'exists': True, 'poiType': '세탁소', 'distance': 300, 'transport': 'foot', 'timeTaken': 270}, {'exists': True, 'poiType': '카페', 'distance': 449, 'transport': 'foot', 'timeTaken': 405}, {'exists': True, 'poiType': '약국', 'distance': 591, 'transport': 'foot', 'timeTaken': 532}, {'exists': True, 'poiType': '대형마트', 'distance': 2621, 'transport': 'car', 'timeTaken': 189}, {'exists': True, 'poiType': '편의점', 'distance': 64, 'transport': 'foot', 'timeTaken': 58}, {'exists': True, 'poiType': '버스정류장', 'distance': 137, 'transport': 'foot', 'timeTaken': 123}]",경기도,김포시,양촌읍,학운리,경기도 김포시 양촌읍,김포시 양촌읍 학운리,김포시 양촌읍 2869,False,2024-02-27T05:26:14.000Z,ZIGBANG,5952924
+[],[],['추천'],365공인중개사사무소,경기도 김포시 양촌읍 황금로70번길 53 1층 일부(101호),0319883653,"100% 실매물
+<<최다매물보유>>실매물은 고객님과의 신뢰입니다!!
+
+정말 정직하게 광고를 하고 있습니다.
+허위매물없는 100%실매물/실사진/실제가격으로 신뢰와 믿음을 쌓겠습니다.",대표공인중개사,이정미,https://ic.zigbang.com/vp/profile/3979121/84e6bc46846cf1dba267d552fce4f995ffe8e84c.jpg,3979121,False,40050480,월세,원룸,"['https://ic.zigbang.com/ic/items/40050480/1.jpg', 'https://ic.zigbang.com/ic/items/40050480/2.jpg', 'https://ic.zigbang.com/ic/items/40050480/3.jpg', 'https://ic.zigbang.com/ic/items/40050480/4.jpg', 'https://ic.zigbang.com/ic/items/40050480/5.jpg', 'https://ic.zigbang.com/ic/items/40050480/6.jpg', 'https://ic.zigbang.com/ic/items/40050480/7.jpg', 'https://ic.zigbang.com/ic/items/40050480/8.jpg', 'https://ic.zigbang.com/ic/items/40050480/9.jpg', 'https://ic.zigbang.com/ic/items/40050480/10.jpg', 'https://ic.zigbang.com/ic/items/40050480/11.jpg', 'https://ic.zigbang.com/ic/items/40050480/12.jpg', 'https://ic.zigbang.com/ic/items/40050480/13.jpg', 'https://ic.zigbang.com/ic/items/40050480/14.jpg', 'https://ic.zigbang.com/ic/items/40050480/15.jpg']",https://ic.zigbang.com/ic/items/40050480/1.jpg,300,43,33.06,분리형원룸,"ㅁ투룸같은1.5룸ㅁ 40인치TV, 밝은집","학운초 인근에 제대로된 1.5룸 이네여..
+거실이 방같은~ 1.5룸인데여~
+사진에서 처럼 주방이 방으로 통하는 곳에 있어서~ 주방은 주방으로~
+거실은 거실로 사용 가능한 구조가 좋은 1.5룸이에여~
+위치까지 좋아서 딱 짚어 이 집 방 있냐고 물어오는 건물입니다.
+빨래 방과 편의점이 1분거리에~
+세련되고 멋진 집입니다.
+",open,37.62078004282349,126.62745781733827,주차 가능,총 주차 대수 4대,False,SE,거실,2024. 03. 09 이후 입주 가능,4157025626128840000,4,4,"['에어컨', '냉장고', '세탁기', '인덕션', '신발장', '싱크대']",7,"['수도', '인터넷', 'TV']","['전기세', '가스', '난방비']",True,True,False,01,0,2024-03-04 13:25:41,2017.922,1,공동주택,"[{'companyName': '쿠팡', 'kinds': ['로켓배송', '로켓프레시']}, {'companyName': 'SSG', 'kinds': ['쓱배송']}, {'companyName': '배달의 민족', 'kinds': ['배민1']}, {'companyName': '요기요', 'kinds': ['익스프레스']}]","[{'title': '공세권', 'description': '공원'}, {'title': '학세권', 'description': '학원가 근처'}]","[{'exists': True, 'poiType': '지하철역', 'distance': 2597, 'transport': 'car', 'timeTaken': 187}, {'exists': True, 'poiType': '세탁소', 'distance': 337, 'transport': 'foot', 'timeTaken': 304}, {'exists': True, 'poiType': '카페', 'distance': 455, 'transport': 'foot', 'timeTaken': 410}, {'exists': True, 'poiType': '약국', 'distance': 622, 'transport': 'foot', 'timeTaken': 560}, {'exists': True, 'poiType': '대형마트', 'distance': 2576, 'transport': 'car', 'timeTaken': 185}, {'exists': True, 'poiType': '편의점', 'distance': 71, 'transport': 'foot', 'timeTaken': 64}, {'exists': True, 'poiType': '버스정류장', 'distance': 168, 'transport': 'foot', 'timeTaken': 151}]",경기도,김포시,양촌읍,학운리,경기도 김포시 양촌읍,김포시 양촌읍 학운리,김포시 양촌읍 2884,False,2024-03-04T04:25:36.000Z,ZIGBANG,3979121
+[],[],['추천'],일등공인중개사사무소,경기도 김포시 양촌읍 황금로70번길 55,0319893999,"-김포 전지역 매물 다수보유
+-원,투룸.쓰리룸/오피스텔/아파트/전월세
+ 실매물  100%만 찾아드립니다.
+
+
+빠른 문의 방법
+1.입주일짜 
+2.부동산 방문시간
+3.보증금 ,월세금액
+4.선호위치.주차.
+5.애완여부
+위의 조건을 문자로 남겨주시면 빠른상담 가능합니다.
+고객님의 소중한 보증금 을 위한 중개사고 방지를위해
+계약시 확실한 설명과 1억 원 공제증서를 제공해드려요",대표공인중개사,박채희,https://ic.zigbang.com/vp/profile/5952924/e396a85a51164a8b6292973b959a51a6babbbbde.jpg,5952924,False,40080835,월세,원룸,"['https://ic.zigbang.com/ic/items/40080835/1.jpg', 'https://ic.zigbang.com/ic/items/40080835/2.jpg', 'https://ic.zigbang.com/ic/items/40080835/3.jpg', 'https://ic.zigbang.com/ic/items/40080835/4.jpg', 'https://ic.zigbang.com/ic/items/40080835/5.jpg', 'https://ic.zigbang.com/ic/items/40080835/6.jpg', 'https://ic.zigbang.com/ic/items/40080835/7.jpg', 'https://ic.zigbang.com/ic/items/40080835/8.jpg', 'https://ic.zigbang.com/ic/items/40080835/9.jpg', 'https://ic.zigbang.com/ic/items/40080835/10.jpg', 'https://ic.zigbang.com/ic/items/40080835/11.jpg', 'https://ic.zigbang.com/ic/items/40080835/12.jpg', 'https://ic.zigbang.com/ic/items/40080835/13.jpg', 'https://ic.zigbang.com/ic/items/40080835/14.jpg']",https://ic.zigbang.com/ic/items/40080835/1.jpg,500,40,26.45,분리형원룸,ㅁㅁ반전세도가능 1.5룸ㅁㅁ,"엘베있는1.5룸입니다.
+보증금 조율가능합니다.
+주방에 창문이있어서 환기걱정없구요
+도배완료
+즉시입주가능합니다.",open,37.62137453289508,126.62826785213082,주차 가능,세대당 주차 대수 8대,True,W,안방,즉시 입주 가능,4157025626128780000,4,4,"['에어컨', '냉장고', '세탁기', '가스레인지', '신발장', '싱크대']",7,"['수도', '인터넷', 'TV']","['전기세', '가스', '난방비']",True,True,False,01,0,2024-03-06 14:26:03,20160429,1,단독주택,"[{'companyName': '쿠팡', 'kinds': ['로켓배송', '로켓프레시']}, {'companyName': 'SSG', 'kinds': ['쓱배송']}, {'companyName': '배달의 민족', 'kinds': ['배민1']}, {'companyName': '요기요', 'kinds': ['익스프레스']}]","[{'title': '공세권', 'description': '공원'}, {'title': '학세권', 'description': '학원가 근처'}]","[{'exists': True, 'poiType': '지하철역', 'distance': 2530, 'transport': 'car', 'timeTaken': 182}, {'exists': True, 'poiType': '세탁소', 'distance': 403, 'transport': 'foot', 'timeTaken': 363}, {'exists': True, 'poiType': '카페', 'distance': 463, 'transport': 'foot', 'timeTaken': 417}, {'exists': True, 'poiType': '약국', 'distance': 679, 'transport': 'car', 'timeTaken': 49}, {'exists': True, 'poiType': '대형마트', 'distance': 2507, 'transport': 'car', 'timeTaken': 180}, {'exists': True, 'poiType': '편의점', 'distance': 25, 'transport': 'foot', 'timeTaken': 23}, {'exists': True, 'poiType': '버스정류장', 'distance': 216, 'transport': 'foot', 'timeTaken': 195}]",경기도,김포시,양촌읍,학운리,경기도 김포시 양촌읍,김포시 양촌읍 학운리,김포시 양촌읍 2878,False,2024-03-06T04:28:08.000Z,ZIGBANG,5952924
+[],[],['추천'],일등공인중개사사무소,경기도 김포시 양촌읍 황금로70번길 55,0319893999,"-김포 전지역 매물 다수보유
+-원,투룸.쓰리룸/오피스텔/아파트/전월세
+ 실매물  100%만 찾아드립니다.
+
+
+빠른 문의 방법
+1.입주일짜 
+2.부동산 방문시간
+3.보증금 ,월세금액
+4.선호위치.주차.
+5.애완여부
+위의 조건을 문자로 남겨주시면 빠른상담 가능합니다.
+고객님의 소중한 보증금 을 위한 중개사고 방지를위해
+계약시 확실한 설명과 1억 원 공제증서를 제공해드려요",대표공인중개사,박채희,https://ic.zigbang.com/vp/profile/5952924/e396a85a51164a8b6292973b959a51a6babbbbde.jpg,5952924,False,40080542,월세,원룸,"['https://ic.zigbang.com/ic/items/40080542/1.jpg', 'https://ic.zigbang.com/ic/items/40080542/2.jpg', 'https://ic.zigbang.com/ic/items/40080542/3.jpg', 'https://ic.zigbang.com/ic/items/40080542/4.jpg', 'https://ic.zigbang.com/ic/items/40080542/5.jpg', 'https://ic.zigbang.com/ic/items/40080542/6.jpg', 'https://ic.zigbang.com/ic/items/40080542/7.jpg', 'https://ic.zigbang.com/ic/items/40080542/8.jpg', 'https://ic.zigbang.com/ic/items/40080542/9.jpg', 'https://ic.zigbang.com/ic/items/40080542/10.jpg', 'https://ic.zigbang.com/ic/items/40080542/11.jpg', 'https://ic.zigbang.com/ic/items/40080542/12.jpg', 'https://ic.zigbang.com/ic/items/40080542/13.jpg', 'https://ic.zigbang.com/ic/items/40080542/14.jpg']",https://ic.zigbang.com/ic/items/40080542/1.jpg,500,40,29.75,분리형원룸,엄청 넓은 1.5룸 풀옵션,"들어가는 입구부터
+큰신발장에 중문이 확실히 분리된 1.5룸이예요
+풀옵션 갖추고 있구요 
+넓은 세탁실 따로 분리되어 있어 빨래널기
+좋구요~주방옆에 창문이있어서 음식냄새.환기걱정
+없어요~
+2분이서 사셔도 충분해요~
+ 버스정류장 5분거리- (8601번, 70번, 86번, 7번, 81-1번, 90-1번 따복1 따복4 운행)
+주변편의시설(은행,마트,휘트니스클럽,찜질방.식당가.빨래방,커피숍등)
+",open,37.62205847793097,126.62786719769385,주차 가능,세대당 주차 대수 8대,False,W,안방,2024. 03. 31 이후 입주 가능,4157025626128950000,4,1,"['에어컨', '냉장고', '세탁기', '인덕션', '옷장', '신발장', '싱크대']",5,"['수도', '인터넷', 'TV']","['전기세', '가스', '난방비']",True,True,False,01,0,2024-03-06 13:12:21,2017.07.05,1,단독주택,"[{'companyName': '쿠팡', 'kinds': ['로켓배송', '로켓프레시']}, {'companyName': 'SSG', 'kinds': ['쓱배송']}, {'companyName': '배달의 민족', 'kinds': ['배민1']}, {'companyName': '요기요', 'kinds': ['익스프레스']}]","[{'title': '공세권', 'description': '공원'}, {'title': '학세권', 'description': '학원가 근처'}]","[{'exists': True, 'poiType': '지하철역', 'distance': 2500, 'transport': 'car', 'timeTaken': 180}, {'exists': True, 'poiType': '세탁소', 'distance': 432, 'transport': 'foot', 'timeTaken': 389}, {'exists': True, 'poiType': '카페', 'distance': 451, 'transport': 'foot', 'timeTaken': 406}, {'exists': True, 'poiType': '약국', 'distance': 709, 'transport': 'car', 'timeTaken': 51}, {'exists': True, 'poiType': '대형마트', 'distance': 2487, 'transport': 'car', 'timeTaken': 179}, {'exists': True, 'poiType': '편의점', 'distance': 30, 'transport': 'foot', 'timeTaken': 27}, {'exists': True, 'poiType': '버스정류장', 'distance': 190, 'transport': 'foot', 'timeTaken': 171}]",경기도,김포시,양촌읍,학운리,경기도 김포시 양촌읍,김포시 양촌읍 학운리,김포시 양촌읍 2895,False,2024-03-06T04:12:08.000Z,ZIGBANG,5952924
+[],[],[],일등공인중개사사무소,경기도 김포시 양촌읍 황금로70번길 55,0319893999,"-김포 전지역 매물 다수보유
+-원,투룸.쓰리룸/오피스텔/아파트/전월세
+ 실매물  100%만 찾아드립니다.
+
+
+빠른 문의 방법
+1.입주일짜 
+2.부동산 방문시간
+3.보증금 ,월세금액
+4.선호위치.주차.
+5.애완여부
+위의 조건을 문자로 남겨주시면 빠른상담 가능합니다.
+고객님의 소중한 보증금 을 위한 중개사고 방지를위해
+계약시 확실한 설명과 1억 원 공제증서를 제공해드려요",대표공인중개사,박채희,https://ic.zigbang.com/vp/profile/5952924/e396a85a51164a8b6292973b959a51a6babbbbde.jpg,5952924,False,40189589,월세,원룸,"['https://ic.zigbang.com/ic/items/40189589/1.jpg', 'https://ic.zigbang.com/ic/items/40189589/2.jpg', 'https://ic.zigbang.com/ic/items/40189589/3.jpg', 'https://ic.zigbang.com/ic/items/40189589/4.jpg', 'https://ic.zigbang.com/ic/items/40189589/5.jpg', 'https://ic.zigbang.com/ic/items/40189589/6.jpg', 'https://ic.zigbang.com/ic/items/40189589/7.jpg', 'https://ic.zigbang.com/ic/items/40189589/8.jpg', 'https://ic.zigbang.com/ic/items/40189589/9.jpg', 'https://ic.zigbang.com/ic/items/40189589/10.jpg', 'https://ic.zigbang.com/ic/items/40189589/11.jpg', 'https://ic.zigbang.com/ic/items/40189589/12.jpg']",https://ic.zigbang.com/ic/items/40189589/1.jpg,500,40,29.75,분리형원룸,거실 베란다 모두다 넓은 풀옵션 신축 1.5룸,"거실과 베란다 방모두 넓은 
+풀옵션 갖춘 신축 1.5룸이예요
+옵션또한좋아요(43인치티비.큰냉장고등)
+화장실에도 창문이있어 환기.습기걱정없구요.
+주방에도 창문이 있어서 요리하시기에도 편리합니다.
+거실이 넓어서 쇼파도 넣을수 있어요~
+위치 및 교통
+8601 광역버스(서울까지 30분)
+차량 10분거리 구래역과 인천 검단사거리역 
+(8601번, 70번, 86번, 7번, 81-1번, 90-1번 따복1 따복4 운행)
+
+주차및 편의시설
+주차 걱정no no
+은행.마트 ,병원,약국.찜질방.휘트니스클럽.식당가.골프존등
+기본편의시설 다 있어요.
+
+",open,37.621542396362486,126.62791397974243,주차 가능,세대당 주차 대수 8대,False,S,안방,2024. 04. 20 이후 입주 가능,4157025626128950000,4,3,"['에어컨', '냉장고', '세탁기', '인덕션', '신발장', '싱크대']",7,"['수도', '인터넷', 'TV']","['전기세', '가스', '난방비']",True,False,01,0,2024-03-15 12:02:36,2017.07.05,1,단독주택,"[{'companyName': '쿠팡', 'kinds': ['로켓배송', '로켓프레시']}, {'companyName': 'SSG', 'kinds': ['쓱배송']}, {'companyName': '배달의 민족', 'kinds': ['배민1']}, {'companyName': '요기요', 'kinds': ['익스프레스']}]","[{'title': '공세권', 'description': '공원'}, {'title': '학세권', 'description': '학원가 근처'}]","[{'exists': True, 'poiType': '지하철역', 'distance': 2500, 'transport': 'car', 'timeTaken': 180}, {'exists': True, 'poiType': '세탁소', 'distance': 432, 'transport': 'foot', 'timeTaken': 389}, {'exists': True, 'poiType': '카페', 'distance': 451, 'transport': 'foot', 'timeTaken': 406}, {'exists': True, 'poiType': '약국', 'distance': 709, 'transport': 'car', 'timeTaken': 51}, {'exists': True, 'poiType': '대형마트', 'distance': 2487, 'transport': 'car', 'timeTaken': 179}, {'exists': True, 'poiType': '편의점', 'distance': 30, 'transport': 'foot', 'timeTaken': 27}, {'exists': True, 'poiType': '버스정류장', 'distance': 190, 'transport': 'foot', 'timeTaken': 171}]",경기도,김포시,양촌읍,학운리,경기도 김포시 양촌읍,김포시 양촌읍 학운리,김포시 양촌읍 2895,False,2024-03-15T03:02:36.000Z,ZIGBANG,5952924
+[],[],['추천'],나무공인중개사사무소,경기도 김포시 양촌읍 황금로89번길 38 268호 (보람리치타워),15888392,,대표공인중개사,송용의,https://ic.zigbang.com/vp/profile/3006070/91c2eb54fafc7e438f0eae780c18546c39b4d8e8.jpg,3006070,False,79963,경기도,김포시,양촌읍,,37.61765800152509,126.62301899301951,보람리치타워,49,2018. 10,입주2년후,37.61716031943979,126.62291277018421,8.98241,-29.7879,-3,39793667,월세,오피스텔,"['https://ic.zigbang.com/ic/items/39793667/1.jpg', 'https://ic.zigbang.com/ic/items/39793667/2.jpg', 'https://ic.zigbang.com/ic/items/39793667/3.jpg', 'https://ic.zigbang.com/ic/items/39793667/4.jpg', 'https://ic.zigbang.com/ic/items/39793667/5.jpg', 'https://ic.zigbang.com/ic/items/39793667/6.jpg', 'https://ic.zigbang.com/ic/items/39793667/7.jpg', 'https://ic.zigbang.com/ic/items/39793667/8.jpg', 'https://ic.zigbang.com/ic/items/39793667/9.jpg']",https://ic.zigbang.com/ic/items/39793667/1.jpg,500,40,26.98,42.31,복층형원룸,학운산업단지 중심상가 복층형 오피스텔,"♦구조 / 옵션
+
+-복층형 원룸
+
+- 냉장고, 세탁기, 에어컨, TV(42""), 암막커튼, 블라인드등 풀옵션 제공
+
+- 티비 인터넷은 관리비에 포함
+
+",open,37.6174294154566,126.62335502184241,주차 가능,세대당 주차 대수 7.14대,True,S,거실,즉시 입주 가능,4157025626129930000,4,3,29342,"['에어컨', '냉장고', '세탁기', '가스레인지', '인덕션', '전자레인지', '옷장', '신발장', '싱크대']",5,"['인터넷', 'TV']","['전기세', '가스', '수도', '난방비']",True,True,False,02,0,2024-03-06 10:48:51,2018년 10월 24일,1,오피스텔,"[{'companyName': '쿠팡', 'kinds': ['로켓배송', '로켓프레시']}, {'companyName': 'SSG', 'kinds': ['새벽배송', '쓱배송']}, {'companyName': '배달의 민족', 'kinds': ['배민1']}, {'companyName': '요기요', 'kinds': ['익스프레스']}]","[{'title': '슬세권', 'description': '편리한 상권'}, {'title': '공세권', 'description': '공원'}, {'title': '학세권', 'description': '학원가 근처'}]","[{'exists': True, 'poiType': '지하철역', 'distance': 2662, 'transport': 'car', 'timeTaken': 192}, {'exists': True, 'poiType': '세탁소', 'distance': 235, 'transport': 'foot', 'timeTaken': 212}, {'exists': True, 'poiType': '카페', 'distance': 68, 'transport': 'foot', 'timeTaken': 61}, {'exists': True, 'poiType': '약국', 'distance': 71, 'transport': 'foot', 'timeTaken': 64}, {'exists': True, 'poiType': '대형마트', 'distance': 2984, 'transport': 'car', 'timeTaken': 215}, {'exists': True, 'poiType': '편의점', 'distance': 80, 'transport': 'foot', 'timeTaken': 72}, {'exists': True, 'poiType': '버스정류장', 'distance': 81, 'transport': 'foot', 'timeTaken': 73}]",경기도,김포시,양촌읍,학운리,경기도 김포시 양촌읍,김포시 양촌읍 학운리,김포시 양촌읍 학운리 2993,False,2024-03-20T01:14:39.000Z,ZIGBANG,3006070
+[],[],['추천'],일등공인중개사사무소,경기도 김포시 양촌읍 황금로70번길 55,0319893999,"-김포 전지역 매물 다수보유
+-원,투룸.쓰리룸/오피스텔/아파트/전월세
+ 실매물  100%만 찾아드립니다.
+
+
+빠른 문의 방법
+1.입주일짜 
+2.부동산 방문시간
+3.보증금 ,월세금액
+4.선호위치.주차.
+5.애완여부
+위의 조건을 문자로 남겨주시면 빠른상담 가능합니다.
+고객님의 소중한 보증금 을 위한 중개사고 방지를위해
+계약시 확실한 설명과 1억 원 공제증서를 제공해드려요",대표공인중개사,박채희,https://ic.zigbang.com/vp/profile/5952924/e396a85a51164a8b6292973b959a51a6babbbbde.jpg,5952924,False,40118498,월세,원룸,"['https://ic.zigbang.com/ic/items/40118498/1.jpg', 'https://ic.zigbang.com/ic/items/40118498/2.jpg', 'https://ic.zigbang.com/ic/items/40118498/3.jpg', 'https://ic.zigbang.com/ic/items/40118498/4.jpg', 'https://ic.zigbang.com/ic/items/40118498/5.jpg', 'https://ic.zigbang.com/ic/items/40118498/6.jpg', 'https://ic.zigbang.com/ic/items/40118498/7.jpg', 'https://ic.zigbang.com/ic/items/40118498/8.jpg', 'https://ic.zigbang.com/ic/items/40118498/9.jpg', 'https://ic.zigbang.com/ic/items/40118498/10.jpg', 'https://ic.zigbang.com/ic/items/40118498/11.jpg', 'https://ic.zigbang.com/ic/items/40118498/12.jpg', 'https://ic.zigbang.com/ic/items/40118498/13.jpg', 'https://ic.zigbang.com/ic/items/40118498/14.jpg', 'https://ic.zigbang.com/ic/items/40118498/15.jpg', 'https://ic.zigbang.com/ic/items/40118498/16.jpg', 'https://ic.zigbang.com/ic/items/40118498/17.jpg', 'https://ic.zigbang.com/ic/items/40118498/18.jpg', 'https://ic.zigbang.com/ic/items/40118498/19.jpg']",https://ic.zigbang.com/ic/items/40118498/1.jpg,500,52,39.67,분리형원룸,ㅁㅁ즉시입주 남향집 투룸ㅁㅁ,"채광좋은 남향집입니다.
+안방에 창문이 2개나 있어서 밝으며
+베란다또한 남향으로 빨래도 잘말라요
+방2개 크고요  화장실도 넓어요",open,37.619130172893385,126.62883153459795,주차 가능,세대당 주차 대수 8대,False,S,거실,즉시 입주 가능,4157025626129280000,4,3,"['에어컨', '냉장고', '세탁기', '가스레인지', '전자레인지', '옷장', '신발장', '싱크대']",8,"['수도', '인터넷', 'TV']","['전기세', '가스', '난방비']",True,True,False,01,0,2024-03-09 13:12:35,20110729,1,단독주택,"[{'companyName': '쿠팡', 'kinds': ['로켓배송', '로켓프레시']}, {'companyName': 'SSG', 'kinds': ['쓱배송']}, {'companyName': '배달의 민족', 'kinds': ['배민1']}, {'companyName': '요기요', 'kinds': ['익스프레스']}]","[{'title': '공세권', 'description': '공원'}, {'title': '학세권', 'description': '학원가 근처'}]","[{'exists': True, 'poiType': '지하철역', 'distance': 2691, 'transport': 'car', 'timeTaken': 194}, {'exists': True, 'poiType': '세탁소', 'distance': 340, 'transport': 'foot', 'timeTaken': 306}, {'exists': True, 'poiType': '카페', 'distance': 320, 'transport': 'foot', 'timeTaken': 288}, {'exists': True, 'poiType': '약국', 'distance': 643, 'transport': 'foot', 'timeTaken': 579}, {'exists': True, 'poiType': '대형마트', 'distance': 2758, 'transport': 'car', 'timeTaken': 199}, {'exists': True, 'poiType': '편의점', 'distance': 154, 'transport': 'foot', 'timeTaken': 139}, {'exists': True, 'poiType': '버스정류장', 'distance': 52, 'transport': 'foot', 'timeTaken': 47}]",경기도,김포시,양촌읍,학운리,경기도 김포시 양촌읍,김포시 양촌읍 학운리,김포시 양촌읍 2928,False,2024-03-17T01:02:42.000Z,ZIGBANG,5952924
+[],[],['추천'],일등공인중개사사무소,경기도 김포시 양촌읍 황금로70번길 55,0319893999,"-김포 전지역 매물 다수보유
+-원,투룸.쓰리룸/오피스텔/아파트/전월세
+ 실매물  100%만 찾아드립니다.
+
+
+빠른 문의 방법
+1.입주일짜 
+2.부동산 방문시간
+3.보증금 ,월세금액
+4.선호위치.주차.
+5.애완여부
+위의 조건을 문자로 남겨주시면 빠른상담 가능합니다.
+고객님의 소중한 보증금 을 위한 중개사고 방지를위해
+계약시 확실한 설명과 1억 원 공제증서를 제공해드려요",대표공인중개사,박채희,https://ic.zigbang.com/vp/profile/5952924/e396a85a51164a8b6292973b959a51a6babbbbde.jpg,5952924,False,40080502,월세,원룸,"['https://ic.zigbang.com/ic/items/40080502/1.jpg', 'https://ic.zigbang.com/ic/items/40080502/2.jpg', 'https://ic.zigbang.com/ic/items/40080502/3.jpg', 'https://ic.zigbang.com/ic/items/40080502/4.jpg', 'https://ic.zigbang.com/ic/items/40080502/5.jpg', 'https://ic.zigbang.com/ic/items/40080502/6.jpg', 'https://ic.zigbang.com/ic/items/40080502/7.jpg', 'https://ic.zigbang.com/ic/items/40080502/8.jpg', 'https://ic.zigbang.com/ic/items/40080502/9.jpg', 'https://ic.zigbang.com/ic/items/40080502/10.jpg']",https://ic.zigbang.com/ic/items/40080502/1.jpg,300,30,19.8,오픈형원룸,채광굿 분리형 풀옵션 깔끔 원룸,"채광이 좋은 방이넓은 풀옵션 원룸이예요
+베란다도 넓구요 베란다에 수납장있어서
+옷장.이불장으로 사용할수 있어요~
+도로변에서도 가깝고 주차도 수월하구요
+중문이 있어 방음.방열에 효과적입니다.
+편의점 2분거리에 있어요.
+주변편의시설(은행,마트,휘트니스클럽,찜질방.식당가.빨래방,커피숍,병원등)
+
+▶ 버스정류장 3분거리- (8601번, 70번, 86번, 7번, 81-1번, 90-1번 따복1 따복4 운행)
+▶대표공인중개사로 믿을수 있는 거래를  위해서 최선을 다하겠습니다.",open,37.61970159410221,126.62939085337707,주차 가능,세대당 주차 대수 8대,False,S,거실,즉시 입주 가능,4157025626129270000,4,2,"['에어컨', '냉장고', '세탁기', '가스레인지', '옷장', '싱크대']",5,"['수도', '인터넷', 'TV']","['전기세', '가스', '난방비']",True,True,False,01,0,2024-03-06 13:10:00,20120810,1,단독주택,"[{'companyName': '쿠팡', 'kinds': ['로켓배송', '로켓프레시']}, {'companyName': 'SSG', 'kinds': ['쓱배송']}, {'companyName': '배달의 민족', 'kinds': ['배민1']}, {'companyName': '요기요', 'kinds': ['익스프레스']}]","[{'title': '공세권', 'description': '공원'}, {'title': '학세권', 'description': '학원가 근처'}]","[{'exists': True, 'poiType': '지하철역', 'distance': 2634, 'transport': 'car', 'timeTaken': 190}, {'exists': True, 'poiType': '세탁소', 'distance': 358, 'transport': 'foot', 'timeTaken': 323}, {'exists': True, 'poiType': '카페', 'distance': 320, 'transport': 'foot', 'timeTaken': 288}, {'exists': True, 'poiType': '약국', 'distance': 662, 'transport': 'foot', 'timeTaken': 596}, {'exists': True, 'poiType': '대형마트', 'distance': 2692, 'transport': 'car', 'timeTaken': 194}, {'exists': True, 'poiType': '편의점', 'distance': 130, 'transport': 'foot', 'timeTaken': 117}, {'exists': True, 'poiType': '버스정류장', 'distance': 28, 'transport': 'foot', 'timeTaken': 25}]",경기도,김포시,양촌읍,학운리,경기도 김포시 양촌읍,김포시 양촌읍 학운리,김포시 양촌읍 2927,False,2024-03-12T08:23:46.000Z,ZIGBANG,5952924
+[],[],[],365공인중개사사무소,경기도 김포시 양촌읍 황금로70번길 53 1층 일부(101호),0319883653,"100% 실매물
+<<최다매물보유>>실매물은 고객님과의 신뢰입니다!!
+
+정말 정직하게 광고를 하고 있습니다.
+허위매물없는 100%실매물/실사진/실제가격으로 신뢰와 믿음을 쌓겠습니다.",대표공인중개사,이정미,https://ic.zigbang.com/vp/profile/3979121/84e6bc46846cf1dba267d552fce4f995ffe8e84c.jpg,3979121,False,40050293,월세,원룸,"['https://ic.zigbang.com/ic/items/40050293/1.jpg', 'https://ic.zigbang.com/ic/items/40050293/2.jpg', 'https://ic.zigbang.com/ic/items/40050293/3.jpg', 'https://ic.zigbang.com/ic/items/40050293/4.jpg', 'https://ic.zigbang.com/ic/items/40050293/5.jpg', 'https://ic.zigbang.com/ic/items/40050293/6.jpg', 'https://ic.zigbang.com/ic/items/40050293/7.jpg']",https://ic.zigbang.com/ic/items/40050293/1.jpg,200,33,26.45,분리형원룸,정남향에 풀옵션 버스정류장1분거리초저렴,"1년 계약일때 금액입니다.
+방크고요~~ 
+장농에~~ 천장 빨래걸이까지~~ 풀~~옵션!!!
+기본에 충실하고, 실속있는 구조의 원룸이라는걸
+보시면 알거에여~
+위치가 너무 좋아서 차량이 없는 분도 
+있는 분도 편안하게 살게 해 주는 그런 집입니다.
+",open,37.619812359517084,126.62626946287682,주차 가능,총 주차 대수 4대,False,S,안방,즉시 입주 가능,4157025626128370000,4,3,"['에어컨', '냉장고', '세탁기', '가스레인지', '옷장', '신발장', '싱크대']",5,"['수도', '인터넷', 'TV']","['전기세', '가스', '난방비']",False,True,False,01,0,2024-03-04 13:27:10,2011.12.29,1,다가구,"[{'companyName': '쿠팡', 'kinds': ['로켓배송', '로켓프레시']}, {'companyName': 'SSG', 'kinds': ['쓱배송']}, {'companyName': '배달의 민족', 'kinds': ['배민1']}, {'companyName': '요기요', 'kinds': ['익스프레스']}]","[{'title': '공세권', 'description': '공원'}, {'title': '학세권', 'description': '학원가 근처'}]","[{'exists': True, 'poiType': '지하철역', 'distance': 2645, 'transport': 'car', 'timeTaken': 190}, {'exists': True, 'poiType': '세탁소', 'distance': 166, 'transport': 'foot', 'timeTaken': 150}, {'exists': True, 'poiType': '카페', 'distance': 408, 'transport': 'foot', 'timeTaken': 368}, {'exists': True, 'poiType': '약국', 'distance': 431, 'transport': 'foot', 'timeTaken': 388}, {'exists': True, 'poiType': '대형마트', 'distance': 2691, 'transport': 'car', 'timeTaken': 194}, {'exists': True, 'poiType': '편의점', 'distance': 18, 'transport': 'foot', 'timeTaken': 16}, {'exists': True, 'poiType': '버스정류장', 'distance': 85, 'transport': 'foot', 'timeTaken': 77}]",경기도,김포시,양촌읍,학운리,경기도 김포시 양촌읍,김포시 양촌읍 학운리,김포시 양촌읍 2837,False,2024-03-21T05:03:11.000Z,ZIGBANG,3979121
+[],[],[],일등공인중개사사무소,경기도 김포시 양촌읍 황금로70번길 55,0319893999,"-김포 전지역 매물 다수보유
+-원,투룸.쓰리룸/오피스텔/아파트/전월세
+ 실매물  100%만 찾아드립니다.
+
+
+빠른 문의 방법
+1.입주일짜 
+2.부동산 방문시간
+3.보증금 ,월세금액
+4.선호위치.주차.
+5.애완여부
+위의 조건을 문자로 남겨주시면 빠른상담 가능합니다.
+고객님의 소중한 보증금 을 위한 중개사고 방지를위해
+계약시 확실한 설명과 1억 원 공제증서를 제공해드려요",대표공인중개사,박채희,https://ic.zigbang.com/vp/profile/5952924/e396a85a51164a8b6292973b959a51a6babbbbde.jpg,5952924,False,40005436,월세,원룸,"['https://ic.zigbang.com/ic/items/40005436/1.jpg', 'https://ic.zigbang.com/ic/items/40005436/2.jpg', 'https://ic.zigbang.com/ic/items/40005436/3.jpg', 'https://ic.zigbang.com/ic/items/40005436/4.jpg', 'https://ic.zigbang.com/ic/items/40005436/5.jpg', 'https://ic.zigbang.com/ic/items/40005436/6.jpg', 'https://ic.zigbang.com/ic/items/40005436/7.jpg', 'https://ic.zigbang.com/ic/items/40005436/8.jpg', 'https://ic.zigbang.com/ic/items/40005436/9.jpg', 'https://ic.zigbang.com/ic/items/40005436/10.jpg', 'https://ic.zigbang.com/ic/items/40005436/11.jpg', 'https://ic.zigbang.com/ic/items/40005436/12.jpg', 'https://ic.zigbang.com/ic/items/40005436/13.jpg', 'https://ic.zigbang.com/ic/items/40005436/14.jpg']",https://ic.zigbang.com/ic/items/40005436/1.jpg,300,32,19.83,분리형원룸,엘베있는 이젠산업단지가까운 풀옵션 원룸,"엘베있는 편의시설 가까운곳에 
+위치한 풀옵션 분리형 구조로
+여성분들이 선호하시는 원룸이예요
+건물관리가 잘되어있어 깨끗하며 버스정류장도 가까워요
+위치 및 교통
+8601 광역버스(서울까지 30분)
+차량 10분거리 구래역과 인천 검단사거리역 
+(8601번, 70번, 86번, 7번, 81-1번, 90-1번 따복1 따복4 운행)
+주차및 편의시설
+주차 걱정no no
+은행.마트 ,병원,약국.찜질방.휘트니스클럽.식당가.골프존등
+기본편의시설 다 있어요.
+",open,37.620333573107544,126.62310922924377,주차 가능,세대당 주차 대수 18대,True,W,안방,즉시 입주 가능,4157025626128110000,4,2,"['에어컨', '냉장고', '세탁기', '가스레인지', '옷장', '신발장', '싱크대']",8,"['수도', '인터넷', 'TV']","['전기세', '가스', '난방비']",True,False,01,0,2024-02-29 12:06:54,2015.12.23,1,단독주택,"[{'companyName': '쿠팡', 'kinds': ['로켓배송', '로켓프레시']}, {'companyName': 'SSG', 'kinds': ['쓱배송']}, {'companyName': '배달의 민족', 'kinds': ['배민1']}, {'companyName': '요기요', 'kinds': ['익스프레스']}]","[{'title': '슬세권', 'description': '편리한 상권'}, {'title': '공세권', 'description': '공원'}, {'title': '학세권', 'description': '학원가 근처'}]","[{'exists': True, 'poiType': '지하철역', 'distance': 2566, 'transport': 'car', 'timeTaken': 185}, {'exists': True, 'poiType': '세탁소', 'distance': 238, 'transport': 'foot', 'timeTaken': 214}, {'exists': True, 'poiType': '카페', 'distance': 226, 'transport': 'foot', 'timeTaken': 204}, {'exists': True, 'poiType': '약국', 'distance': 302, 'transport': 'foot', 'timeTaken': 272}, {'exists': True, 'poiType': '대형마트', 'distance': 2714, 'transport': 'car', 'timeTaken': 195}, {'exists': True, 'poiType': '편의점', 'distance': 205, 'transport': 'foot', 'timeTaken': 185}, {'exists': True, 'poiType': '버스정류장', 'distance': 136, 'transport': 'foot', 'timeTaken': 123}]",경기도,김포시,양촌읍,학운리,경기도 김포시 양촌읍,김포시 양촌읍 학운리,김포시 양촌읍 2811,False,2024-02-29T03:06:54.000Z,ZIGBANG,5952924
+[],[],[],일등공인중개사사무소,경기도 김포시 양촌읍 황금로70번길 55,0319893999,"-김포 전지역 매물 다수보유
+-원,투룸.쓰리룸/오피스텔/아파트/전월세
+ 실매물  100%만 찾아드립니다.
+
+
+빠른 문의 방법
+1.입주일짜 
+2.부동산 방문시간
+3.보증금 ,월세금액
+4.선호위치.주차.
+5.애완여부
+위의 조건을 문자로 남겨주시면 빠른상담 가능합니다.
+고객님의 소중한 보증금 을 위한 중개사고 방지를위해
+계약시 확실한 설명과 1억 원 공제증서를 제공해드려요",대표공인중개사,박채희,https://ic.zigbang.com/vp/profile/5952924/e396a85a51164a8b6292973b959a51a6babbbbde.jpg,5952924,False,40168179,월세,원룸,"['https://ic.zigbang.com/ic/items/40168179/1.jpg', 'https://ic.zigbang.com/ic/items/40168179/2.jpg', 'https://ic.zigbang.com/ic/items/40168179/3.jpg', 'https://ic.zigbang.com/ic/items/40168179/4.jpg', 'https://ic.zigbang.com/ic/items/40168179/5.jpg', 'https://ic.zigbang.com/ic/items/40168179/6.jpg', 'https://ic.zigbang.com/ic/items/40168179/7.jpg', 'https://ic.zigbang.com/ic/items/40168179/8.jpg', 'https://ic.zigbang.com/ic/items/40168179/9.jpg', 'https://ic.zigbang.com/ic/items/40168179/10.jpg', 'https://ic.zigbang.com/ic/items/40168179/11.jpg', 'https://ic.zigbang.com/ic/items/40168179/12.jpg', 'https://ic.zigbang.com/ic/items/40168179/13.jpg', 'https://ic.zigbang.com/ic/items/40168179/14.jpg']",https://ic.zigbang.com/ic/items/40168179/1.jpg,300,30,19.83,분리형원룸,막힘없는뷰  FULL옵션원룸,"저렴하고 혼자살면서 확트인 분리형 원룸.
+세탁실.주방 중문설치로 방음.방열에 효과적이예요
+신축 풀옵션이구요~
+필로티 구조로 주차 또한 문제없어요
+주변 편의시설 좋구요(은행.마트.편의점.찜질방.휘트니스클럽.병원.약국.식당가등)
+버스정류장 3분거리.(8601번, 70번, 86번, 7번, 81-1번, 90-1번 따복1 따복4 운행)
+
+",open,37.62063616650096,126.62651916430615,주차 가능,세대당 주차 대수 8대,False,NW,안방,즉시 입주 가능,4157025626128290000,4,2,"['에어컨', '냉장고', '세탁기', '인덕션', '신발장', '싱크대']",5,"['수도', '인터넷', 'TV']","['전기세', '가스', '난방비']",True,False,01,0,2024-03-13 15:52:49,2016.08.24,1,단독주택,"[{'companyName': '쿠팡', 'kinds': ['로켓배송', '로켓프레시']}, {'companyName': 'SSG', 'kinds': ['쓱배송']}, {'companyName': '배달의 민족', 'kinds': ['배민1']}, {'companyName': '요기요', 'kinds': ['익스프레스']}]","[{'title': '공세권', 'description': '공원'}, {'title': '학세권', 'description': '학원가 근처'}]","[{'exists': True, 'poiType': '지하철역', 'distance': 2618, 'transport': 'car', 'timeTaken': 188}, {'exists': True, 'poiType': '세탁소', 'distance': 211, 'transport': 'foot', 'timeTaken': 190}, {'exists': True, 'poiType': '카페', 'distance': 447, 'transport': 'foot', 'timeTaken': 403}, {'exists': True, 'poiType': '약국', 'distance': 475, 'transport': 'foot', 'timeTaken': 428}, {'exists': True, 'poiType': '대형마트', 'distance': 2650, 'transport': 'car', 'timeTaken': 191}, {'exists': True, 'poiType': '편의점', 'distance': 58, 'transport': 'foot', 'timeTaken': 52}, {'exists': True, 'poiType': '버스정류장', 'distance': 124, 'transport': 'foot', 'timeTaken': 112}]",경기도,김포시,양촌읍,학운리,경기도 김포시 양촌읍,김포시 양촌읍 학운리,김포시 양촌읍 2829,False,2024-03-13T06:52:49.000Z,ZIGBANG,5952924
+[],[],[],일등공인중개사사무소,경기도 김포시 양촌읍 황금로70번길 55,0319893999,"-김포 전지역 매물 다수보유
+-원,투룸.쓰리룸/오피스텔/아파트/전월세
+ 실매물  100%만 찾아드립니다.
+
+
+빠른 문의 방법
+1.입주일짜 
+2.부동산 방문시간
+3.보증금 ,월세금액
+4.선호위치.주차.
+5.애완여부
+위의 조건을 문자로 남겨주시면 빠른상담 가능합니다.
+고객님의 소중한 보증금 을 위한 중개사고 방지를위해
+계약시 확실한 설명과 1억 원 공제증서를 제공해드려요",대표공인중개사,박채희,https://ic.zigbang.com/vp/profile/5952924/e396a85a51164a8b6292973b959a51a6babbbbde.jpg,5952924,False,39921328,월세,원룸,"['https://ic.zigbang.com/ic/items/39921328/1.jpg', 'https://ic.zigbang.com/ic/items/39921328/2.jpg', 'https://ic.zigbang.com/ic/items/39921328/3.jpg', 'https://ic.zigbang.com/ic/items/39921328/4.jpg', 'https://ic.zigbang.com/ic/items/39921328/5.jpg', 'https://ic.zigbang.com/ic/items/39921328/6.jpg', 'https://ic.zigbang.com/ic/items/39921328/7.jpg', 'https://ic.zigbang.com/ic/items/39921328/8.jpg']",https://ic.zigbang.com/ic/items/39921328/1.jpg,300,30,19.83,오픈형원룸,엘베있는 풀옵션 원룸,"이젠몰 가까운곳에 위치해있으며
+엘레베이터가 있어서 힘들지않아요
+건물관리가 잘되어있어서 깔끔합니다.
+베란다에 붙박이장이 있어서 수납하기도 좋아요",open,37.6201484161854,126.62361323998269,주차 가능,세대당 주차 대수 10대,True,W,안방,즉시 입주 가능,4157025626127990000,4,2,"['에어컨', '냉장고', '세탁기', '가스레인지', '옷장', '신발장', '싱크대']",5,"['수도', '인터넷', 'TV']","['전기세', '가스', '난방비']",True,False,01,0,2024-02-22 13:18:46,20110728,1,단독주택,"[{'companyName': '쿠팡', 'kinds': ['로켓배송', '로켓프레시']}, {'companyName': 'SSG', 'kinds': ['쓱배송']}, {'companyName': '배달의 민족', 'kinds': ['배민1']}, {'companyName': '요기요', 'kinds': ['익스프레스']}]","[{'title': '슬세권', 'description': '편리한 상권'}, {'title': '공세권', 'description': '공원'}, {'title': '학세권', 'description': '학원가 근처'}]","[{'exists': True, 'poiType': '지하철역', 'distance': 2527, 'transport': 'car', 'timeTaken': 182}, {'exists': True, 'poiType': '세탁소', 'distance': 273, 'transport': 'foot', 'timeTaken': 246}, {'exists': True, 'poiType': '카페', 'distance': 247, 'transport': 'foot', 'timeTaken': 223}, {'exists': True, 'poiType': '약국', 'distance': 332, 'transport': 'foot', 'timeTaken': 299}, {'exists': True, 'poiType': '대형마트', 'distance': 2680, 'transport': 'car', 'timeTaken': 193}, {'exists': True, 'poiType': '편의점', 'distance': 221, 'transport': 'foot', 'timeTaken': 199}, {'exists': True, 'poiType': '버스정류장', 'distance': 157, 'transport': 'foot', 'timeTaken': 141}]",경기도,김포시,양촌읍,학운리,경기도 김포시 양촌읍,김포시 양촌읍 학운리,김포시 양촌읍 2799,False,2024-02-22T04:18:46.000Z,ZIGBANG,5952924
+[],[],[],일등공인중개사사무소,경기도 김포시 양촌읍 황금로70번길 55,0319893999,"-김포 전지역 매물 다수보유
+-원,투룸.쓰리룸/오피스텔/아파트/전월세
+ 실매물  100%만 찾아드립니다.
+
+
+빠른 문의 방법
+1.입주일짜 
+2.부동산 방문시간
+3.보증금 ,월세금액
+4.선호위치.주차.
+5.애완여부
+위의 조건을 문자로 남겨주시면 빠른상담 가능합니다.
+고객님의 소중한 보증금 을 위한 중개사고 방지를위해
+계약시 확실한 설명과 1억 원 공제증서를 제공해드려요",대표공인중개사,박채희,https://ic.zigbang.com/vp/profile/5952924/e396a85a51164a8b6292973b959a51a6babbbbde.jpg,5952924,False,40119977,월세,원룸,"['https://ic.zigbang.com/ic/items/40119977/1.jpg', 'https://ic.zigbang.com/ic/items/40119977/2.jpg', 'https://ic.zigbang.com/ic/items/40119977/3.jpg', 'https://ic.zigbang.com/ic/items/40119977/4.jpg', 'https://ic.zigbang.com/ic/items/40119977/5.jpg', 'https://ic.zigbang.com/ic/items/40119977/6.jpg', 'https://ic.zigbang.com/ic/items/40119977/7.jpg', 'https://ic.zigbang.com/ic/items/40119977/8.jpg', 'https://ic.zigbang.com/ic/items/40119977/9.jpg', 'https://ic.zigbang.com/ic/items/40119977/10.jpg']",https://ic.zigbang.com/ic/items/40119977/1.jpg,300,30,23.14,분리형원룸,ㅁㅁ이젠 산업단지 가까운 풀옵션 원룸ㅁㅁ,"이젠산업단지 가까운곳에 위치해있으며
+풀옵션이며 큰창이있어 채광또한 좋아요
+화장실.주방 창문이 있어 환기.습기걱정 없어요
+주차및 편의시설
+주차 걱정no no
+은행.마트 ,병원,약국.찜질방.휘트니스클럽.식당가.골프존등
+기본편의시설 다 있어요.
+
+위치 및 교통
+8601 광역버스(서울까지 30분)
+차량 10분거리 구래역과 인천 검단사거리역 
+(8601번, 70번, 86번, 7번, 81-1번, 90-1번 따복1 따복4 운행)
+",open,37.62016139851343,126.6243231287117,주차 가능,세대당 주차 대수 8대,False,SW,안방,즉시 입주 가능,4157025626128060000,4,4,"['에어컨', '냉장고', '세탁기', '가스레인지', '신발장', '싱크대']",5,"['수도', '인터넷', 'TV']","['전기세', '가스', '난방비']",True,False,01,0,2024-03-09 13:12:51,2011.11.10,1,단독주택,"[{'companyName': '쿠팡', 'kinds': ['로켓배송', '로켓프레시']}, {'companyName': 'SSG', 'kinds': ['쓱배송']}, {'companyName': '배달의 민족', 'kinds': ['배민1']}, {'companyName': '요기요', 'kinds': ['익스프레스']}]","[{'title': '공세권', 'description': '공원'}, {'title': '학세권', 'description': '학원가 근처'}]","[{'exists': True, 'poiType': '지하철역', 'distance': 2545, 'transport': 'car', 'timeTaken': 183}, {'exists': True, 'poiType': '세탁소', 'distance': 236, 'transport': 'foot', 'timeTaken': 213}, {'exists': True, 'poiType': '카페', 'distance': 290, 'transport': 'foot', 'timeTaken': 261}, {'exists': True, 'poiType': '약국', 'distance': 358, 'transport': 'foot', 'timeTaken': 323}, {'exists': True, 'poiType': '대형마트', 'distance': 2667, 'transport': 'car', 'timeTaken': 192}, {'exists': True, 'poiType': '편의점', 'distance': 159, 'transport': 'foot', 'timeTaken': 143}, {'exists': True, 'poiType': '버스정류장', 'distance': 117, 'transport': 'foot', 'timeTaken': 105}]",경기도,김포시,양촌읍,학운리,경기도 김포시 양촌읍,김포시 양촌읍 학운리,김포시 양촌읍 2806,False,2024-03-09T04:12:51.000Z,ZIGBANG,5952924
+[],[],['추천'],일등공인중개사사무소,경기도 김포시 양촌읍 황금로70번길 55,0319893999,"-김포 전지역 매물 다수보유
+-원,투룸.쓰리룸/오피스텔/아파트/전월세
+ 실매물  100%만 찾아드립니다.
+
+
+빠른 문의 방법
+1.입주일짜 
+2.부동산 방문시간
+3.보증금 ,월세금액
+4.선호위치.주차.
+5.애완여부
+위의 조건을 문자로 남겨주시면 빠른상담 가능합니다.
+고객님의 소중한 보증금 을 위한 중개사고 방지를위해
+계약시 확실한 설명과 1억 원 공제증서를 제공해드려요",대표공인중개사,박채희,https://ic.zigbang.com/vp/profile/5952924/e396a85a51164a8b6292973b959a51a6babbbbde.jpg,5952924,False,40243758,월세,원룸,"['https://ic.zigbang.com/ic/items/40243758/1.jpg', 'https://ic.zigbang.com/ic/items/40243758/2.jpg', 'https://ic.zigbang.com/ic/items/40243758/3.jpg', 'https://ic.zigbang.com/ic/items/40243758/4.jpg', 'https://ic.zigbang.com/ic/items/40243758/5.jpg', 'https://ic.zigbang.com/ic/items/40243758/6.jpg', 'https://ic.zigbang.com/ic/items/40243758/7.jpg', 'https://ic.zigbang.com/ic/items/40243758/8.jpg', 'https://ic.zigbang.com/ic/items/40243758/9.jpg', 'https://ic.zigbang.com/ic/items/40243758/10.jpg', 'https://ic.zigbang.com/ic/items/40243758/11.jpg', 'https://ic.zigbang.com/ic/items/40243758/12.jpg', 'https://ic.zigbang.com/ic/items/40243758/13.jpg', 'https://ic.zigbang.com/ic/items/40243758/14.jpg']",https://ic.zigbang.com/ic/items/40243758/1.jpg,200,30,23.14,오픈형원룸,저렴한 보증금  착한월세원룸,"편의시설 가까운곳에 위치해있으며
+조용한곳.주차편리해요.
+풀옵션으로 바로 입주가능하구요~
+
+
+주차및 편의시설
+주차 걱정no no
+은행.마트 ,병원,약국.찜질방.휘트니스클럽.식당가.골프존등
+기본편의시설 다 있어요.
+",open,37.62027715679528,126.62708766086928,주차 가능,세대당 주차 대수 8대,False,N,안방,2024. 03. 16 이후 입주 가능,4157025626128500000,4,4,"['에어컨', '냉장고', '세탁기', '가스레인지', '옷장', '신발장', '싱크대']",5,"['수도', '인터넷', 'TV']","['전기세', '가스', '난방비']",True,True,False,01,0,2024-03-20 10:54:05,20111125,1,단독주택,"[{'companyName': '쿠팡', 'kinds': ['로켓배송', '로켓프레시']}, {'companyName': 'SSG', 'kinds': ['쓱배송']}, {'companyName': '배달의 민족', 'kinds': ['배민1']}, {'companyName': '요기요', 'kinds': ['익스프레스']}]","[{'title': '공세권', 'description': '공원'}, {'title': '학세권', 'description': '학원가 근처'}]","[{'exists': True, 'poiType': '지하철역', 'distance': 2623, 'transport': 'car', 'timeTaken': 189}, {'exists': True, 'poiType': '세탁소', 'distance': 246, 'transport': 'foot', 'timeTaken': 222}, {'exists': True, 'poiType': '카페', 'distance': 498, 'transport': 'foot', 'timeTaken': 449}, {'exists': True, 'poiType': '약국', 'distance': 522, 'transport': 'foot', 'timeTaken': 470}, {'exists': True, 'poiType': '대형마트', 'distance': 2631, 'transport': 'car', 'timeTaken': 189}, {'exists': True, 'poiType': '편의점', 'distance': 93, 'transport': 'foot', 'timeTaken': 84}, {'exists': True, 'poiType': '버스정류장', 'distance': 174, 'transport': 'foot', 'timeTaken': 157}]",경기도,김포시,양촌읍,학운리,경기도 김포시 양촌읍,김포시 양촌읍 학운리,김포시 양촌읍 2850,False,2024-03-21T06:24:38.000Z,ZIGBANG,5952924
+[],[],[],일등공인중개사사무소,경기도 김포시 양촌읍 황금로70번길 55,0319893999,"-김포 전지역 매물 다수보유
+-원,투룸.쓰리룸/오피스텔/아파트/전월세
+ 실매물  100%만 찾아드립니다.
+
+
+빠른 문의 방법
+1.입주일짜 
+2.부동산 방문시간
+3.보증금 ,월세금액
+4.선호위치.주차.
+5.애완여부
+위의 조건을 문자로 남겨주시면 빠른상담 가능합니다.
+고객님의 소중한 보증금 을 위한 중개사고 방지를위해
+계약시 확실한 설명과 1억 원 공제증서를 제공해드려요",대표공인중개사,박채희,https://ic.zigbang.com/vp/profile/5952924/e396a85a51164a8b6292973b959a51a6babbbbde.jpg,5952924,False,39981081,월세,원룸,"['https://ic.zigbang.com/ic/items/39981081/1.jpg', 'https://ic.zigbang.com/ic/items/39981081/2.jpg', 'https://ic.zigbang.com/ic/items/39981081/3.jpg', 'https://ic.zigbang.com/ic/items/39981081/4.jpg', 'https://ic.zigbang.com/ic/items/39981081/5.jpg', 'https://ic.zigbang.com/ic/items/39981081/6.jpg', 'https://ic.zigbang.com/ic/items/39981081/7.jpg', 'https://ic.zigbang.com/ic/items/39981081/8.jpg', 'https://ic.zigbang.com/ic/items/39981081/9.jpg', 'https://ic.zigbang.com/ic/items/39981081/10.jpg', 'https://ic.zigbang.com/ic/items/39981081/11.jpg', 'https://ic.zigbang.com/ic/items/39981081/12.jpg', 'https://ic.zigbang.com/ic/items/39981081/13.jpg', 'https://ic.zigbang.com/ic/items/39981081/14.jpg', 'https://ic.zigbang.com/ic/items/39981081/15.jpg', 'https://ic.zigbang.com/ic/items/39981081/16.jpg']",https://ic.zigbang.com/ic/items/39981081/1.jpg,500,53,39.67,분리형원룸,남향집 살림가능한 넓은방,"주방바로옆 창문이있어서
+음식냄새걱정없구요
+식탁놓을자리도 충분합니다
+남향집으로 안방이 무지넓어서 킹사이즈침대 옷장다가능해요
+베란다도 넓어서 빨래널기도 좋습니다.",open,37.620344957482395,126.62803087529234,주차 불가능,False,S,안방,즉시 입주 가능,4157025626128690000,4,3,"['에어컨', '세탁기', '가스레인지', '신발장', '싱크대']",7,"['수도', '인터넷', 'TV']","['전기세', '가스', '난방비']",False,True,False,01,0,2024-03-06 13:09:08,20110317,1,단독주택,"[{'companyName': '쿠팡', 'kinds': ['로켓배송', '로켓프레시']}, {'companyName': 'SSG', 'kinds': ['쓱배송']}, {'companyName': '배달의 민족', 'kinds': ['배민1']}, {'companyName': '요기요', 'kinds': ['익스프레스']}]","[{'title': '공세권', 'description': '공원'}, {'title': '학세권', 'description': '학원가 근처'}]","[{'exists': True, 'poiType': '지하철역', 'distance': 2637, 'transport': 'car', 'timeTaken': 190}, {'exists': True, 'poiType': '세탁소', 'distance': 300, 'transport': 'foot', 'timeTaken': 270}, {'exists': True, 'poiType': '카페', 'distance': 449, 'transport': 'foot', 'timeTaken': 405}, {'exists': True, 'poiType': '약국', 'distance': 591, 'transport': 'foot', 'timeTaken': 532}, {'exists': True, 'poiType': '대형마트', 'distance': 2621, 'transport': 'car', 'timeTaken': 189}, {'exists': True, 'poiType': '편의점', 'distance': 64, 'transport': 'foot', 'timeTaken': 58}, {'exists': True, 'poiType': '버스정류장', 'distance': 137, 'transport': 'foot', 'timeTaken': 123}]",경기도,김포시,양촌읍,학운리,경기도 김포시 양촌읍,김포시 양촌읍 학운리,김포시 양촌읍 2869,False,2024-02-27T05:26:14.000Z,ZIGBANG,5952924
+[],[],['추천'],365공인중개사사무소,경기도 김포시 양촌읍 황금로70번길 53 1층 일부(101호),0319883653,"100% 실매물
+<<최다매물보유>>실매물은 고객님과의 신뢰입니다!!
+
+정말 정직하게 광고를 하고 있습니다.
+허위매물없는 100%실매물/실사진/실제가격으로 신뢰와 믿음을 쌓겠습니다.",대표공인중개사,이정미,https://ic.zigbang.com/vp/profile/3979121/84e6bc46846cf1dba267d552fce4f995ffe8e84c.jpg,3979121,False,40050480,월세,원룸,"['https://ic.zigbang.com/ic/items/40050480/1.jpg', 'https://ic.zigbang.com/ic/items/40050480/2.jpg', 'https://ic.zigbang.com/ic/items/40050480/3.jpg', 'https://ic.zigbang.com/ic/items/40050480/4.jpg', 'https://ic.zigbang.com/ic/items/40050480/5.jpg', 'https://ic.zigbang.com/ic/items/40050480/6.jpg', 'https://ic.zigbang.com/ic/items/40050480/7.jpg', 'https://ic.zigbang.com/ic/items/40050480/8.jpg', 'https://ic.zigbang.com/ic/items/40050480/9.jpg', 'https://ic.zigbang.com/ic/items/40050480/10.jpg', 'https://ic.zigbang.com/ic/items/40050480/11.jpg', 'https://ic.zigbang.com/ic/items/40050480/12.jpg', 'https://ic.zigbang.com/ic/items/40050480/13.jpg', 'https://ic.zigbang.com/ic/items/40050480/14.jpg', 'https://ic.zigbang.com/ic/items/40050480/15.jpg']",https://ic.zigbang.com/ic/items/40050480/1.jpg,300,43,33.06,분리형원룸,"ㅁ투룸같은1.5룸ㅁ 40인치TV, 밝은집","학운초 인근에 제대로된 1.5룸 이네여..
+거실이 방같은~ 1.5룸인데여~
+사진에서 처럼 주방이 방으로 통하는 곳에 있어서~ 주방은 주방으로~
+거실은 거실로 사용 가능한 구조가 좋은 1.5룸이에여~
+위치까지 좋아서 딱 짚어 이 집 방 있냐고 물어오는 건물입니다.
+빨래 방과 편의점이 1분거리에~
+세련되고 멋진 집입니다.
+",open,37.620767207856545,126.62808442996905,주차 가능,총 주차 대수 4대,False,SE,거실,2024. 03. 09 이후 입주 가능,4157025626128840000,4,4,"['에어컨', '냉장고', '세탁기', '인덕션', '신발장', '싱크대']",7,"['수도', '인터넷', 'TV']","['전기세', '가스', '난방비']",True,True,False,01,0,2024-03-04 13:25:41,2017.922,1,공동주택,"[{'companyName': '쿠팡', 'kinds': ['로켓배송', '로켓프레시']}, {'companyName': 'SSG', 'kinds': ['쓱배송']}, {'companyName': '배달의 민족', 'kinds': ['배민1']}, {'companyName': '요기요', 'kinds': ['익스프레스']}]","[{'title': '공세권', 'description': '공원'}, {'title': '학세권', 'description': '학원가 근처'}]","[{'exists': True, 'poiType': '지하철역', 'distance': 2597, 'transport': 'car', 'timeTaken': 187}, {'exists': True, 'poiType': '세탁소', 'distance': 337, 'transport': 'foot', 'timeTaken': 304}, {'exists': True, 'poiType': '카페', 'distance': 455, 'transport': 'foot', 'timeTaken': 410}, {'exists': True, 'poiType': '약국', 'distance': 622, 'transport': 'foot', 'timeTaken': 560}, {'exists': True, 'poiType': '대형마트', 'distance': 2576, 'transport': 'car', 'timeTaken': 185}, {'exists': True, 'poiType': '편의점', 'distance': 71, 'transport': 'foot', 'timeTaken': 64}, {'exists': True, 'poiType': '버스정류장', 'distance': 168, 'transport': 'foot', 'timeTaken': 151}]",경기도,김포시,양촌읍,학운리,경기도 김포시 양촌읍,김포시 양촌읍 학운리,김포시 양촌읍 2884,False,2024-03-04T04:25:36.000Z,ZIGBANG,3979121
+[],[],['추천'],일등공인중개사사무소,경기도 김포시 양촌읍 황금로70번길 55,0319893999,"-김포 전지역 매물 다수보유
+-원,투룸.쓰리룸/오피스텔/아파트/전월세
+ 실매물  100%만 찾아드립니다.
+
+
+빠른 문의 방법
+1.입주일짜 
+2.부동산 방문시간
+3.보증금 ,월세금액
+4.선호위치.주차.
+5.애완여부
+위의 조건을 문자로 남겨주시면 빠른상담 가능합니다.
+고객님의 소중한 보증금 을 위한 중개사고 방지를위해
+계약시 확실한 설명과 1억 원 공제증서를 제공해드려요",대표공인중개사,박채희,https://ic.zigbang.com/vp/profile/5952924/e396a85a51164a8b6292973b959a51a6babbbbde.jpg,5952924,False,40080835,월세,원룸,"['https://ic.zigbang.com/ic/items/40080835/1.jpg', 'https://ic.zigbang.com/ic/items/40080835/2.jpg', 'https://ic.zigbang.com/ic/items/40080835/3.jpg', 'https://ic.zigbang.com/ic/items/40080835/4.jpg', 'https://ic.zigbang.com/ic/items/40080835/5.jpg', 'https://ic.zigbang.com/ic/items/40080835/6.jpg', 'https://ic.zigbang.com/ic/items/40080835/7.jpg', 'https://ic.zigbang.com/ic/items/40080835/8.jpg', 'https://ic.zigbang.com/ic/items/40080835/9.jpg', 'https://ic.zigbang.com/ic/items/40080835/10.jpg', 'https://ic.zigbang.com/ic/items/40080835/11.jpg', 'https://ic.zigbang.com/ic/items/40080835/12.jpg', 'https://ic.zigbang.com/ic/items/40080835/13.jpg', 'https://ic.zigbang.com/ic/items/40080835/14.jpg']",https://ic.zigbang.com/ic/items/40080835/1.jpg,500,40,26.45,분리형원룸,ㅁㅁ반전세도가능 1.5룸ㅁㅁ,"엘베있는1.5룸입니다.
+보증금 조율가능합니다.
+주방에 창문이있어서 환기걱정없구요
+도배완료
+즉시입주가능합니다.",open,37.621377368371846,126.62824059196787,주차 가능,세대당 주차 대수 8대,True,W,안방,즉시 입주 가능,4157025626128780000,4,4,"['에어컨', '냉장고', '세탁기', '가스레인지', '신발장', '싱크대']",7,"['수도', '인터넷', 'TV']","['전기세', '가스', '난방비']",True,True,False,01,0,2024-03-06 14:26:03,20160429,1,단독주택,"[{'companyName': '쿠팡', 'kinds': ['로켓배송', '로켓프레시']}, {'companyName': 'SSG', 'kinds': ['쓱배송']}, {'companyName': '배달의 민족', 'kinds': ['배민1']}, {'companyName': '요기요', 'kinds': ['익스프레스']}]","[{'title': '공세권', 'description': '공원'}, {'title': '학세권', 'description': '학원가 근처'}]","[{'exists': True, 'poiType': '지하철역', 'distance': 2530, 'transport': 'car', 'timeTaken': 182}, {'exists': True, 'poiType': '세탁소', 'distance': 403, 'transport': 'foot', 'timeTaken': 363}, {'exists': True, 'poiType': '카페', 'distance': 463, 'transport': 'foot', 'timeTaken': 417}, {'exists': True, 'poiType': '약국', 'distance': 679, 'transport': 'car', 'timeTaken': 49}, {'exists': True, 'poiType': '대형마트', 'distance': 2507, 'transport': 'car', 'timeTaken': 180}, {'exists': True, 'poiType': '편의점', 'distance': 25, 'transport': 'foot', 'timeTaken': 23}, {'exists': True, 'poiType': '버스정류장', 'distance': 216, 'transport': 'foot', 'timeTaken': 195}]",경기도,김포시,양촌읍,학운리,경기도 김포시 양촌읍,김포시 양촌읍 학운리,김포시 양촌읍 2878,False,2024-03-06T04:28:08.000Z,ZIGBANG,5952924
+[],[],['추천'],일등공인중개사사무소,경기도 김포시 양촌읍 황금로70번길 55,0319893999,"-김포 전지역 매물 다수보유
+-원,투룸.쓰리룸/오피스텔/아파트/전월세
+ 실매물  100%만 찾아드립니다.
+
+
+빠른 문의 방법
+1.입주일짜 
+2.부동산 방문시간
+3.보증금 ,월세금액
+4.선호위치.주차.
+5.애완여부
+위의 조건을 문자로 남겨주시면 빠른상담 가능합니다.
+고객님의 소중한 보증금 을 위한 중개사고 방지를위해
+계약시 확실한 설명과 1억 원 공제증서를 제공해드려요",대표공인중개사,박채희,https://ic.zigbang.com/vp/profile/5952924/e396a85a51164a8b6292973b959a51a6babbbbde.jpg,5952924,False,40080542,월세,원룸,"['https://ic.zigbang.com/ic/items/40080542/1.jpg', 'https://ic.zigbang.com/ic/items/40080542/2.jpg', 'https://ic.zigbang.com/ic/items/40080542/3.jpg', 'https://ic.zigbang.com/ic/items/40080542/4.jpg', 'https://ic.zigbang.com/ic/items/40080542/5.jpg', 'https://ic.zigbang.com/ic/items/40080542/6.jpg', 'https://ic.zigbang.com/ic/items/40080542/7.jpg', 'https://ic.zigbang.com/ic/items/40080542/8.jpg', 'https://ic.zigbang.com/ic/items/40080542/9.jpg', 'https://ic.zigbang.com/ic/items/40080542/10.jpg', 'https://ic.zigbang.com/ic/items/40080542/11.jpg', 'https://ic.zigbang.com/ic/items/40080542/12.jpg', 'https://ic.zigbang.com/ic/items/40080542/13.jpg', 'https://ic.zigbang.com/ic/items/40080542/14.jpg']",https://ic.zigbang.com/ic/items/40080542/1.jpg,500,40,29.75,분리형원룸,엄청 넓은 1.5룸 풀옵션,"들어가는 입구부터
+큰신발장에 중문이 확실히 분리된 1.5룸이예요
+풀옵션 갖추고 있구요 
+넓은 세탁실 따로 분리되어 있어 빨래널기
+좋구요~주방옆에 창문이있어서 음식냄새.환기걱정
+없어요~
+2분이서 사셔도 충분해요~
+ 버스정류장 5분거리- (8601번, 70번, 86번, 7번, 81-1번, 90-1번 따복1 따복4 운행)
+주변편의시설(은행,마트,휘트니스클럽,찜질방.식당가.빨래방,커피숍등)
+",open,37.62203861110176,126.62852809519917,주차 가능,세대당 주차 대수 8대,False,W,안방,2024. 03. 31 이후 입주 가능,4157025626128950000,4,1,"['에어컨', '냉장고', '세탁기', '인덕션', '옷장', '신발장', '싱크대']",5,"['수도', '인터넷', 'TV']","['전기세', '가스', '난방비']",True,True,False,01,0,2024-03-06 13:12:21,2017.07.05,1,단독주택,"[{'companyName': '쿠팡', 'kinds': ['로켓배송', '로켓프레시']}, {'companyName': 'SSG', 'kinds': ['쓱배송']}, {'companyName': '배달의 민족', 'kinds': ['배민1']}, {'companyName': '요기요', 'kinds': ['익스프레스']}]","[{'title': '공세권', 'description': '공원'}, {'title': '학세권', 'description': '학원가 근처'}]","[{'exists': True, 'poiType': '지하철역', 'distance': 2500, 'transport': 'car', 'timeTaken': 180}, {'exists': True, 'poiType': '세탁소', 'distance': 432, 'transport': 'foot', 'timeTaken': 389}, {'exists': True, 'poiType': '카페', 'distance': 451, 'transport': 'foot', 'timeTaken': 406}, {'exists': True, 'poiType': '약국', 'distance': 709, 'transport': 'car', 'timeTaken': 51}, {'exists': True, 'poiType': '대형마트', 'distance': 2487, 'transport': 'car', 'timeTaken': 179}, {'exists': True, 'poiType': '편의점', 'distance': 30, 'transport': 'foot', 'timeTaken': 27}, {'exists': True, 'poiType': '버스정류장', 'distance': 190, 'transport': 'foot', 'timeTaken': 171}]",경기도,김포시,양촌읍,학운리,경기도 김포시 양촌읍,김포시 양촌읍 학운리,김포시 양촌읍 2895,False,2024-03-22T01:03:37.000Z,ZIGBANG,5952924
+[],[],[],일등공인중개사사무소,경기도 김포시 양촌읍 황금로70번길 55,0319893999,"-김포 전지역 매물 다수보유
+-원,투룸.쓰리룸/오피스텔/아파트/전월세
+ 실매물  100%만 찾아드립니다.
+
+
+빠른 문의 방법
+1.입주일짜 
+2.부동산 방문시간
+3.보증금 ,월세금액
+4.선호위치.주차.
+5.애완여부
+위의 조건을 문자로 남겨주시면 빠른상담 가능합니다.
+고객님의 소중한 보증금 을 위한 중개사고 방지를위해
+계약시 확실한 설명과 1억 원 공제증서를 제공해드려요",대표공인중개사,박채희,https://ic.zigbang.com/vp/profile/5952924/e396a85a51164a8b6292973b959a51a6babbbbde.jpg,5952924,False,40189589,월세,원룸,"['https://ic.zigbang.com/ic/items/40189589/1.jpg', 'https://ic.zigbang.com/ic/items/40189589/2.jpg', 'https://ic.zigbang.com/ic/items/40189589/3.jpg', 'https://ic.zigbang.com/ic/items/40189589/4.jpg', 'https://ic.zigbang.com/ic/items/40189589/5.jpg', 'https://ic.zigbang.com/ic/items/40189589/6.jpg', 'https://ic.zigbang.com/ic/items/40189589/7.jpg', 'https://ic.zigbang.com/ic/items/40189589/8.jpg', 'https://ic.zigbang.com/ic/items/40189589/9.jpg', 'https://ic.zigbang.com/ic/items/40189589/10.jpg', 'https://ic.zigbang.com/ic/items/40189589/11.jpg', 'https://ic.zigbang.com/ic/items/40189589/12.jpg']",https://ic.zigbang.com/ic/items/40189589/1.jpg,500,40,29.75,분리형원룸,거실 베란다 모두다 넓은 풀옵션 신축 1.5룸,"거실과 베란다 방모두 넓은 
+풀옵션 갖춘 신축 1.5룸이예요
+옵션또한좋아요(43인치티비.큰냉장고등)
+화장실에도 창문이있어 환기.습기걱정없구요.
+주방에도 창문이 있어서 요리하시기에도 편리합니다.
+거실이 넓어서 쇼파도 넣을수 있어요~
+위치 및 교통
+8601 광역버스(서울까지 30분)
+차량 10분거리 구래역과 인천 검단사거리역 
+(8601번, 70번, 86번, 7번, 81-1번, 90-1번 따복1 따복4 운행)
+
+주차및 편의시설
+주차 걱정no no
+은행.마트 ,병원,약국.찜질방.휘트니스클럽.식당가.골프존등
+기본편의시설 다 있어요.
+
+",open,37.62203832704467,126.62789658082646,주차 가능,세대당 주차 대수 8대,False,S,안방,2024. 04. 20 이후 입주 가능,4157025626128950000,4,3,"['에어컨', '냉장고', '세탁기', '인덕션', '신발장', '싱크대']",7,"['수도', '인터넷', 'TV']","['전기세', '가스', '난방비']",True,False,01,0,2024-03-15 12:02:36,2017.07.05,1,단독주택,"[{'companyName': '쿠팡', 'kinds': ['로켓배송', '로켓프레시']}, {'companyName': 'SSG', 'kinds': ['쓱배송']}, {'companyName': '배달의 민족', 'kinds': ['배민1']}, {'companyName': '요기요', 'kinds': ['익스프레스']}]","[{'title': '공세권', 'description': '공원'}, {'title': '학세권', 'description': '학원가 근처'}]","[{'exists': True, 'poiType': '지하철역', 'distance': 2500, 'transport': 'car', 'timeTaken': 180}, {'exists': True, 'poiType': '세탁소', 'distance': 432, 'transport': 'foot', 'timeTaken': 389}, {'exists': True, 'poiType': '카페', 'distance': 451, 'transport': 'foot', 'timeTaken': 406}, {'exists': True, 'poiType': '약국', 'distance': 709, 'transport': 'car', 'timeTaken': 51}, {'exists': True, 'poiType': '대형마트', 'distance': 2487, 'transport': 'car', 'timeTaken': 179}, {'exists': True, 'poiType': '편의점', 'distance': 30, 'transport': 'foot', 'timeTaken': 27}, {'exists': True, 'poiType': '버스정류장', 'distance': 190, 'transport': 'foot', 'timeTaken': 171}]",경기도,김포시,양촌읍,학운리,경기도 김포시 양촌읍,김포시 양촌읍 학운리,김포시 양촌읍 2895,False,2024-03-15T03:02:36.000Z,ZIGBANG,5952924
+[],[],[],일등공인중개사사무소,경기도 김포시 양촌읍 황금로70번길 55,0319893999,"-김포 전지역 매물 다수보유
+-원,투룸.쓰리룸/오피스텔/아파트/전월세
+ 실매물  100%만 찾아드립니다.
+
+
+빠른 문의 방법
+1.입주일짜 
+2.부동산 방문시간
+3.보증금 ,월세금액
+4.선호위치.주차.
+5.애완여부
+위의 조건을 문자로 남겨주시면 빠른상담 가능합니다.
+고객님의 소중한 보증금 을 위한 중개사고 방지를위해
+계약시 확실한 설명과 1억 원 공제증서를 제공해드려요",대표공인중개사,박채희,https://ic.zigbang.com/vp/profile/5952924/e396a85a51164a8b6292973b959a51a6babbbbde.jpg,5952924,False,40192013,월세,원룸,"['https://ic.zigbang.com/ic/items/40192013/1.jpg', 'https://ic.zigbang.com/ic/items/40192013/2.jpg', 'https://ic.zigbang.com/ic/items/40192013/3.jpg', 'https://ic.zigbang.com/ic/items/40192013/4.jpg', 'https://ic.zigbang.com/ic/items/40192013/5.jpg', 'https://ic.zigbang.com/ic/items/40192013/6.jpg', 'https://ic.zigbang.com/ic/items/40192013/7.jpg', 'https://ic.zigbang.com/ic/items/40192013/8.jpg', 'https://ic.zigbang.com/ic/items/40192013/9.jpg']",https://ic.zigbang.com/ic/items/40192013/1.jpg,300,28,19.83,분리형원룸,단지내 최저가 원룸 깔끔 가성비 최고의 방," 주방 과 방이 중문으로 분리되어
+음식 냄새 걱정 노노  방은 온전히 깨끗하게 휴식 공간으로만~
+주변에 편의 시설도 다 있답니다.~~
+월세 저렴한 이런 좋은 조건의 방은 빨리 계약이 되니 서둘러 구경 오세요~^^*
+방에 침대들어갈 공간 충분합니다.
+편의시설.버스정류장도 가까워요~
+
+
+",open,37.62168717948346,126.62791103684128,주차 가능,세대당 주차 대수 8대,False,SE,안방,즉시 입주 가능,4157025626128960000,4,4,"['에어컨', '냉장고', '세탁기', '가스레인지', '신발장', '싱크대']",5,"['수도', '인터넷', 'TV']","['전기세', '가스', '난방비']",True,False,01,0,2024-03-15 14:06:46,2011.05.12,1,단독주택,"[{'companyName': '쿠팡', 'kinds': ['로켓배송', '로켓프레시']}, {'companyName': 'SSG', 'kinds': ['쓱배송']}, {'companyName': '배달의 민족', 'kinds': ['배민1']}, {'companyName': '요기요', 'kinds': ['익스프레스']}]","[{'title': '공세권', 'description': '공원'}, {'title': '학세권', 'description': '학원가 근처'}]","[{'exists': True, 'poiType': '지하철역', 'distance': 2488, 'transport': 'car', 'timeTaken': 179}, {'exists': True, 'poiType': '세탁소', 'distance': 442, 'transport': 'foot', 'timeTaken': 398}, {'exists': True, 'poiType': '카페', 'distance': 459, 'transport': 'foot', 'timeTaken': 414}, {'exists': True, 'poiType': '약국', 'distance': 720, 'transport': 'car', 'timeTaken': 52}, {'exists': True, 'poiType': '대형마트', 'distance': 2471, 'transport': 'car', 'timeTaken': 178}, {'exists': True, 'poiType': '편의점', 'distance': 46, 'transport': 'foot', 'timeTaken': 41}, {'exists': True, 'poiType': '버스정류장', 'distance': 188, 'transport': 'foot', 'timeTaken': 169}]",경기도,김포시,양촌읍,학운리,경기도 김포시 양촌읍,김포시 양촌읍 학운리,김포시 양촌읍 2896,False,2024-03-15T05:06:46.000Z,ZIGBANG,5952924
+[],[],[],일등공인중개사사무소,경기도 김포시 양촌읍 황금로70번길 55,0319893999,"-김포 전지역 매물 다수보유
+-원,투룸.쓰리룸/오피스텔/아파트/전월세
+ 실매물  100%만 찾아드립니다.
+
+
+빠른 문의 방법
+1.입주일짜 
+2.부동산 방문시간
+3.보증금 ,월세금액
+4.선호위치.주차.
+5.애완여부
+위의 조건을 문자로 남겨주시면 빠른상담 가능합니다.
+고객님의 소중한 보증금 을 위한 중개사고 방지를위해
+계약시 확실한 설명과 1억 원 공제증서를 제공해드려요",대표공인중개사,박채희,https://ic.zigbang.com/vp/profile/5952924/e396a85a51164a8b6292973b959a51a6babbbbde.jpg,5952924,False,40080805,월세,원룸,"['https://ic.zigbang.com/ic/items/40080805/1.jpg', 'https://ic.zigbang.com/ic/items/40080805/2.jpg', 'https://ic.zigbang.com/ic/items/40080805/3.jpg', 'https://ic.zigbang.com/ic/items/40080805/4.jpg', 'https://ic.zigbang.com/ic/items/40080805/5.jpg', 'https://ic.zigbang.com/ic/items/40080805/6.jpg', 'https://ic.zigbang.com/ic/items/40080805/7.jpg', 'https://ic.zigbang.com/ic/items/40080805/8.jpg', 'https://ic.zigbang.com/ic/items/40080805/9.jpg', 'https://ic.zigbang.com/ic/items/40080805/10.jpg', 'https://ic.zigbang.com/ic/items/40080805/11.jpg', 'https://ic.zigbang.com/ic/items/40080805/12.jpg']",https://ic.zigbang.com/ic/items/40080805/1.jpg,300,48,33.06,분리형원룸,ㅁㅁ베란다 넓은 풀옵션 집 ㅁㅁ,"주방바로옆 창문이있어서 
+음식냄새걱정없구요
+베란다도 넓어서 빨래널기도 좋아요
+즉시입주가능하며 단기도 가능합니다.
+단기는 따로 문의바랍니다.",open,37.62218832311833,126.62870055450371,주차 가능,세대당 주차 대수 8대,False,W,거실,즉시 입주 가능,4157025626128890000,4,3,"['에어컨', '냉장고', '세탁기', '가스레인지', '신발장', '싱크대']",7,"['수도', '인터넷', 'TV']","['전기세', '가스', '난방비']",True,False,01,0,2024-03-06 13:26:23,20150807,1,단독주택,"[{'companyName': '쿠팡', 'kinds': ['로켓배송', '로켓프레시']}, {'companyName': 'SSG', 'kinds': ['쓱배송']}, {'companyName': '배달의 민족', 'kinds': ['배민1']}, {'companyName': '요기요', 'kinds': ['익스프레스']}]","[{'title': '공세권', 'description': '공원'}, {'title': '학세권', 'description': '학원가 근처'}]","[{'exists': True, 'poiType': '지하철역', 'distance': 2479, 'transport': 'car', 'timeTaken': 178}, {'exists': True, 'poiType': '세탁소', 'distance': 427, 'transport': 'foot', 'timeTaken': 385}, {'exists': True, 'poiType': '카페', 'distance': 446, 'transport': 'foot', 'timeTaken': 402}, {'exists': True, 'poiType': '약국', 'distance': 731, 'transport': 'car', 'timeTaken': 53}, {'exists': True, 'poiType': '대형마트', 'distance': 2471, 'transport': 'car', 'timeTaken': 178}, {'exists': True, 'poiType': '편의점', 'distance': 48, 'transport': 'foot', 'timeTaken': 43}, {'exists': True, 'poiType': '버스정류장', 'distance': 173, 'transport': 'foot', 'timeTaken': 156}]",경기도,김포시,양촌읍,학운리,경기도 김포시 양촌읍,김포시 양촌읍 학운리,김포시 양촌읍 2889,False,2024-03-17T01:02:49.000Z,ZIGBANG,5952924
+[],[],[],일등공인중개사사무소,경기도 김포시 양촌읍 황금로70번길 55,0319893999,"-김포 전지역 매물 다수보유
+-원,투룸.쓰리룸/오피스텔/아파트/전월세
+ 실매물  100%만 찾아드립니다.
+
+
+빠른 문의 방법
+1.입주일짜 
+2.부동산 방문시간
+3.보증금 ,월세금액
+4.선호위치.주차.
+5.애완여부
+위의 조건을 문자로 남겨주시면 빠른상담 가능합니다.
+고객님의 소중한 보증금 을 위한 중개사고 방지를위해
+계약시 확실한 설명과 1억 원 공제증서를 제공해드려요",대표공인중개사,박채희,https://ic.zigbang.com/vp/profile/5952924/e396a85a51164a8b6292973b959a51a6babbbbde.jpg,5952924,False,39841950,월세,원룸,"['https://ic.zigbang.com/ic/items/39841950/1.jpg', 'https://ic.zigbang.com/ic/items/39841950/2.jpg', 'https://ic.zigbang.com/ic/items/39841950/3.jpg', 'https://ic.zigbang.com/ic/items/39841950/4.jpg', 'https://ic.zigbang.com/ic/items/39841950/5.jpg', 'https://ic.zigbang.com/ic/items/39841950/6.jpg', 'https://ic.zigbang.com/ic/items/39841950/7.jpg', 'https://ic.zigbang.com/ic/items/39841950/8.jpg', 'https://ic.zigbang.com/ic/items/39841950/9.jpg', 'https://ic.zigbang.com/ic/items/39841950/10.jpg', 'https://ic.zigbang.com/ic/items/39841950/11.jpg', 'https://ic.zigbang.com/ic/items/39841950/12.jpg', 'https://ic.zigbang.com/ic/items/39841950/13.jpg', 'https://ic.zigbang.com/ic/items/39841950/14.jpg']",https://ic.zigbang.com/ic/items/39841950/1.jpg,500,48,39.67,분리형원룸,사업자가능 신축 풀옵션 깔끔한 집,"풀옵션있는 투룸
+젊은분들이 선호하는 투룸입니다.
+깔끔하고 옵션이 잘되어 있어서 그런지
+젊은분들이 많이 살고있는 투룸건물입니다.
+신축 건물이라 깔끔해요~
+",open,37.622220625930424,126.62902998195084,주차 가능,세대당 주차 대수 8대,False,S,안방,2024. 02. 07 이후 입주 가능,4157025626129070000,4,1,"['에어컨', '냉장고', '세탁기', '인덕션', '신발장', '싱크대']",7,"['수도', '인터넷', 'TV']","['전기세', '가스', '난방비']",False,True,False,01,0,2024-02-27 15:02:26,20170124,1,단독주택,"[{'companyName': '쿠팡', 'kinds': ['로켓배송', '로켓프레시']}, {'companyName': 'SSG', 'kinds': ['쓱배송']}, {'companyName': '배달의 민족', 'kinds': ['배민1']}, {'companyName': '요기요', 'kinds': ['익스프레스']}]","[{'title': '공세권', 'description': '공원'}, {'title': '학세권', 'description': '학원가 근처'}]","[{'exists': True, 'poiType': '지하철역', 'distance': 2432, 'transport': 'car', 'timeTaken': 175}, {'exists': True, 'poiType': '세탁소', 'distance': 509, 'transport': 'foot', 'timeTaken': 459}, {'exists': True, 'poiType': '카페', 'distance': 377, 'transport': 'foot', 'timeTaken': 340}, {'exists': True, 'poiType': '약국', 'distance': 797, 'transport': 'car', 'timeTaken': 57}, {'exists': True, 'poiType': '대형마트', 'distance': 2471, 'transport': 'car', 'timeTaken': 178}, {'exists': True, 'poiType': '편의점', 'distance': 111, 'transport': 'foot', 'timeTaken': 100}, {'exists': True, 'poiType': '버스정류장', 'distance': 246, 'transport': 'foot', 'timeTaken': 222}]",경기도,김포시,양촌읍,학운리,경기도 김포시 양촌읍,김포시 양촌읍 학운리,김포시 양촌읍 2907,False,2024-02-16T03:37:27.000Z,ZIGBANG,5952924
+[],"[{'id': 1190, 'name': '마산역', 'description': '김포골드라인'}]",[],래미안복덕방부동산중개,경기도 김포시 김포한강9로76번길 11 408호 (구래동),0319833600,"""래미안복덕방 부동산중개""
+같은 이름으로 모든 지점이 사옥에서 운영하고 있으며  ""20년"" 가까이 중개한 노하우와 전직원 가족같은 회사 입니다.
+회사명에 '복덕방'이 들어간 이유는 저희는 컨설팅 업체가 아닙니다.
+한번 손님은 영원한 손님으로 내꺼 구하는 중개로 최선을 다 하겠습니다",대표공인중개사,김미희,https://ic.zigbang.com/vp/profile/1671320/56bb1d68549b3bf8a5b8e4752ca2883cd3a34f6c.jpg,1671320,False,40236010,월세,원룸,"['https://ic.zigbang.com/ic/items/40236010/1.jpg', 'https://ic.zigbang.com/ic/items/40236010/2.jpg', 'https://ic.zigbang.com/ic/items/40236010/3.jpg', 'https://ic.zigbang.com/ic/items/40236010/4.jpg', 'https://ic.zigbang.com/ic/items/40236010/5.jpg', 'https://ic.zigbang.com/ic/items/40236010/6.jpg']",https://ic.zigbang.com/ic/items/40236010/1.jpg,500,45,26.45,분리형원룸,G1마산역 인근 위치좋은 분리형 1.5룸,"마산동은 김포한강신도시2기 신도시로서 중심상업시설 기반으로 이마트가 입점되어 있어
+쇼핑하시기 편한 장점이 있으며 지하철 개통이예정되어 있어 추후에 업무시설까지 입주하게되며
+제2외곽고속도로에 인접해 있어서 계속적으로 발전해 나가는 지역임에 분명합니다.
+더불어 살기 좋은 곳이 되는거죠 감사합니다
+2019년 7월 개통예정(마산역) 및 광역시내버스가 많아
+강남, 종로, 홍대, 이태원 등 도심으로 다니시기도 좋습니다.
+
+(김포생활체육관정류장)
+----------------------------
+일반: 33, 60-3, 81, 3, 4-1(주말)
+마을: 30, 57
+
+(은여울공원정류장)
+-----------------------
+일반: 33, 60-3, 81, 3, 4-1(주말)
+좌석: 21
+직행: 7000
+
+(힐스테이트,경남아너스빌정류장)
+----------------------------------------
+광역: M6117, M6427
+일반: 33, 60-3, 81, 3, 4-1(주말)
+좌석: 21
+직행: 7000, 8000, 8600, 8601, 8601A, 9008, 6427",open,37.63326686452482,126.64836632589264,주차 가능,총 주차 대수 7대,True,SW,거실,즉시 입주 가능,4157010800106540013,4,3,"['에어컨', '냉장고', '세탁기', '가스레인지', '신발장', '싱크대']",10,[],"['전기세', '가스', '수도', '인터넷', 'TV', '난방비']",ActualManageCost,"['05', '04', '03']",100000,01,01,True,False,01,0,2024-03-19 15:05:22,20181207,1,단독주택,"[{'companyName': '쿠팡', 'kinds': ['로켓배송', '로켓프레시']}, {'companyName': 'SSG', 'kinds': ['새벽배송', '쓱배송']}, {'companyName': '마켓컬리', 'kinds': ['샛별배송']}, {'companyName': '배달의 민족', 'kinds': ['배민1']}, {'companyName': '요기요', 'kinds': ['익스프레스']}]","[{'title': '슬세권', 'description': '편리한 상권'}, {'title': '공세권', 'description': '공원'}, {'title': '숲세권', 'description': '산 근처'}, {'title': '학세권', 'description': '학원가 근처'}]","[{'exists': True, 'poiType': '지하철역', 'distance': 904, 'transport': 'car', 'timeTaken': 65}, {'exists': True, 'poiType': '세탁소', 'distance': 1089, 'transport': 'car', 'timeTaken': 78}, {'exists': True, 'poiType': '카페', 'distance': 21, 'transport': 'foot', 'timeTaken': 19}, {'exists': True, 'poiType': '약국', 'distance': 608, 'transport': 'foot', 'timeTaken': 548}, {'exists': True, 'poiType': '대형마트', 'distance': 2151, 'transport': 'car', 'timeTaken': 155}, {'exists': True, 'poiType': '편의점', 'distance': 215, 'transport': 'foot', 'timeTaken': 194}, {'exists': True, 'poiType': '버스정류장', 'distance': 717, 'transport': 'car', 'timeTaken': 52}]",경기도,김포시,마산동,,경기도 김포시 마산동,김포시 마산동,김포시 마산동 654-13,False,2024-03-19T06:05:22.000Z,ZIGBANG,1671320
