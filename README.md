@@ -63,13 +63,13 @@
 - Figma 활용 UI/UX 디자인 진행
 - 기능 develop
 
-![캡처1](/uploads/7192ff87ce9583950f2eaeb560cb1376/캡처1.PNG)
+![Wireframe](https://github.com/namoo1818/Baekjoon/assets/50236187/7cb62436-eecb-46c4-9c7d-31f91acb8901)
 
 ### ✏ ER-Diagram
 
 - ERD Cloud 활용
 
-![캡처](/uploads/fb103e234abc95c5601571eaa02359df/캡처.PNG)
+![ERD](https://github.com/namoo1818/Baekjoon/assets/50236187/4acf6827-3e3a-46e0-a3e5-f0840302f882)
 
 ### ✏ System Architecture
 
@@ -98,7 +98,8 @@
 
 - 팀 Notion에 Git 행동 강령과 Commit convention 작성, 공유
 
-![캡처2](/uploads/b1f4623be4360145c8a76482844fe2c2/캡처2.PNG)
+![Git](https://github.com/namoo1818/Baekjoon/assets/50236187/fddaf9b8-b410-4e43-a999-d3fa9c97b5fd)
+
 
 - 작업 브랜치 전략
 
@@ -116,14 +117,14 @@ master - develop - feature - backend - 기능
 #### 🧓 지도
 - 지도 상 위치 및 헤더 필터, 상세 필터 기반 집 추천
 
-![집추천1](/uploads/5b16b75d1a86f3bc4350e2f9a83ed280/집추천1.png)
-![집추천2](/uploads/12793bf9311a22c83d0da170fa5a5120/집추천2.png)
+![집추천1](https://github.com/namoo1818/Baekjoon/assets/50236187/d3b654e1-7195-4de4-8adb-c859a97db264)
+![집추천2](https://github.com/namoo1818/Baekjoon/assets/50236187/950437a5-8919-4549-8eea-ffa3909598ba)
 
 #### 🧓 집 추천
 - 집 리스트 지도와 연동
 
-![집추천3](/uploads/51a5bcb48bef1c4bb70297ac952cdefd/집추천3.png)
-![집추천4](/uploads/c5890160944adc9ab6c841d7d5a292cd/집추천4.png)
+![집추천3](https://github.com/namoo1818/Baekjoon/assets/50236187/0b14d763-dd6a-4f3b-ba91-f5abd2d2be5d)
+![집추천4](https://github.com/namoo1818/Baekjoon/assets/50236187/4b29f751-5fbb-41e0-b3c4-182433cf3a7a)
 
 ### 🧓 집 신청 및 집 상세 정보
 - 집 옵션 및 호스트 정보 조회
@@ -162,13 +163,14 @@ master - develop - feature - backend - 기능
 ### 🧓 활동 인증 및 보호자 알림
 - 활동 내역 인증
 
-![KakaoTalk_20240403_233139757_03](/uploads/044bc26257024b00a14345ee1dc897cc/KakaoTalk_20240403_233139757_03.jpg)
-![KakaoTalk_20240403_233139757_04](/uploads/6d359e64ef09c11915fc15c3adf3dab3/KakaoTalk_20240403_233139757_04.jpg)
+![활동 내역 인증1](https://github.com/namoo1818/Baekjoon/assets/50236187/bfa1fac2-03b2-4a44-a157-633e4e38022e)
+![활동 내역 인증2](https://github.com/namoo1818/Baekjoon/assets/50236187/bf5651a4-8f05-4e4c-9773-96cc9029ec34)
+
 
 - 리뷰
 
-![KakaoTalk_20240403_233139757_06](/uploads/4f6ab6f5f3fa9acbaab2afe4fbd30034/KakaoTalk_20240403_233139757_06.jpg)
-![KakaoTalk_20240403_233139757_05](/uploads/1c4921b36545906eac0b2a9adee01818/KakaoTalk_20240403_233139757_05.jpg)
+![리뷰1](https://github.com/namoo1818/Baekjoon/assets/50236187/4709ba64-7c8a-4fb7-bca8-c78993c04825)
+![리뷰2](https://github.com/namoo1818/Baekjoon/assets/50236187/016025de-0b4b-4843-aec1-cdaa029da595)
 
 # 🏠 기술 스택
 
@@ -204,7 +206,7 @@ master - develop - feature - backend - 기능
 - 추천에 불필요한 정보 제거 : ex) 공인중개사 주소정보
 - 결측치 제거 : ex) 시군구 주소정보 -> 더미 문자열로
 [결측치가 제거(empty로 padding)된 데이터셋]
-![image-1](/uploads/f2b209f3cebf28bda0dc532df14bc7ae/image-1.png)
+![image-1](https://github.com/namoo1818/Baekjoon/assets/50236187/139242df-0454-4d64-ab16-0c7d085b4e43)
 - 획득 정보들의 자료형 정리 : ex) lat: float, address: str
 
 총 1264개 데이터 수집
@@ -215,7 +217,7 @@ master - develop - feature - backend - 기능
 
 - 코사인 유사도 : 두 벡터간 각도 코사인값을 이용하여 측정된 벡터간의 유사한 정도
 [출처:https://wikidocs.net/24603]
-![image](/uploads/ffc5e9b0152e3cf02baab7cc012cce54/image.png)
+![image](https://github.com/namoo1818/Baekjoon/assets/50236187/8050bbe0-5366-4358-b124-eff69bda5419)
 1. host선호 정보와 member선호 정보의 종류로부터 특성을 정리하고 각각 벡터화
 ```python
 def get_member_vector(member_personality):
@@ -269,20 +271,20 @@ item = db.home.find({'home_no': index[1]}, {'type': 1,
                              })
 ```
 - 최적화 이전<br/>
-  ![최적화이전](/uploads/05139fbce2aba5a30ea64134f52287fb/최적화이전.PNG)
+![최적화이전](https://github.com/namoo1818/Baekjoon/assets/50236187/2ffea411-3b3c-4303-832e-41fa7e5e6d44)
 - 최적화 이후<br/>
-  ![최적화이후](/uploads/dd54a18e21175e1a3da4e8efde1cee80/최적화이후.PNG)
+![최적화이후](https://github.com/namoo1818/Baekjoon/assets/50236187/e4602de6-3d45-47a7-8f9a-7e961fe3903a)
 ### 💡 AWS S3 활용 파일 처리
 - presined url 방식
 
-![s3image](/uploads/ddb7881afcc64b0fd1cff22670a2ae1f/s3image.PNG)
+![s3image](https://github.com/namoo1818/Baekjoon/assets/50236187/fb9e0ce1-2395-498d-9c5d-f1eccace38ab)
 
   - s3에 직접 파일을 업로드/다운로드 하기 위해서는 해당 s3에 대한 접근 권한을 인증해야 합니다.
   - 빅데이터를 다루는 만큼, 대량의 파일처리를 위해서 백엔드 서버에 multipart 형식의 파일을 보내 서버가 직접 업로드/다운로드 하는 방식은 장기적으로 생각했을 때 서버에 부하를 줄 수 있을 것이라 생각해 프로젝트에서 presined url 방식을 사용하게 되었습니다. 
 
 - 문서화
 
-![tfeo-s3](/uploads/7a6f5c12f4c7f28ee34b97f6e8e073ca/tfeo-s3.gif)
+![tfeo-s3](https://github.com/namoo1818/Baekjoon/assets/50236187/c30086b8-8bb2-4691-b613-e107f458494c)
 
 ---
 
